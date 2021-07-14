@@ -1,0 +1,155 @@
+{{ define "content" }}
+
+  {{ $include_dict := dict "Site" .Site "page" . "image" .Site.Data.config.header.background_img }}
+  {{ partial "header.html" $include_dict }}
+
+  <div id="content" class="site-content">
+    <main id="main" class="site-main inner">
+
+      <div class="post-feed, page-feed">
+        {{ $posts := (.Site.GetPage "section" "/posts").Pages }}
+        {{ $posts_count := $posts | len }}
+        {{ if gt $posts_count 0 }}
+          {{ $posts_sorted := $posts.ByDate.Reverse }}
+          {{ range $post := $posts_sorted }}
+          <article class="archive-feed">
+          
+            <article class="article-feed">
+                <header class="post-header">
+                <h2 class="post-title, hr"><a href="{{ $post.URL }}" rel="bookmark">{{ $post.Params.title }}</a></h2>
+                <div class="post-meta, hr">
+                    Published on <time class="published, hr"
+                    datetime="{{ $post.Date | dateFormat "2006-01-02 15:04" }}">{{ $post.Date | dateFormat "January 02, 2006" }}</time>
+                </div>
+                </header><!-- .post-header -->
+                {{ if $post.Params.thumb_img_path }}
+                <a class="post-thumbnail, hr" href="{{ $post.URL }}">
+                <img class="thumbnail, image-feed" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.thumb_img_alt }}" />
+                </a>
+                {{ end }}
+                <div class="post-content, hr">
+                <p>{{ $post.Params.excerpt }}</p>
+                </div><!-- .post-content -->
+                {{ if and (eq $.Params.has_more_link true) $.Params.more_link_text }}
+                <p class="read-more, hr">
+                <a class="read-more-link" href="{{ $post.URL }}">{{ $.Params.more_link_text }} <span class="icon-arrow-right" aria-hidden="true"></span></a>
+                </p>
+                {{ end }}
+            </article><!-- .post -->
+          </article><!-- .archive -->
+          {{ end }}
+        {{ end }}
+      </div><!-- .post-feed -->
+
+
+
+<div class="page-feed">
+  <h1>LATEST NEWS</h1>
+  <div class="archive-feed">
+    <article class="article-feed">1
+      <hr class="image-feed">
+      <hr>
+    </article>
+    <article class="article-feed">2
+      <hr>
+      <hr>
+      <hr>
+      <hr>
+      <hr>
+    </article>
+    <article class="article-feed">3
+      <hr>
+      <hr>
+      <hr>
+    </article>
+    <article class="article-feed">4
+      <hr class="image-feed"><hr>
+      <hr>
+      <hr>
+      <hr>
+      <hr>
+      <hr>
+    </article>
+    <article class="article-feed">5
+      <hr>
+      <hr>
+      <hr>
+    </article>
+    <article class="article-feed">6
+      <hr>
+      <hr>
+      <hr>
+    </article>
+    <article class="article-feed">7
+      <hr>
+      <hr>
+      <hr>
+    </article>
+    <article class="article-feed">8
+      <hr>
+      <hr>
+    </article>
+    <article class="article-feed">9
+      <hr>
+      <hr>
+      <hr>
+    </article>
+    <article class="article-feed">10
+      <hr>
+      <hr>
+    </article>
+    <article class="article-feed">11
+      <hr>
+      <hr>
+      <hr>
+    </article>
+    <article class="article-feed">12
+      <hr class="image-feed"><hr>
+      <hr>
+      <hr>
+    </article>
+    <article class="article-feed">13
+      <hr class="image-feed"><hr>
+      <hr>
+    </article>
+    <article class="article-feed">14
+      <hr>
+      <hr>
+      <hr>
+      <hr>
+      <hr>
+      <hr>
+      <hr>
+      <hr>
+      <hr>
+    </article>
+    <article class="article-feed">15
+      <hr class="image-feed">
+      <hr>
+      <hr>
+      <hr>
+      <hr>
+    </article>
+    <article class="article-feed">16
+      <hr>
+      <hr>
+      <hr>
+      <hr>
+      <hr>
+      <hr>
+    </article>
+    <article class="article-feed">17<hr>
+      <hr>
+      <hr></article>
+  </div>
+</div>
+
+
+
+    </main><!-- .site-main -->
+
+    {{ partial "footer.html" $include_dict }}
+
+  </div><!-- .site-content -->
+
+{{ end }}
