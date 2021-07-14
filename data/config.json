@@ -65,7 +65,7 @@
                 "url": "mailto:sriram10sankar@gmail.com",
                 "style": "icon",
                 "icon_class": "vimeo",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false,
                 "type": "action"
             }
