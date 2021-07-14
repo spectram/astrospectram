@@ -25,6 +25,12 @@ hr.image { /*dummy content*/
 } 
 
 .post-feed {
+  
+  }
+.page-feed {
+  padding: 2em;
+  background: #cecece;
+  max-width: 1100px;
   .post {
     border-bottom: 1px dashed _palette(border);
     padding-bottom: 0.83333em;
@@ -33,11 +39,6 @@ hr.image { /*dummy content*/
       border: 0;
       padding-bottom: 0;
     }
-  }
-.page-feed {
-  padding: 2em;
-  background: #cecece;
-  max-width: 1100px;
 }
 
 .archive-feed {
