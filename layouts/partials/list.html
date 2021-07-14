@@ -1,6 +1,6 @@
 <section class="section nartrow">
     <div id="articlesList" class="articles-list-container show-details">
-        {{ $posts := partialCached "func/GetArticles" . "articles" }}
+        {{ $posts := partialCached "GetArticles" . "articles" }}
         {{ $paginator := .Paginate $posts }}
         {{ $biggerFirst := true }}
         {{ $biggerPlaced := false }}
