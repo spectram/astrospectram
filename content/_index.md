@@ -18,10 +18,6 @@ seo:
     - name: 'og:description'
       value: The preview of the Fjord theme
       keyName: property
-    - name: 'og:image'
-      value: images/home.jpg
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
