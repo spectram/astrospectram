@@ -12,9 +12,6 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:title'
-      value: Stackbit Fjord Theme
-      keyName: property
     - name: 'og:description'
       value: The preview of the Fjord theme
       keyName: property
