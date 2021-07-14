@@ -24,6 +24,16 @@ hr.image { /*dummy content*/
   padding-bottom: 50%;
 } 
 
+.post-feed {
+  .post {
+    border-bottom: 1px dashed _palette(border);
+    padding-bottom: 0.83333em;
+
+    &:last-child {
+      border: 0;
+      padding-bottom: 0;
+    }
+  }
 .page-feed {
   padding: 2em;
   background: #cecece;
