@@ -25,14 +25,9 @@ hr.image { /*dummy content*/
 } 
 
 .page-feed {
-    .post {
-    border-bottom: 1px dashed _palette(border);
-    padding-bottom: 0.83333em;
-
-    &:last-child {
-      border: 0;
-      padding-bottom: 0;
-    }
+  padding: 2em;
+  background: #cecece;
+  max-width: 1100px;
 }
 
 .archive-feed {
