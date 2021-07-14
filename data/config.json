@@ -64,7 +64,7 @@
                 "label": "Mail",
                 "url": "#",
                 "style": "icon",
-                "icon_class": "dev",
+                "icon_class": "vimeo",
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
