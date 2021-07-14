@@ -61,7 +61,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Mail",
                 "url": "#",
                 "style": "link",
                 "icon_class": "dev",
