@@ -12,7 +12,7 @@
           - Page (.)
 
   @example - Go Template
-    {{ $articles := partialCached "func/GetArticles" . "articles" }}
+    {{ $articles := partialCached "GetArticles" . "articles" }}
 */}}
 {{ $articles := slice }}
 {{ with where site.RegularPages "Type" "post" }}
