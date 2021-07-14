@@ -16,8 +16,6 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: I tweet sometimes
-    - name: 'twitter:description'
-      value: The preview of the Fjord theme
     - name: 'twitter:image'
       value: images/home.jpg
       relativeUrl: true
