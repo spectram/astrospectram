@@ -30,7 +30,7 @@
                 <p>{{ $post.Params.excerpt }}</p>
                 </div><!-- .post-content -->
                 {{ if and (eq $.Params.has_more_link true) $.Params.more_link_text }}
-                <p class="read-more">
+                <p class="read-more, hr">
                 <a class="read-more-link" href="{{ $post.URL }}">{{ $.Params.more_link_text }} <span class="icon-arrow-right" aria-hidden="true"></span></a>
                 </p>
                 {{ end }}
