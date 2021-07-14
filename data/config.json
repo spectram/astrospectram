@@ -31,7 +31,7 @@
             },
             {
                 "label": "Contact",
-                "url": "//about",
+                "url": "/about",
                 "style": "link"
             }
         ],
