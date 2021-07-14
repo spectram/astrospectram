@@ -4,7 +4,10 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: Sriram Sankar's Portfolio
-  description: The preview of the Fjord theme
+  description: >-
+
+    Walk into the forest of thoughts, take all that you can carry into the realm
+    of man. 
   extra:
     - name: 'og:type'
       value: website
