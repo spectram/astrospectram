@@ -18,7 +18,7 @@
               datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "January 02, 2006" }}</time>
             </div>
         </header><!-- .post-header -->
-        <article class="post-content">
+        <article>
             {{ $catg:= .Params.categories }}
             <a style="padding: 0em 0em 1em 0em;" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ $catg }}</a>
         </article>
