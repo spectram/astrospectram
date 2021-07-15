@@ -20,7 +20,7 @@
         </header><!-- .post-header -->
         <article class="post-content">
             {{ $catg:= .Params.categories }}
-            <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ $catg }}</a>
+            <a paddinghref="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ $catg }}</a>
         </article>
         {{ if .Params.subtitle }}
         <div class="post-subtitle">
