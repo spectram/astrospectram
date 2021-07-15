@@ -15,7 +15,7 @@
             {{ range $post := $posts_sorted }}
                       
                 <article class="article-feed">
-                    <header class="post-header, hr">
+                    <header class="post-header">
                     <h2 class="post-title, hr"><a href="{{ $post.URL }}" rel="bookmark">{{ $post.Params.title }}</a></h2>
                     <div class="post-meta, hr">
                         Published on <time class="published, hr"
