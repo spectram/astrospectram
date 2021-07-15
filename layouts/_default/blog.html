@@ -7,6 +7,7 @@
     <main id="main" class="site-main inner">
 
       <div class="post-feed, page-feed">
+        <article class="archive-feed">
         {{ $posts := (.Site.GetPage "section" "/posts").Pages }}
         {{ $posts_count := $posts | len }}
         {{ if gt $posts_count 0 }}
