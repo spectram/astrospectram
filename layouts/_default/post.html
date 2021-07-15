@@ -16,12 +16,7 @@
           <div class="post-meta">
             Published on <time class="published"
               datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "January 02, 2006" }}</time>
-            <ul id="categories">
-                {{ range .Params.categories }}
-                    <li><a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
-                {{ end }}
-            </ul>
-
+               <li><a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
           </div>
         </header><!-- .post-header -->
         {{ if .Params.subtitle }}
