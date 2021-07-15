@@ -2,6 +2,8 @@ title: Stackbit Fjord Theme
 baseURL: /
 taxonomies:
   stub: stub
+  category: categories
+  tag: tags
 disableKinds:
   - RSS
 markup:
