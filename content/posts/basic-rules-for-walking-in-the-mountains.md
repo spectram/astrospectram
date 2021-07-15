@@ -1,5 +1,6 @@
 ---
-categories: Projects
+categories: 
+- Projects
 title: Basic Rules For Walking In The Mountains
 excerpt: >-
   Hiking is sometimes referred to as such. This specifically refers to difficult
