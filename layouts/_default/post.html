@@ -21,6 +21,7 @@
         <div>
             {{ $catg:= .Params.categories }}
             <a class="published" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ $catg }}</a>
+        
         {{ if .Params.subtitle }}
         <div class="post-subtitle">
           {{ $.Params.subtitle | safeHTML }}
