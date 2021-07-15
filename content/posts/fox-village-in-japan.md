@@ -1,4 +1,6 @@
 ---
+categories: 
+- Projects
 title: Fox Village In Japan
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
