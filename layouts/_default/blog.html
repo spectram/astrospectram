@@ -27,7 +27,7 @@
                     <img class="thumbnail, image-feed" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.thumb_img_alt }}" />
                     </a>
                     {{ end }}
-                    <div class="post-content">
+                    <div class="post-content, hr">
                     <p>{{ $post.Params.excerpt }}</p>
                     </div><!-- .post-content -->
                     {{ if and (eq $.Params.has_more_link true) $.Params.more_link_text }}
