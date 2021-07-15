@@ -18,10 +18,10 @@
               datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "January 02, 2006" }}</time>
             </div>
         </header><!-- .post-header -->
-        <div>
+        <article class="published">
             {{ $catg:= .Params.categories }}
             <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ $catg }}</a>
-        </div>
+        </article>
         {{ if .Params.subtitle }}
         <div class="post-subtitle">
           {{ $.Params.subtitle | safeHTML }}
