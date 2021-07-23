@@ -62,7 +62,7 @@
             },
             {
                 "label": "Mail",
-                "url": "mailto:sriram@saao.ac.za?subject=Title",
+                "url": "https://mailto:sriram@saao.ac.za?subject=Title",
                 "style": "icon",
                 "icon_class": "vimeo",
                 "new_window": true,
