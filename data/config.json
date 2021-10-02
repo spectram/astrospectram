@@ -59,15 +59,6 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
-            },
-            {
-                "label": "Mail",
-                "url": "mailto:sriram@saao.ac.za",
-                "style": "link",
-                "icon_class": "vimeo",
-                "new_window": true,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
