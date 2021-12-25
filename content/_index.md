@@ -3,7 +3,7 @@ title: About Me
 subtitle: This is a short page about me and my work
 img_path: images/about.jpg
 seo:
- title: Sriram Sankar's Portfolio
+  title: Sriram Sankar's Portfolio
   description: >-
     Engineer turned astronomer who writes poetry and fights for climate action.
     Walk into his forest of thoughts, take all that you can carry into the realm
@@ -12,27 +12,16 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:title'
-      value: About Me
-      keyName: property
-    - name: 'og:description'
-      value: A page about me and my work
-      keyName: property
-    - name: 'og:image'
-      value: images/about.jpg
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Me
-    - name: 'twitter:description'
-      value: A page about me and my work
+      value: I tweet sometimes
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: images/home.jpg
       relativeUrl: true
-layout: page
+layout: home
 ---
+
 
 **John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
 
