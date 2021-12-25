@@ -5,15 +5,10 @@
         "title": "Sriram Sankar",
         "tagline": "Walk into the forest of thoughts, take all that you can carry into the realm of man.",
         "logo_img": "images/logo.svg",
-        "logo_img_alt": "Fjord Logo",
+        "logo_img_alt": "Sriram Sankar",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
         "nav_links": [
-            {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
             {
                 "label": "Research",
                 "url": "/style-guide",
@@ -26,12 +21,12 @@
             },
             {
                 "label": "Projects",
-                "url": "/",
+                "url": "/thoughts",
                 "style": "link"
             },
             {
                 "label": "Contact",
-                "url": "/contact",
+                "url": "/projects",
                 "style": "link"
             }
         ],
@@ -57,15 +52,6 @@
                 "style": "icon",
                 "icon_class": "facebook",
                 "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
-                "label": "Mail",
-                "url": "mailto:sriram10sankar@gmail.com",
-                "style": "icon",
-                "icon_class": "vimeo",
-                "new_window": true,
                 "no_follow": false,
                 "type": "action"
             }
