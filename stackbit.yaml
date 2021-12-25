@@ -218,7 +218,7 @@ models:
   home:
     type: page
     urlPath: /
-    label: Home
+    label: About Me
     layout: page
     file: _index.md
     hideContent: true
