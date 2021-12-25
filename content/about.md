@@ -3,7 +3,7 @@ title: About Me
 subtitle: This is a short page about me and my work
 img_path: images/about.jpg
 seo:
-   extra:
+  extra:
     - name: 'og:type'
       value: website
       keyName: property
