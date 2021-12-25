@@ -219,7 +219,7 @@ models:
     type: page
     urlPath: /
     label: Home
-    layout: home
+    layout: page
     file: _index.md
     hideContent: true
     singleInstance: true
