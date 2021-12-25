@@ -218,8 +218,8 @@ models:
   home:
     type: page
     urlPath: /
-    label: About Me
-    layout: page
+    label: Home
+    layout: home
     file: _index.md
     hideContent: true
     singleInstance: true
