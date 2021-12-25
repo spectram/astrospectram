@@ -3,11 +3,8 @@ title: About Me
 subtitle: This is a short page about me and my work
 img_path: images/about.jpg
 seo:
- title: Sriram Sankar's Portfolio
-  description: >-
-    Engineer turned astronomer who writes poetry and fights for climate action.
-    Walk into his forest of thoughts, take all that you can carry into the realm
-    of man. 
+  title: About Me
+  description: A page about me and my work
   extra:
     - name: 'og:type'
       value: website
