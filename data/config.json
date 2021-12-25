@@ -11,22 +11,22 @@
         "nav_links": [
             {
                 "label": "Research",
-                "url": "/style-guide",
+                "url": "/research",
                 "style": "link"
             },
             {
                 "label": "Thoughts",
-                "url": "/",
-                "style": "link"
-            },
-            {
-                "label": "Projects",
                 "url": "/thoughts",
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "Projects",
                 "url": "/projects",
+                "style": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact",
                 "style": "link"
             }
         ],
