@@ -1,7 +1,7 @@
 ---
-title: Home
-has_more_link: true
-more_link_text: Keep reading
+title: About Me
+subtitle: This is a short page about me and my work
+img_path: images/about.jpg
 seo:
   title: Sriram Sankar's Portfolio
   description: >-
