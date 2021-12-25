@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:image'
       value: images/home.jpg
       relativeUrl: true
-layout: home
+layout: page
 ---
 
 
