@@ -67,4 +67,20 @@ South African Astronomical Observatory (SAAO) | University of Cape Town (UCT),
 Cape Town, South Africa  
 sriram (at) saao.ac.za 
 
+<table>
+  <caption>Simple table with caption and header</caption>
+  <tr>
+    <th>First name</th>
+    <th>Last name</th>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+  </tr>
+  <tr>
+    <td>Jane</td>
+    <td>Doe</td>
+  </tr>
+</table>
+
 To get in touch fill the form below.
