@@ -78,7 +78,7 @@ sriram (at) saao.ac.za
     <td>Department of Astronomy</td>
   </tr>
   <tr>
-    <td>Jane</td>
+    <td>sriram</td>
     <td>Doe</td>
   </tr>
 </table>
