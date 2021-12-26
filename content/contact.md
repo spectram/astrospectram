@@ -64,6 +64,6 @@ layout: contact
 Sriram Sankar  
 South African Astronomical Observatory,  
 Observatory, Cape Town, South Africa  
-sriram (at) saao.ac.za
+sriram (at) saao.ac.za  
 
 To get in touch fill the form below.
