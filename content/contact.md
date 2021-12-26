@@ -66,6 +66,6 @@ South African Astronomical Observatory,
 Observatory, Cape Town, South Africa  
 sriram (at) saao.ac.za  
 
-Mas
+Mast
 
 To get in touch fill the form below.
