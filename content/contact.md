@@ -67,6 +67,6 @@ Observatory, Cape Town, South Africa
 sriram (at) saao.ac.za  
 
 Master's student  
-Department of 
+Department of AStronomy
 
 To get in touch fill the form below.
