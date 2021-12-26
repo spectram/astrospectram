@@ -61,7 +61,7 @@ seo:
 layout: contact
 ---
 
->#### Sriram Sankar  
+#### Sriram Sankar  
 Astronomy Research MSc Student  
 South African Astronomical Observatory (SAAO) | University of Cape Town (UCT),  
 Cape Town, South Africa  
