@@ -68,6 +68,6 @@ sriram (at) saao.ac.za
 
 Research MSc student  
 Department of Astronomy,  
-University of Cape Town
+University of Cape Town (UCT)
 
 To get in touch fill the form below.
