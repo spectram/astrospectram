@@ -62,7 +62,7 @@ layout: contact
 ---
 
 #### Sriram Sankar  
-South African Astronomical Observatory,  
+South African Astronomical Observatory (SAAO),  
 Cape Town, South Africa  
 sriram (at) saao.ac.za  
 
