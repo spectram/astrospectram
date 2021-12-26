@@ -68,7 +68,6 @@ Cape Town, South Africa
 sriram (at) saao.ac.za 
 
 <table>
-  <caption>Affiliation</caption>
   <tr>
     <th>South African Astronomical Observatory (SAAO)</th>
     <th>University of Cape Town (UCT)</th>
