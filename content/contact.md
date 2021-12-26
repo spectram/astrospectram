@@ -78,7 +78,7 @@ sriram (at) saao.ac.za
   </tr>
   <tr>
     <td>Observatory, Cape Town, South Africa</td>
-    <td></td>
+    <td>Rondebosch, Cape Town, South Africa</td>
   </tr>
   <tr>
     <td>sriram (at) saao.ac.za</td>
