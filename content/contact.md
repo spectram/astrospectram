@@ -75,8 +75,7 @@ layout: contact
     <td>Rondebosch, Cape Town, South Africa</td>
   </tr>
   <tr>
-    <td>sriram (at) saao.ac.za</td>
-    <td></td>
+    <sriram (at) saao.ac.za    
   </tr>
 </table>
 
