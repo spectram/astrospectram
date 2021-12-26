@@ -74,7 +74,7 @@ sriram (at) saao.ac.za
     <th>University of Cape Town (UCT)</th>
   </tr>
   <tr>
-    <td>John</td>
+    <td>C</td>
     <td>Doe</td>
   </tr>
   <tr>
