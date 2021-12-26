@@ -66,6 +66,7 @@ South African Astronomical Observatory,
 Observatory, Cape Town, South Africa  
 sriram (at) saao.ac.za  
 
-Master's student 
+Master's student  
+Department of 
 
 To get in touch fill the form below.
