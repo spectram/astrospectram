@@ -66,7 +66,6 @@ South African Astronomical Observatory (SAAO),
 Cape Town, South Africa  
 sriram (at) saao.ac.za  
 
-Research MSc student  
 Department of Astronomy,  
 University of Cape Town (UCT)
 
