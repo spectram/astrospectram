@@ -78,7 +78,7 @@ sriram (at) saao.ac.za
     <td>Department of Astronomy</td>
   </tr>
   <tr>
-    <td>sriram</td>
+    <td>sriram (at) saao.ac.za</td>
     <td>Doe</td>
   </tr>
 </table>
