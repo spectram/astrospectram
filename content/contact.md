@@ -68,7 +68,7 @@ Cape Town, South Africa
 sriram (at) saao.ac.za 
 
 <table>
-  <caption>Simple table with caption and header</caption>
+  <caption>Affiliation</caption>
   <tr>
     <th>First name</th>
     <th>Last name</th>
