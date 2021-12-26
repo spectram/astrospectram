@@ -71,7 +71,7 @@ sriram (at) saao.ac.za
   <caption>Affiliation</caption>
   <tr>
     <th>South African Astronomical Observatory</th>
-    <th>university of Cape Town</th>
+    <th>University of Cape Town</th>
   </tr>
   <tr>
     <td>John</td>
