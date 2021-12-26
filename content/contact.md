@@ -76,4 +76,4 @@ layout: contact
   </tr>
 </table>
 
-To get in touch fill the form below.
+You can also fill the form below.
