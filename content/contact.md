@@ -70,7 +70,7 @@ sriram (at) saao.ac.za
 <table>
   <caption>Affiliation</caption>
   <tr>
-    <th>First name</th>
+    <th>South African Astronomical Observatory</th>
     <th>Last name</th>
   </tr>
   <tr>
