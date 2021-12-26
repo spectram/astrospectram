@@ -78,7 +78,7 @@ sriram (at) saao.ac.za
   </tr>
   <tr>
     <td>sriram (at) saao.ac.za</td>
-    <td>Doe</td>
+    <td>Rondebosch</td>
   </tr>
 </table>
 
