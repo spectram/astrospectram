@@ -62,6 +62,8 @@ layout: contact
 ---
 
 #### Sriram Sankar  
+Research MSc student  
+
 South African Astronomical Observatory (SAAO),  
 Cape Town, South Africa  
 sriram (at) saao.ac.za  
