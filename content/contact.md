@@ -70,7 +70,7 @@ sriram (at) saao.ac.za
 <table>
   <tr>
     <th>South African Astronomical Observatory (SAAO)</th>
-    <th>University of Cape Town (UCT)</th>
+    <th>Department of Astronomy, University of Cape Town (UCT)</th>
   </tr>
   <tr>
     <td>SALT-SAAO Prize Fellow 2021</td>
