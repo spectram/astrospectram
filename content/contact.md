@@ -1,5 +1,5 @@
 ---
-title: Get in Touch with 
+title: Get in Tou
 img_path: images/contact.jpg
 form_id: contactForm
 form_action: /success
