@@ -75,7 +75,7 @@ sriram (at) saao.ac.za
   </tr>
   <tr>
     <td>Observatory, Cape Town, South Africa</td>
-    <td>Doe</td>
+    <td>Department of Astronomy</td>
   </tr>
   <tr>
     <td>Jane</td>
