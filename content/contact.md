@@ -61,8 +61,6 @@ seo:
 layout: contact
 ---
 
-#### Sriram Sankar  
-
 <table>
   <tr>
     <th>South African Astronomical Observatory (SAAO)</th>
