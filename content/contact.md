@@ -62,7 +62,7 @@ layout: contact
 ---
 
 #### Sriram Sankar  
->Astronomy Research MSc Student  
+>Astronomy Research MSc Student 2023 
 South African Astronomical Observatory (SAAO) | University of Cape Town (UCT),  
 Cape Town, South Africa  
 sriram (at) saao.ac.za 
