@@ -62,6 +62,6 @@ layout: contact
 ---
 
 Sriram Sankar
-sriram 
+sriram
 
 To get in touch fill the form below.
