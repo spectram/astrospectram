@@ -74,7 +74,7 @@ sriram (at) saao.ac.za
   </tr>
   <tr>
     <td>Observatory, Cape Town, South Africa</td>
-    <td>Department of Astronomy</td>
+    <td>Astronomy Research MSc Student 2023</td>
   </tr>
   <tr>
     <td>Observatory, Cape Town, South Africa</td>
