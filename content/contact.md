@@ -74,7 +74,7 @@ sriram (at) saao.ac.za
     <th>University of Cape Town (UCT)</th>
   </tr>
   <tr>
-    <td>C</td>
+    <td>Observatory, Cape Town</td>
     <td>Doe</td>
   </tr>
   <tr>
