@@ -65,6 +65,6 @@ layout: contact
 >"Astronomy Research MSc Student  
 South African Astronomical Observatory (SAAO) | University of Cape Town (UCT),  
 Cape Town, South Africa  
-sriram (at) saao.ac.za  
+sriram (at) saao.ac.za  "
 
 To get in touch fill the form below.
