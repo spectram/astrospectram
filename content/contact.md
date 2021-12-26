@@ -62,6 +62,6 @@ layout: contact
 ---
 
 Sriram Sankar
-sriram
+sriram@saoo.ac.za
 
 To get in touch fill the form below.
