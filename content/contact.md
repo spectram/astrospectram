@@ -78,7 +78,7 @@ sriram (at) saao.ac.za
   </tr>
   <tr>
     <td>sriram (at) saao.ac.za</td>
-    <td>Rondebosch</td>
+    <td>Rondebosch, Cape Town, South Africa</td>
   </tr>
 </table>
 
