@@ -67,7 +67,7 @@ Observatory, Cape Town, South Africa
 sriram (at) saao.ac.za  
 
 Research MSc student  
-Department of AStronomy,
-U
+Department of Astronomy,
+University of Cape Town
 
 To get in touch fill the form below.
