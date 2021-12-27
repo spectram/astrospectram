@@ -6,7 +6,7 @@ subtitle: >-
   and styles for your content.
 img_path: images/research-bg.jpg
 seo:
-  title: My
+  title: My Research
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
