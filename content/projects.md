@@ -3,7 +3,7 @@ title: Side Projects
 subtitle: These are some of the side projects that I've taken up over the years.
 img_path: images/projects-bg.jpg
 seo:
-  title: ''
+  title: Side Projects
   description: ''
   robots: []
   extra:
