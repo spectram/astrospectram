@@ -14,7 +14,7 @@ seo:
       value: Side Projects
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: These are some of the side projects that I've 
       keyName: property
     - name: 'og:image'
       value: images/contact.jpg
