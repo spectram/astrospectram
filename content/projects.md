@@ -4,7 +4,7 @@ subtitle: These are some of the side projects that I've taken up over the years.
 img_path: images/projects-bg.jpg
 seo:
   title: Side Projects
-  description: ''
+  description: These are some of the side projects that I've taken up over the years.
   robots: []
   extra:
     - name: 'og:type'
