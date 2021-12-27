@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 subtitle: lorem-ipsum
-img_path: images/thought-bg.jpg
+img_path: images/thoughts-bg.jpg
 seo:
   title: ''
   description: ''
