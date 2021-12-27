@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Side Projects
 subtitle: lorem-ipsum
 img_path: images/projects-bg.jpg
 seo:
