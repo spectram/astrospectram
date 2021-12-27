@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Thoughts
 subtitle: lorem-ipsum
 img_path: images/thoughts-bg.jpg
 seo:
