@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: Sriram's side projects
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Sriram's side projects
     - name: 'twitter:image'
       value: images/contact.jpg
       relativeUrl: true
