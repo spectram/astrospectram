@@ -11,7 +11,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: P
+      value: Side Projects
       keyName: property
     - name: 'og:description'
       value: This is the contact page
