@@ -14,7 +14,7 @@ seo:
       value: Side Projects
       keyName: property
     - name: 'og:description'
-      value: These are some of the side projects that I've 
+      value: These are some of the side projects that I've taken up over the years.
       keyName: property
     - name: 'og:image'
       value: images/contact.jpg
