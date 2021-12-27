@@ -23,7 +23,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Get in Touch
+      value: Sriram's side projects
     - name: 'twitter:description'
       value: This is the contact page
     - name: 'twitter:image'
