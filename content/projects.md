@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: Sriram's side projects
     - name: 'twitter:image'
-      value: images/contact.jpg
+      value: images/projects-bg.jpg
       relativeUrl: true
 layout: projects
 ---
