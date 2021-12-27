@@ -17,7 +17,7 @@ seo:
       value: These are some of the side projects that I've taken up over the years.
       keyName: property
     - name: 'og:image'
-      value: images/contact.jpg
+      value: images/projects-bg.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
