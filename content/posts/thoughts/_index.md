@@ -31,5 +31,5 @@ seo:
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
-layout: page
+layout: blog
 ---
