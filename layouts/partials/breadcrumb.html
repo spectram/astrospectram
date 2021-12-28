@@ -11,7 +11,8 @@
 {{ end }}
 
 {{ if not (or .p1.IsHome .p2.IsHome) }}
-{{ if eq .p1 .p2 }} {{ end }} >>
+{{ if eq .p1 .p2 }} 
+{{ end }} >>
 <a href="{{ .p1.Permalink }}">{{ .p1.Title }}</a>
 {{ end }}
 {{ end }}
