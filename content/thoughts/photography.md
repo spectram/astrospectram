@@ -1,5 +1,4 @@
 ---
-thoughts: ["Poetry"]
 title: What Is Photography and What It Means To Me
 subtitle: A intresting tale about Photography and me
 excerpt: >-
