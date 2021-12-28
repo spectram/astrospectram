@@ -1,5 +1,5 @@
 ---
-categories: [""]
+categories: ["Projects"]
 - Projects
 title: Basic Rules For Walking In The Mountains
 excerpt: >-
