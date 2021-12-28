@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Some Thoughts
 has_more_link: true
 more_link_text: Keep reading
 seo:
