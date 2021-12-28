@@ -10,7 +10,7 @@
 {{ template "breadcrumbnav" (dict "p1" .p1.Site.Home "p2" .p2 )  }}
 {{ end }}
 
-{{ if not (.p1.IsHome p2.IsHome)}}
+{{ if not (.p1.IsHome .p2.IsHome)}}
 {{ if eq .p1 .p2 }} {{ end }} >>
 <a href="{{ .p1.Permalink }}">{{ .p1.Title }}</a>
 {{ end }}
