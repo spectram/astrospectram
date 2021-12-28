@@ -19,6 +19,7 @@
             </div>
         </header><!-- .post-header -->
             {{ partial "header.html" $include_dict }}
+            
         {{ if .Params.subtitle }}
         <div class="post-subtitle">
           {{ $.Params.subtitle | safeHTML }}
