@@ -1,8 +1,8 @@
 title: Sriram Sankar's Portfolio
 baseURL: /
 taxonomies:
-  stub: stub
-  category: categories
+  category: "categories"
+  tag: "tags"
 disableKinds:
   - RSS
 markup:
