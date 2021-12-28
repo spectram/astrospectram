@@ -1,5 +1,4 @@
 ---
-thoughts: ["Poetry"]
 title: My Way to Relax in Nature and Stress Less
 subtitle: >-
   The way I spend time out in nature can affect how much my physical and mental
