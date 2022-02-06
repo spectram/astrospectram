@@ -37,7 +37,7 @@ I am a Master’s student at the [Department of Astronomy, University of Cape To
 
 Prior to this, I worked with Prof. Anand Narayanan at the Indian Institute of Space Science and Technology (IIST, Kerala, India) to study the extended gaseous environment of galaxies using QSO absorption line spectroscopy using archival data from the Hubble Space Telescope (HST) and Keck Observatory ([Pradeep, Sankar, et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493..250P/abstract), [Sankar et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.4864S/abstract), [Sameer et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.5796S/abstract)).
 
-My diverse background and unorthodox path has gifted me with an eclectic set of skills and interests that range from poetry to  
+My diverse background and unorthodox path has gifted me with an eclectic set of skills and interests that range from poetry to programming 
 Aside from astronomy research, I also enjoy reading philosophical novels, binging on anime and sci-fi shows', outdoor activities such as gardening and hiking, volunteering for causes and activities, exploring open-source codes and latest technologies etc. I spend a lot of time thinking about and working on climate action through personal lifestyle choices and pushing for systemic changes in my immediate environment. 
 
 Hi There, welcome to my little creative repository on the internet. That’s right! you are looking at a JAMSTACK website hosted on my github profile and deployed through Netlify. I had some help from Stackbit during development. The next item on the agenda is to incorporate a headless CMS into the mix (I am thinking NetlifyCMS).
