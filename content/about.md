@@ -33,7 +33,7 @@ layout: page
 
 I am a Master’s student at the Department of Astronomy, University of Cape Town (UCT) based at and funded by the South African Astronomical Observatory (SAAO) through the SALT-SAAO Prize MSc Fellowship 2021. My supervisors are Dr. Moses Mogotsi and Prof. Matthew Bershady. For my thesis on the synergy between galaxy and group evolution traced by the baryon cycle, I make use of data from MeerKAT and SALT to study multiphase gas in and around galaxies in two low-z groups. 
 
-Prior to this, I worked with Prof. Anand Narayanan at the Indian Institute of Space Science and Technology (IIST, Kerala, India) to study the extended gaseous environment of galaxies using QSO absorption line spectroscopy using archival data from the Hubble Space Telescope (HST) and Keck Observatory (Pradeep+2020, Sankar+2020, Sameer+2022).
+Prior to this, I worked with Prof. Anand Narayanan at the Indian Institute of Space Science and Technology (IIST, Kerala, India) to study the extended gaseous environment of galaxies using QSO absorption line spectroscopy using archival data from the Hubble Space Telescope (HST) and Keck Observatory ([Pradeep+2020, Sankar+2020, Sameer+2022).
 
 **John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
 
