@@ -34,7 +34,7 @@ layout: page
 
 Here i will write about my broad research intersts.
 
-I am a Master’s student at the [Department of Astronomy, University of Cape Town (UCT)](http://www.ast.uct.ac.za/) based at and funded by the [South African Astronomical Observatory (SAAO)](https://www.saao.ac.za/) through the SALT-SAAO Prize MSc Fellowship 2021. My supervisors are Dr. Moses Mogotsi and Prof. Matthew Bershady. For my thesis on the synergy between galaxy and group evolution traced by the baryon cycle, I make use of radio data from MeerKAT and spectrosco SALT to study multiphase gas in and around galaxies in two low-z groups. 
+I am a Master’s student at the [Department of Astronomy, University of Cape Town (UCT)](http://www.ast.uct.ac.za/) based at and funded by the [South African Astronomical Observatory (SAAO)](https://www.saao.ac.za/) through the SALT-SAAO Prize MSc Fellowship 2021. My supervisors are Dr. Moses Mogotsi and Prof. Matthew Bershady. For my thesis on the synergy between galaxy and group evolution traced by the baryon cycle, I make use of radio data from MeerKAT and spectroscopic  SALT to study multiphase gas in and around galaxies in two low-z groups. 
 
 Prior to this, I worked with Prof. Anand Narayanan at the Indian Institute of Space Science and Technology (IIST, Kerala, India) to study the extended gaseous environment of galaxies using QSO absorption line spectroscopy using archival data from the Hubble Space Telescope (HST) and Keck Observatory ([Pradeep, Sankar, et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493..250P/abstract), [Sankar et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.4864S/abstract), [Sameer et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.5796S/abstract)).
 
