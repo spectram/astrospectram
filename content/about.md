@@ -38,6 +38,6 @@ Prior to this, I worked with Prof. Anand Narayanan at the Indian Institute of Sp
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-Outside of astronomy research, I enjoy reading, gardening, hiking, writing
+Outside of astronomy, I 
 
 *Thank You for reading!*
