@@ -39,6 +39,6 @@ Prior to this, I worked with Prof. Anand Narayanan at the Indian Institute of Sp
 
 Aside from astronomy research, I also enjoy reading philosophical novels, binging on anime and sci-fi shows', outdoor activities such as gardening and hiking, volunteering for causes and activities, etc. I spend a lot of time thinking about and working on climate action through personal lifestyle choices and pushing for systemic changes in my immediate environment. 
 
-
+Hi There, welcome to my little creative repository on the internet. That’s right! you are looking at a JAMSTACK website hosted on my github profile and deployed through Netlify. I had some help from Stackbit during development. The next item on the agenda is to incorporate a headless CMS into the mix (I am thinking NetlifyCMS).
 
 *Thank You for visiting! Hope you enjoy your stay!*
