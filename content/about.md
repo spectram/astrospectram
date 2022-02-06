@@ -38,6 +38,6 @@ Prior to this, I worked with Prof. Anand Narayanan at the Indian Institute of Sp
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-Aside from astronomy research, I also enjoy reading philosophical novels, binging on anime and sci-fi series', outdoor activities such as gardening and hiking
+Aside from astronomy research, I also enjoy reading philosophical novels, binging on anime and sci-fi shows', outdoor activities such as gardening and hiking
 
 *Thank You for reading!*
