@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Hello World!"
 has_more_link: true
 more_link_text: Find out more
 seo:
