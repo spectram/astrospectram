@@ -5,8 +5,7 @@ more_link_text: Find out more
 seo:
   title: Sriram Sankar
   description: >-
-    Walk into his forest of thoughts, take all that you can carry into the realm
-    of man. 
+    Just another sentient assembly of certain fermions drifting through the cosmos ceaselessly nudged and tugged by both colossal and tellurian forces. 
   extra:
     - name: 'og:type'
       value: website
