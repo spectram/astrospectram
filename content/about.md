@@ -38,6 +38,6 @@ Prior to this, I worked with Prof. Anand Narayanan at the Indian Institute of Sp
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-When I am not trying to tackle research 
+When I am not trying to tackle research quandaries, 
 
 *Thank You for reading!*
