@@ -1,7 +1,7 @@
 ---
 title: "Home"
 has_more_link: true
-more_link_text: Keep reading
+more_link_text: Find out more
 seo:
   title: Sriram Sankar's Portfolio
   description: >-
