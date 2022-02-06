@@ -31,7 +31,7 @@ seo:
 layout: page
 ---
 
-Just another sentient assembly of certain fermions drifting through the cosmos ceaselessly nudged and tugged by both colossal and tellurian forces. 
+
 
 **John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
 
