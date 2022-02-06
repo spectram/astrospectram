@@ -40,4 +40,6 @@ Aside from astronomy research, I also enjoy reading philosophical novels, bingin
 
 I spend a lot of time thinking about and working on climate action through personal lifestyle choices and challenging the immediate status quo. 
 
+>The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+
 *Thank You for reading!*
