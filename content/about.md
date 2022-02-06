@@ -31,7 +31,7 @@ seo:
 layout: page
 ---
 
-Here i will write about my broad research intersts
+Here i will write about my broad research intersts.
 
 I am a Master’s student at the [Department of Astronomy, University of Cape Town (UCT)](http://www.ast.uct.ac.za/) based at and funded by the [South African Astronomical Observatory (SAAO)](https://www.saao.ac.za/) through the SALT-SAAO Prize MSc Fellowship 2021. My supervisors are Dr. Moses Mogotsi and Prof. Matthew Bershady. For my thesis on the synergy between galaxy and group evolution traced by the baryon cycle, I make use of data from MeerKAT and SALT to study multiphase gas in and around galaxies in two low-z groups. 
 
