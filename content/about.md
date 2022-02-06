@@ -39,4 +39,6 @@ Prior to this, I worked with Prof. Anand Narayanan at the Indian Institute of Sp
 
 Aside from astronomy research, I also enjoy reading philosophical novels, binging on anime and sci-fi shows', outdoor activities such as gardening and hiking, volunteering for causes and activities, etc. I spend a lot of time thinking about and working on climate action through personal lifestyle choices and pushing for systemic changes in my immediate environment. 
 
+
+
 *Thank You for visiting! Hope you enjoy your stay!*
