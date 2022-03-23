@@ -5,7 +5,7 @@ subtitle: >-
   The style guide is also a great reference for suggested typographic treatment
   and styles for your content.
 img_path: images/research-bg.jpg
-tagline: 
+tagline: Trying something
 seo:
   title: Research Overview
   description: A reference for suggested typographic treatment and styles for your content
