@@ -1,7 +1,7 @@
 ---
 title: Get in Touch
 img_path: images/contact-bg.jpg
-tagline:
+tagline: 
 form_id: contactForm
 form_action: /success
 form_fields:
