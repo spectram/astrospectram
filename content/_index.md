@@ -32,7 +32,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Here I will write about my broad research interests.
+I am currently working on understanding the confluence of galaxy evolution and group evolution by studying the multiphase baryon cycle in three groups with varying levels of tidal interactions, using MeerKAT and SALT. 
 
 I am a Master’s candidate at the [Department of Astronomy, University of Cape Town (UCT)](http://www.ast.uct.ac.za/) based at and funded by the [South African Astronomical Observatory (SAAO)](https://www.saao.ac.za/) through the SALT-SAAO Prize MSc Fellowship 2021. My supervisors are Dr. Moses Mogotsi and Prof. Matthew Bershady. 
 
