@@ -3,7 +3,7 @@
   {{ if eq .Params.hide_header true }}
     {{ partial "header_alt.html" . }}
   {{ else }}
-    {{ $include_dict := dict "Site" $.Site "page" $ "image" $.Params.content_img_path }}
+    {{ $include_dict := dict "Site" $.Site "page" $ "image" $.Params.content_img_path "tagline" .Params.tagline }}
     {{ partial "header.html" $include_dict }}
   {{ end }}
 
