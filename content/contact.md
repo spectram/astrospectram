@@ -76,4 +76,4 @@ layout: contact
   </tr>
 </table>
 
-You can also fill the form below to get in touch. The form has been made with Netlify Forms, so your data will be stored in my Netlify dashboard. I am not sure whether they use this data for marketing or if they sell it 
+You can also fill the form below to get in touch. The form has been made with Netlify Forms, so your data will be stored in my Netlify dashboard. I am not sure if they use this data for marketing or if they sell it 
