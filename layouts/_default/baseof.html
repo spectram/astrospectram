@@ -29,18 +29,7 @@
         {{ if .Site.Data.config.favicon }}
         <link rel="icon" href="{{ $.Site.Data.config.favicon | relURL }}">
         {{ end }}
-
-        if (window.netlifyIdentity) {
-          window.netlifyIdentity.on('init', (user) => {
-            if (!user) {
-              window.netlifyIdentity.on('login', () => {
-                document.location.href = '/admin/'
-              })
-            }
-          })
-        }
-        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-        
+       
     </head>
     <body class="palette-{{ .Site.Data.config.palette }}">
         
@@ -50,7 +39,17 @@
         
         </div><!-- .site -->
         <!-- Scripts -->
+        if (window.netlifyIdentity) {
+          window.netlifyIdentity.on('init', (user) => {
+            if (!user) {
+              window.netlifyIdentity.on('login', () => {
+                document.location.href = '/admin/'
+              })
+            }
+          })
+        }
         <script src="{{ "js/plugins.js" | relURL }}"></script>
         <script src="{{ "js/main.js" | relURL }}"></script>
+        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     </body> 
 </html>
