@@ -10,7 +10,7 @@ media_folder: "static/images" # Media files will be stored in the repo under sta
 public_folder: "/images" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
-  - name: "thoughts"
+  - name: "thoughts" 
     label: "thoughts"
     folder: "content/thoughts"
     create: true
@@ -27,12 +27,10 @@ collections:
       - { label: "thumb_img_alt", name: "thumb_img_alt", widget: "string" }
       - { label: "hide_header", name: "hide_header", widget: "boolean", default: false }
 
-      - { label: "seo", name: "seo", widget: "object" }
-       fields:
-        - { label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false,}
-        - { label: "SEO Meta Description", ame: "metaDesc", widget: "string", required: false,}
-        - { label: "Social Image", name: "socialImage", widget: "image", required: false,}
-
       - { label: "layout", name: "layout", widget: "string"}
       - { label: "body", name: "body", widget: "markdown" }
+
+      - { label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false,}
+      - { label: "SEO Meta Description", ame: "metaDesc", widget: "string", required: false,}
+      - { label: "Social Image", name: "socialImage", widget: "image", required: false,}
 
