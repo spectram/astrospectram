@@ -31,6 +31,6 @@ collections:
       - { label: "body", name: "body", widget: "markdown" }
 
       - { label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false,}
-      - { label: "SEO Meta Description", ame: "metaDesc", widget: "string", required: false,}
+      - { label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false,}
       - { label: "Social Image", name: "socialImage", widget: "image", required: false,}
 
