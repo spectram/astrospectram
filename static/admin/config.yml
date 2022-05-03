@@ -15,9 +15,6 @@ collections:
   - name: "thoughts"
     label: "thoughts"
     slug: "{{slug}}" #This slug variable is different from that of preview_path
-      encoding: "ascii"
-      clean_accents: true
-      sanitize_replacement: "_"
     preview_path: "blog/{{year}}/{{month}}/{{slug}}"
     folder: "content/thoughts"
     identifier_field: title
@@ -30,6 +27,7 @@ collections:
       - { label: "subtitle", name: "subtitle", widget: "string" }
       - { label: "excerpt", name: "excerpt", widget: "string" }
       - { label: "Date", name: "date", widget: "date",format: "DD/MM/YYYY" }
+      - { widget: "string", name: "slug", label: "slug", required: true, pattern: "['^[a-z0-9]+(?:-[a-z0-9]+)*$','A slug can have no spaces or special characters']", hint: >- The post URL (do not include folder or file extension)}
       - { label: "thumb_img_path", name: "thumb_img_path", widget: "image" }
       - { label: "thumb_img_alt", name: "thumb_img_alt", widget: "string" }
       - { label: "hide_header", name: "hide_header", widget: "boolean", default: false }
@@ -44,9 +42,7 @@ collections:
   - name: "sideprojects" 
     label: "sideprojects"
     slug: "{{slug}}"
-      encoding: "ascii"
-      clean_accents: true
-      sanitize_replacement: "_"    extension: md
+    extension: md
     preview_path: "blog/{{year}}/{{month}}/{{slug}}"
     folder: "content/sideprojects"
     identifier_field: title
@@ -58,6 +54,7 @@ collections:
       - { label: "subtitle", name: "subtitle", widget: "string" }
       - { label: "excerpt", name: "excerpt", widget: "string" }
       - { label: "Date", name: "date", widget: "date",format: "DD/MM/YYYY" }
+      - { widget: "string", name: "slug", label: "slug", required: true, pattern: "['^[a-z0-9]+(?:-[a-z0-9]+)*$','A slug can have no spaces or special characters']", hint: >- The post URL (do not include folder or file extension)}
       - { label: "thumb_img_path", name: "thumb_img_path", widget: "image" }
       - { label: "thumb_img_alt", name: "thumb_img_alt", widget: "string" }
       - { label: "hide_header", name: "hide_header", widget: "boolean", default: false }
