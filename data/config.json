@@ -57,7 +57,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "Hi there! Welcome to my little creative repository on the internet. That is right! you are looking at a JAMSTACK website hosted on my github repo and deployed through Netlify. I started with a Stackbit v1 theme but heavily modified it for my purpose (stackbit v2 platform is looking really good, I highly recommend it). I have now moved away from stackbit and incormporated the headless CMS, Netlify CMS for better control over my data. Thank You for visiting! Hope you enjoy your stay!"
     },
     "domain": "https://spectram.netlify.app"
 }

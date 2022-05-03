@@ -8,15 +8,50 @@ publish_mode: editorial_workflow
 # These lines should *not* be indented
 media_folder: "static/images" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images" # The src attribute for uploaded media will begin with /images/uploads
+site_url: https://spectram.netlify.app
+logo_url: https://spectram.netlify.app/static/images/logo3.svg
 
 collections:
-  - name: "thoughts" 
+  - name: "thoughts"
+    slug: "{{slug}}" #This slug variable is different from that of preview_path
+    preview_path: "blog/{{year}}/{{month}}/{{slug}}"
     label: "thoughts"
     folder: "content/thoughts"
+    identifier_field: title
     create: true
-    slug: ""
+      encoding: "ascii"
+      clean_accents: true
+      sanitize_replacement: "_"
     extension: md
     file: "content/thoughts/.md"
+    format: frontmatter
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "subtitle", name: "subtitle", widget: "string" }
+      - { label: "excerpt", name: "excerpt", widget: "string" }
+      - { label: "Date", name: "date", widget: "date",format: "DD/MM/YYYY" }
+      - { label: "thumb_img_path", name: "thumb_img_path", widget: "image" }
+      - { label: "thumb_img_alt", name: "thumb_img_alt", widget: "string" }
+      - { label: "hide_header", name: "hide_header", widget: "boolean", default: false }
+
+      - { label: "layout", name: "layout", widget: "string"}
+      - { label: "body", name: "body", widget: "markdown" }
+
+      - { label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false,}
+      - { label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false,}
+      - { label: "Social Image", name: "socialImage", widget: "image", required: false,}
+
+  - name: "sideprojects" 
+    slug: "{{slug}}"
+    preview_path: "blog/{{year}}/{{month}}/{{slug}}"
+    label: "sideprojects"
+    folder: "content/sideprojects"
+    identifier_field: title
+    create: true
+      encoding: "ascii"
+      clean_accents: true
+      sanitize_replacement: "_"    extension: md
+    file: "content/sideprojects/.md"
     format: frontmatter
     fields:
       - { label: "Title", name: "title", widget: "string" }

@@ -379,7 +379,7 @@ models:
         required: true
       - type: string
         name: url
-        label: URL
+        label: Permalink
         required: true
         default: '#'
       - type: enum
