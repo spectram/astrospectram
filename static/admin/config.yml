@@ -13,15 +13,15 @@ logo_url: https://spectram.netlify.app/static/images/logo3.svg
 
 collections:
   - name: "thoughts"
-    slug: "{{slug}}" #This slug variable is different from that of preview_path
-    preview_path: "blog/{{year}}/{{month}}/{{slug}}"
     label: "thoughts"
-    folder: "content/thoughts"
-    identifier_field: title
-    create: true
+    slug: "{{slug}}" #This slug variable is different from that of preview_path
       encoding: "ascii"
       clean_accents: true
       sanitize_replacement: "_"
+    preview_path: "blog/{{year}}/{{month}}/{{slug}}"
+    folder: "content/thoughts"
+    identifier_field: title
+    create: true
     extension: md
     file: "content/thoughts/.md"
     format: frontmatter
@@ -42,15 +42,15 @@ collections:
       - { label: "Social Image", name: "socialImage", widget: "image", required: false,}
 
   - name: "sideprojects" 
-    slug: "{{slug}}"
-    preview_path: "blog/{{year}}/{{month}}/{{slug}}"
     label: "sideprojects"
-    folder: "content/sideprojects"
-    identifier_field: title
-    create: true
+    slug: "{{slug}}"
       encoding: "ascii"
       clean_accents: true
       sanitize_replacement: "_"    extension: md
+    preview_path: "blog/{{year}}/{{month}}/{{slug}}"
+    folder: "content/sideprojects"
+    identifier_field: title
+    create: true
     file: "content/sideprojects/.md"
     format: frontmatter
     fields:
