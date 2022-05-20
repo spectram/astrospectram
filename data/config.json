@@ -57,7 +57,7 @@
         ]
     },
     "footer": {
-        "content": "Hi there! Welcome to my little creative repository on the internet. That is right! you are looking at a JAMSTACK website hosted on my github repo and deployed through Netlify and managed through Netlify CMS. I started with a Stackbit v1 theme but heavily modified it for my purpose (stackbit v2 platform is looking really good, I highly recommend it). Thank You for visiting! Hope you enjoy your stay!"
+        "content": "Hi there! Welcome to my little creative repository on the internet. That is right! you are looking at a JAMSTACK website hosted on my github repo, deployed through Netlify, and with Netlify CMS integrated."
     },
     "domain": "https://spectram.netlify.app"
 }
