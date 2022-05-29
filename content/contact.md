@@ -57,13 +57,13 @@ seo:
 layout: contact
 ---
 
-![SAAO](/images/saao.jpg)
+![SAAO](/images/saao.jpg){width=60%}
 
 
 <table>
   <tr>
-    <th>[South African Astronomical Observatory (SAAO)](www.saao.ac.za)</th>
-    <th>[Dept of Astronomy, University of Cape Town (UCT)](www.ast.uct.ac.za/)</th>
+    [<th>South African Astronomical Observatory (SAAO)</th>](www.saao.ac.za
+    <th>[Dept of Astronomy, University of Cape Town; UCT](www.ast.uct.ac.za/)</th>
   </tr>
   <tr>
     <td>SALT-SAAO Prize Fellow 2021</td>
