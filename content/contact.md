@@ -57,14 +57,17 @@ seo:
 layout: contact
 ---
 
+![SAAO](/images/saao.jpg)
+
+
 <table>
   <tr>
-    <th>South African Astronomical Observatory (SAAO)</th>
-    <th>Department of Astronomy, University of Cape Town (UCT)</th>
+    <th>[South African Astronomical Observatory (SAAO)](www.saao.ac.za)</th>
+    <th>[Dept of Astronomy, University of Cape Town (UCT)](www.ast.uct.ac.za/)</th>
   </tr>
   <tr>
     <td>SALT-SAAO Prize Fellow 2021</td>
-    <td>Astronomy Research MSc Student 2023</td>
+    <td>Research MSc Student 2023</td>
   </tr>
   <tr>
     <td>Observatory, Cape Town, South Africa</td>
@@ -72,7 +75,7 @@ layout: contact
   </tr>
   <tr>
     <td>sriram (at) saao.ac.za</td>
-    
+    <td>sriram10sankar (at) gmail.com</td>   
   </tr>
 </table>
 

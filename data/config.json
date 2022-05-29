@@ -4,7 +4,7 @@
     "header": {
         "title": "Sriram Sankar",
         "tagline": "Walk into the forest of thoughts, take all that you can carry into the realm of man.",
-        "logo_img": "images/logo3.svg",
+        "logo_img": "images/srs-logo-white.svg",
         "logo_img_alt": "Sriram Sankar",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
@@ -50,9 +50,15 @@
                 "label": "Medium",
                 "url": "https://sriram-sankar.medium.com/",
                 "style": "icon",
-                "icon_class": "facebook",
-                "new_window": true,
-                "type": "action"
+                "icon_class": "medium",
+                "new_window": true
+            }
+            {
+                "label": "ORCID",
+                "url": " https://orcid.org/0000-0002-7607-081X",
+                "style": "icon",
+                "icon_class": "orcid",
+                "new_window": true
             }
         ]
     },

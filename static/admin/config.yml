@@ -9,7 +9,7 @@ publish_mode: editorial_workflow
 media_folder: "static/images" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images" # The src attribute for uploaded media will begin with /images/uploads
 site_url: https://spectram.netlify.app
-logo_url: https://spectram.netlify.app/static/images/logo3.svg
+logo_url: https://spectram.netlify.app/static/images/srs-logo-black.svg
 
 collections:
   - name: "thoughts"
@@ -26,6 +26,8 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "subtitle", name: "subtitle", widget: "string" }
       - { label: "excerpt", name: "excerpt", widget: "string" }
+      - { label: "categories", name: "categories", widget: "string" }
+      - { label: "tags", name: "tags", widget: "string" }
       - { label: "Date", name: "date", widget: "date",format: "DD/MM/YYYY" }
       - { widget: "string", name: "slug", label: "slug", required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$','A slug can have no spaces or special characters']}
       - { label: "thumb_img_path", name: "thumb_img_path", widget: "image" }
@@ -53,6 +55,8 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "subtitle", name: "subtitle", widget: "string" }
       - { label: "excerpt", name: "excerpt", widget: "string" }
+      - { label: "categories", name: "categories", widget: "string" }
+      - { label: "tags", name: "tags", widget: "string" }
       - { label: "Date", name: "date", widget: "date",format: "DD/MM/YYYY" }
       - { widget: "string", name: "slug", label: "slug", required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$','A slug can have no spaces or special characters']}
       - { label: "thumb_img_path", name: "thumb_img_path", widget: "image" }
