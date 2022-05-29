@@ -55,7 +55,7 @@
             },
             {
                 "label": "ORCID",
-                "url": " https://orcid.org/0000-0002-7607-081X",
+                "url": "https://orcid.org/0000-0002-7607-081X",
                 "style": "icon",
                 "icon_class": "orcid",
                 "new_window": true
