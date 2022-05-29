@@ -52,13 +52,6 @@
                 "style": "icon",
                 "icon_class": "medium",
                 "new_window": true
-            },
-            {
-                "label": "ORCID",
-                "url": "https://orcid.org/0000-0002-7607-081X",
-                "style": "icon",
-                "icon_class": "orcid",
-                "new_window": true
             }
         ]
     },

@@ -57,8 +57,6 @@ seo:
 layout: contact
 ---
 
-<img src="/images/saao.jpg" alt="SAAO" width="60%"/>
-
 <table>
   <tr>
     <th>South African Astronomical Observatory (SAAO)</th>
@@ -77,5 +75,7 @@ layout: contact
     <td>sriram10sankar (at) gmail.com</td>   
   </tr>
 </table>
+
+<img src="/images/saao.jpg" alt="SAAO" width="60%" padding="25px"/>
 
 You can also fill the form below to get in touch. The form has been made with Netlify Forms, so your data will be stored in my Netlify dashboard. I am not sure if they use this data for marketing or if they sell it to any third party. I will update this text after I hear from them.
