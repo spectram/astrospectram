@@ -44,7 +44,6 @@ My diverse background and unorthodox trajectory have gifted me with an eclectic 
 
 I have filled this website with poems that I have written over the years and images from my gallery. I have also added some of the projects that I was able to bequeath life to through dedication and hard work. In other words, I am committing a small part of myself to a Github repository.
 
-<div class="blockquote_small">
 > Thoughts think me, thought I   
 But I am but a thought  
 A hundred I exist  
@@ -55,7 +54,6 @@ Sometimes thoughts desist
 But I never resist  
 For a hundred I exist  
 None of which is me   
-</div>
 
 <!---
 I started with a Stackbit v1 theme but heavily modified it for my purpose (stackbit v2 platform is looking great, I highly recommend it).
