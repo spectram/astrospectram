@@ -1,24 +1,69 @@
-<ul id="breadcrumbs">
-  <li><a href="/">Home</a></li>
-  {{- $.Scratch.Set "url" "" -}}
-  {{- range (split .RelPermalink "/") -}}
-      {{- if (gt (len .) 0) -}}    
-          {{- $.Scratch.Set "isPage" "false" -}}
-          {{- $.Scratch.Add "url" (print "/" . ) -}}
-          {{- if $.Site.GetPage (print . ".md") -}}
-              {{- with $.Site.GetPage (print . ".md") -}}
-                  {{- if .IsPage -}}
-                      {{- $.Scratch.Set "isPage" "true" -}}
-                  {{- end -}}
-              {{- end -}}
-          {{- end -}}
-          {{- if eq ($.Scratch.Get "isPage") "true" -}}
-              {{- with $.Site.GetPage (print . ".md") -}}
-                  <li><a href="{{ $.Scratch.Get `url` }}">{{ .Title }}</a></li>
-              {{- end -}}
-          {{- else -}}
-              <li><a href="{{ $.Scratch.Get `url` }}">{{ humanize . }}</a></li>
-          {{- end -}}
-      {{- end -}}
-  {{- end -}}
-</ul>
+{{ $url := replace .Permalink (printf "%s" .Site.BaseURL) ""}}
+{{ .Scratch.Add "path" .Site.BaseURL }}
+{{ .Scratch.Add "breadcrumb" (slice (dict "url" .Site.BaseURL "name" "Home"))}}
+{{ .Scratch.Add "permalink" .Permalink }}
+{{ .Scratch.Add "title" .Title }}
+{{ $pScratch := .Scratch }}
+
+{{ range $index, $element := split $url "/" }}
+  {{ $pScratch.Add "path" $element }}
+  {{ $pScratch.Add "path" "/" }}
+  {{ if ne $element "" }}
+    {{ if eq ($pScratch.Get "path") ($pScratch.Get "permalink") }}
+        {{ $pScratch.Add "breadcrumb" (slice (dict "url" ($pScratch.Get "path") "name" ($pScratch.Get "title")))}}
+    {{ else }}
+        {{ $pScratch.Add "breadcrumb" (slice (dict "url" ($pScratch.Get "path") "name" (humanize .)))}}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<script type="application/ld+json">
+  [{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {{ range $index, $breadcrumb := .Scratch.Get "breadcrumb" }}
+        {{ if ne $index 0 }},{{ end }}
+          {
+            "@type": "ListItem",
+            "position": {{ add $index 1 }},
+            "name": "{{ $breadcrumb.name }}",
+            {{ if ne $breadcrumb.url ($pScratch.Get "permalink") }}
+              "item": {{ printf "%s" $breadcrumb.url }},
+            {{ end }}
+          }
+      {{ end }}
+      ]
+    }
+    {{ range $index, $category :=  .Params.categories }}
+      ,
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "{{$.Site.BaseURL}}",
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Categories",
+            "item": "{{$.Site.BaseURL}}categories/",
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "{{ humanize . }}",
+            "item": "{{$.Site.BaseURL}}categories/{{.}}",
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "{{ $pScratch.Get "title" }}",
+          },
+        ]
+      }
+    {{ end }}
