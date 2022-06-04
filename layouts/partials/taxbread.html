@@ -1,0 +1,18 @@
+{{ $pScratch := .Scratch }}
+{{ range .Params.categories }}
+    <p><a href="/">Home</a> > <a href="/categories/">Categories</a> > <a href="/categories/{{.}}">{{ humanize . }}</a> > {{ $pScratch.Get "title" }} </p>
+{{ end }}
+<p>
+    {{ range $index, $breadcrumb := ($pScratch.Get "breadcrumb") }}
+        {{ if ne $index 0 }}
+            >
+        {{ end }}
+        {{ if eq $breadcrumb.url ($pScratch.Get "permalink") }}
+            {{ $breadcrumb.name }}
+        {{ else if eq $breadcrumb.url $.Site.BaseURL }}
+            <a href="/">{{ $breadcrumb.name }}</a>
+        {{ else }}
+            <a href="{{ $breadcrumb.url }}">{{ $breadcrumb.name }}</a>
+        {{ end }}
+    {{ end }}
+</p>

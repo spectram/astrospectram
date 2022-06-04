@@ -6,7 +6,6 @@ subtitle: We did some cool things to offset some systemic problems and had a lot
 excerpt: In my final year of undergrad, I was the Chairman of the ASME Student
   Chapter, the year before that I presented my project at the International
   Mechanical Engineering Congress & Exposition (IMECE 2017) in Tampa, Florida.
-categories: volunteering
 date: 04/06/2022
 slug: asmechapter
 thumb_img_path: /images/sriram_imece.jpg
