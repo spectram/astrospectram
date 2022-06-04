@@ -1,6 +1,7 @@
 ---
 title: Side Projects
 subtitle: These are some of the side projects that I've taken up over the years.
+has_more_link: true
 tagline: |
   Bold proclamations that were 
   once buried deep.   
