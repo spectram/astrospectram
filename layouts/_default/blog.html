@@ -1,6 +1,6 @@
 {{ define "content" }}
 
-  {{ $include_dict := dict "Site" .Site "page" . "image" .Params.img_path "tagline" .Params.tagline }}
+  {{ $include_dict := dict "Site" .Site "page" . "image" .Params.img_path "tagline" .Params.tagline .Params.url}}
   {{ partial "header.html" $include_dict }}
 
   <div id="content" class="site-content">
