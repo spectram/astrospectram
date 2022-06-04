@@ -29,7 +29,7 @@ collections:
       - { label: "categories", name: "categories", widget: "string", required: false,}
       - { label: "tags", name: "tags", widget: "string", required: false,}
       - { label: "Date", name: "date", widget: "date",format: "DD/MM/YYYY", required: false, }
-      - { widget: "string", name: "slug", label: "slug", required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$','A slug can have no spaces or special characters']}
+      - { widget: "string", name: "url", label: "url", required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$','A slug can have no spaces or special characters']}
       - { label: "thumb_img_path", name: "thumb_img_path", widget: "image" }
       - { label: "thumb_img_alt", name: "thumb_img_alt", widget: "string" }
       - { label: "hide_header", name: "hide_header", widget: "boolean", default: false, required: false, }
@@ -58,7 +58,7 @@ collections:
       - { label: "categories", name: "categories", widget: "string", required: false,}
       - { label: "tags", name: "tags", widget: "string", required: false,}
       - { label: "Date", name: "date", widget: "date",format: "DD/MM/YYYY", required: false,}
-      - { widget: "string", name: "slug", label: "slug", required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$','A slug can have no spaces or special characters']}
+      - { widget: "string", name: "url", label: "url", required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$','A slug can have no spaces or special characters']}
       - { label: "thumb_img_path", name: "thumb_img_path", widget: "image" }
       - { label: "thumb_img_alt", name: "thumb_img_alt", widget: "string" }
       - { label: "hide_header", name: "hide_header", widget: "boolean", default: false, required: false,}

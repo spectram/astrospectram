@@ -9,3 +9,5 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+permalinks:
+    categories: "/:slug/"
