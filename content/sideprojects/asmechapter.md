@@ -10,6 +10,7 @@ categories: volunteering
 date: 04/06/2022
 slug: asmechapter
 thumb_img_path: images/sriram_imece.jpg
+content_img_path: images/sriram_imece.jpg
 thumb_img_alt: Presenting my project at IMECE 2017 in Tampa
 hide_header: false
 layout: post
