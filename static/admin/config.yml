@@ -24,17 +24,17 @@ collections:
     format: frontmatter
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "subtitle", name: "subtitle", widget: "string" }
-      - { label: "excerpt", name: "excerpt", widget: "string" }
-      - { label: "categories", name: "categories", widget: "string" }
-      - { label: "tags", name: "tags", widget: "string" }
-      - { label: "Date", name: "date", widget: "date",format: "DD/MM/YYYY" }
+      - { label: "subtitle", name: "subtitle", widget: "string", required: false,}
+      - { label: "excerpt", name: "excerpt", widget: "string" , required: false,}
+      - { label: "categories", name: "categories", widget: "string", required: false,}
+      - { label: "tags", name: "tags", widget: "string", required: false,}
+      - { label: "Date", name: "date", widget: "date",format: "DD/MM/YYYY", required: false, }
       - { widget: "string", name: "slug", label: "slug", required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$','A slug can have no spaces or special characters']}
       - { label: "thumb_img_path", name: "thumb_img_path", widget: "image" }
       - { label: "thumb_img_alt", name: "thumb_img_alt", widget: "string" }
-      - { label: "hide_header", name: "hide_header", widget: "boolean", default: false }
+      - { label: "hide_header", name: "hide_header", widget: "boolean", default: false, required: false, }
 
-      - { label: "layout", name: "layout", widget: "string"}
+      - { label: "layout", name: "layout", widget: "string",default: "post"}
       - { label: "body", name: "body", widget: "markdown" }
 
       - { label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false,}
@@ -53,17 +53,17 @@ collections:
     format: frontmatter
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "subtitle", name: "subtitle", widget: "string" }
-      - { label: "excerpt", name: "excerpt", widget: "string" }
-      - { label: "categories", name: "categories", widget: "string" }
-      - { label: "tags", name: "tags", widget: "string" }
-      - { label: "Date", name: "date", widget: "date",format: "DD/MM/YYYY" }
+      - { label: "subtitle", name: "subtitle", widget: "string",required: false, }
+      - { label: "excerpt", name: "excerpt", widget: "string", required: false, }
+      - { label: "categories", name: "categories", widget: "string", required: false,}
+      - { label: "tags", name: "tags", widget: "string", required: false,}
+      - { label: "Date", name: "date", widget: "date",format: "DD/MM/YYYY", required: false,}
       - { widget: "string", name: "slug", label: "slug", required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$','A slug can have no spaces or special characters']}
       - { label: "thumb_img_path", name: "thumb_img_path", widget: "image" }
       - { label: "thumb_img_alt", name: "thumb_img_alt", widget: "string" }
-      - { label: "hide_header", name: "hide_header", widget: "boolean", default: false }
+      - { label: "hide_header", name: "hide_header", widget: "boolean", default: false, required: false,}
 
-      - { label: "layout", name: "layout", widget: "string"}
+      - { label: "layout", name: "layout", widget: "string", default: "post"}
       - { label: "body", name: "body", widget: "markdown" }
 
       - { label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false,}
