@@ -19,6 +19,7 @@
             </div>
         </header><!-- .post-header -->
         {{ partial "breadcrumb.html" .}}
+        {{ partial "structured.html" .}}
         {{ if .Params.subtitle }}
         <div class="post-subtitle">
           {{ $.Params.subtitle | safeHTML }}
