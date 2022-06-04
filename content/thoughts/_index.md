@@ -2,9 +2,10 @@
 title: Thoughts
 img_path: images/thoughts-bg.jpg
 subtitle: Walk into the forest of thoughts, take all that you can carry into the realm of man
-tagline: >-
+tagline: |-
   Walk into the forest of thoughts, 
-  take all that you can carry into the realm of man.   
+  take all that you can carry 
+  into the realm of man.   
 seo:
   title: Thoughts | Sriram Sankar
   description: Walk into the forest of thoughts, take all that you can carry into the realm of man

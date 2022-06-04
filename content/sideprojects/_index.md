@@ -1,9 +1,11 @@
 ---
 title: Side Projects
 subtitle: These are some of the side projects that I've taken up over the years.
-tagline: >-
-  Bold proclamations that were once burried deep   
-  Some fledgling saplings, others full grown trees
+tagline: |-
+  Bold proclamations that were 
+  once buried deep   
+  Some fledgling saplings, 
+  others full grown trees
 img_path: images/projects-bg.jpg
 seo:
   title: Side Projects | Sriram Sankar

@@ -56,7 +56,7 @@
         ]
     },
     "footer": {
-        "content": "Hi there! Welcome to my little creative repository on the internet. That is right! you are looking at a JAMSTACK website hosted on my github repo, deployed through Netlify, and with Netlify CMS integrated."
+        "content": "Hi there! Welcome to my little creative repository on the internet. That's right! you are looking at a JAMSTACK site (+ Netlify CMS) hosted on my Github repo, deployed through Netlify."
     },
     "domain": "https://spectram.netlify.app"
 }

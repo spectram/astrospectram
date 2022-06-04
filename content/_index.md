@@ -1,13 +1,14 @@
 ---
 title: Hello World!
-tagline: >-
-  Just another sentient assembly of certain fermions drifting through the
-  cosmos ceaselessly nudged and tugged by both colossal and tellurian forces
+tagline: |-
+  Just another sentient assembly of certain fermions 
+  drifting through the cosmos ceaselessly nudged and tugged 
+  by both colossal and tellurian forces
 has_more_link: true
 more_link_text: Find out more
 seo:
   title: Sriram Sankar
-  description: >-
+  description: |-
     Just another sentient assembly of certain fermions drifting through the
     cosmos ceaselessly nudged and tugged by both colossal and tellurian forces
   extra:
@@ -36,7 +37,7 @@ seo:
 layout: page
 ---
 
-I am currently interested in studying gas kinematics and galaxy dynamics in various gravitational potential wells using spatially resolved multi-wavelength spectroscopy and simulations. **I am **looking for **Ph.D.** opportunities (**starting in 2023) in closely related research areas.**
+I am currently interested in studying gas kinematics and galaxy dynamics in various gravitational potential wells using spatially resolved multi-wavelength spectroscopy and simulations. **I am looking for Ph.D. opportunities (starting in 2023) in closely related research areas.**
 
 I am a Master’s candidate at the [Department of Astronomy, University of Cape Town (UCT)](http://www.ast.uct.ac.za/), based at the [South African Astronomical Observatory (SAAO)](https://www.saao.ac.za/), funded through the SALT-SAAO Prize MSc Fellowship 2021, and supervised by Dr. Moses Mogotsi and Prof. Matthew Bershady. My thesis is on understanding the confluence of galaxy evolution and group evolution traced by the multiphase baryon cycle in groups. For this I am studying two groups part of the Choirs sample, with varying levels of tidal interactions, using MeerKAT (HI 21 cm) and SALT. 
 
@@ -46,18 +47,17 @@ My diverse background and unorthodox trajectory have gifted me with an eclectic 
 
 I have filled this website with poems that I have written over the years and images from my gallery. I have also added some of the projects that I was able to bequeath life to through dedication and hard work. In other words, I am committing a small part of myself to a Github repository.
 
-> 
-Thoughts think me, thought I  
-But I am but a thought
-A hundred I exist
-In a hundred minds, I fit
-Zillion impressions persist
-The hundred I coexist
-Sometimes thoughts desist
-But I never resist
-For a hundred I exist
-None of which is me 
+> Thoughts think me, thought I   
+But I am but a thought  
+A hundred I exist  
+In a hundred minds, I fit  
+Zillion impressions persist  
+The hundred I coexist  
+Sometimes thoughts desist  
+But I never resist  
+For a hundred I exist  
+None of which is me   
 
 <!---
-I started with a Stackbit v1 theme but heavily modified it for my purpose (stackbit v2 platform is looking great, I highly recommend it). Thank You for visiting! Hope you enjoy your stay!
+I started with a Stackbit v1 theme but heavily modified it for my purpose (stackbit v2 platform is looking great, I highly recommend it).
 --->

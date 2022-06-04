@@ -1,6 +1,6 @@
 ---
 title: Get in Touch
-tagline: >-
+tagline: |-
   With lives so short and dreams so mighty,
   we are humble folks rich with aspirations
   that one day we may seize
