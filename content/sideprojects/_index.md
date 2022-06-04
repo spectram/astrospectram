@@ -1,9 +1,9 @@
 ---
 title: Side Projects
 subtitle: These are some of the side projects that I've taken up over the years.
-tagline: |-
+tagline: |
   Bold proclamations that were 
-  once buried deep   
+  once buried deep.   
   Some fledgling saplings, 
   others full grown trees
 img_path: images/projects-bg.jpg
