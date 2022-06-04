@@ -1,5 +1,9 @@
 ---
 title: Get in Touch
+tagline: >-
+  With lives so short and dreams so mighty,
+  we are humble folks rich with aspirations
+  that one day we may seize
 img_path: images/contact-bg.jpg
 form_id: contactForm
 form_action: /success
@@ -76,6 +80,4 @@ layout: contact
   </tr>
 </table>
 
-<img src="/images/saao.jpg" alt="SAAO" width="60%" padding="25px"/>
-
-You can also fill the form below to get in touch. The form has been made with Netlify Forms, so your data will be stored in my Netlify dashboard. I am not sure if they use this data for marketing or if they sell it to any third party. I will update this text after I hear from them.
+You can also fill out the form below to get in touch. The form has been made with Netlify Forms, so your data will be stored in my Netlify dashboard. I am not sure if they use this data for marketing or if they sell it to any third party. I will update this text after I learn more.

@@ -3,6 +3,6 @@ title: Thank You!
 layout: page
 ---
 
-Thank you for contacting me! I will get back in touch with you soon.
+Thank you for contacting me! I will get back shortly.
 
 **Have a great day!**

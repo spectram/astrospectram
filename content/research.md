@@ -5,7 +5,7 @@ subtitle: >-
   The style guide is also a great reference for suggested typographic treatment
   and styles for your content.
 img_path: images/research-bg.jpg
-tagline: Trying something
+tagline: Hoping to add a page or at least a citation to Humanity's book of the Cosmos
 seo:
   title: Research Overview
   description: A reference for suggested typographic treatment and styles for your content
