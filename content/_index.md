@@ -4,7 +4,7 @@ tagline: Just another sentient assembly of certain fermions drifting through the
 has_more_link: true
 more_link_text: Find out more
 seo:
-  title: Sriram Sankar
+  metatitle: Sriram Sankar
   description: |-
     Just another sentient assembly of certain fermions drifting through the
     cosmos ceaselessly nudged and tugged by both colossal and tellurian forces

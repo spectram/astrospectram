@@ -33,7 +33,7 @@ form_fields:
       be contacted.
 submit_label: Send Message
 seo:
-  title: Get in Touch
+  metatitle: Get in Touch
   description: This is the contact page
   extra:
     - name: 'og:type'

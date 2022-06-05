@@ -10,9 +10,8 @@ tagline: |
   others full grown trees
 img_path: images/projects-bg.jpg
 seo:
-  title: Side Projects | Sriram Sankar
+  metatitle: Side Projects | Sriram Sankar
   description: These are some of the side projects that I've taken up over the years.
-  robots: []
   extra:
     - name: 'og:type'
       value: website
