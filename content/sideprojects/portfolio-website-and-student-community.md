@@ -1,6 +1,8 @@
 ---
 title: Portfolio website and student community
-subtitle: ""
+subtitle: I trained a team of 50 students in various aspects of website building
+  and content marketing like WordPress website development and management,
+  content creation, social media marketing, graphics designing, etc.
 excerpt: I trained a team of 50 students in various aspects of website building
   and content marketing like WordPress website development and management,
   content creation, social media marketing, graphics designing, database
@@ -24,7 +26,7 @@ seo:
 
 The year was 2018 and [ASME chapter](https://spectram.netlify.app/sideprojects/asmechapter/) was in great shape. We were getting invited to institutions across the state to conduct induction sessions for student chapters that wished to replicate our model. I felt the need to have a portfolio website that showcased various student activities in my department. The idea was to use the platform to reach out to recruiters, build industry connections, celebrate the student community, and motivate more students to volunteer for learning additional skills. And so, I got the permissions from the Head of the Department and started working on a simple WordPress website. When a layout and plan was ready, it was time to get other students involved. Thanks to my past internships and experience in content marketing, I was equipped to lead the team.
 
-**I trained a team of 50 students in various aspects of website building and content marketing like WordPress website development and management, content creation, social media marketing, graphics designing, database creation, etc.** I envisioned these skills being passed down over the years and the students benefiting from the activities. So from the start I put a system in place and identified juniors who could take up leadership roles in the different teams.
+I trained a team of 50 students in various aspects of website building and content marketing like WordPress website development and management, content creation, social media marketing, graphics designing, database creation, etc. I envisioned these skills being passed down over the years and the students benefiting from the activities. So from the start I put a system in place and identified juniors who could take up leadership roles in the different teams.
 
 In a couple of months we had a fully functioning portfolio website with an active blog and social media channels all managed by the students. The portfolio website was a tremendous success and for the subsequent phases we implemented a library for notes, an alumni network, club pages, and even a services section where we offered to conduct induction programs.
 
