@@ -27,7 +27,7 @@
         <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10 "targetPath" "css/main.css")).Permalink }}">
         {{ if .Site.Data.config.favicon }}
-        <link rel="icon" href="{{ $.Site.Data.config.favicon | relURL }}">
+        {{ partial "favicon.html" . }}        
         {{ end }}
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
        

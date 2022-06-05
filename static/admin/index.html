@@ -23,14 +23,14 @@
 
             YOAST.setContent({
                 title: title,
-                description: seo.getIn(['data', 'seo.description']) || '',
-                keyword: seo.getIn(['data', 'seo.yoast_keyword']) || '',
+                description: seo.getIn(['data', 'description']) || '',
+                keyword: seo.getIn(['data', 'yoast_keyword']) || '',
                 text: entry.getIn(['data', 'body']) || '',
                 titleWidth: title.split('').length * 5 // 5px is an average width of each character ;)
             })
 
             return h('div', {},
-                this.props.widgetFor('body'),
+                this.props.widgetsFor('body'),
                 YOAST.getScoresAsHTML(h)
             );
         }
