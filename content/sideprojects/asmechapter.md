@@ -1,21 +1,26 @@
 ---
-title: ASME Student Chapter
-subtitle: We did some cool things to offset some systemic problems and had a lot
-  of fun in the process. With the help of a global platform, we gained better exposure to engineering.
 excerpt: In my final year of undergrad, I was the Chairman of the ASME Student
   Chapter, the year before that I presented my project at the International
   Mechanical Engineering Congress & Exposition (IMECE 2017) in Tampa, Florida.
-categories: volunteering
-date: '2022-06-04'
 slug: asmechapter
-thumb_img_path: images/asme-induction.jpg
-content_img_path: images/asme_imece.jpg
+thumb_img_path: /images/sriram_imece.jpg
+content_img_path: images/asme-induction.jpg
 thumb_img_alt: Presenting my project at IMECE 2017 in Tampa
 hide_header: false
 layout: post
+date: 04/06/2022
+title: ASME Student Chapter
+subtitle: We did some cool things to offset some systemic problems and had a lot
+  of fun in the process. With the help of a global platform, we gained better
+  exposure to engineering.
+categories: volunteering
+datetime: 2022-06-05T16:22:59.094Z
 seo:
-  metatitle: How we utilized ASME activities to get involved in engineering
-  description: "How some students reshaped the typical Indian engineering education paradigm by utilizing ASME activities as anchors for getting involved in engineering."
+  metatitle: How we utilized ASME activities to get involved in engineering |
+    Sriram Sankar
+  description: How some students reshaped the typical Indian engineering education
+    paradigm by utilizing ASME activities as anchors for getting involved in
+    engineering.
 ---
 ### Background
 
