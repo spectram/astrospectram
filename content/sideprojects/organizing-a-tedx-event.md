@@ -19,3 +19,15 @@ The real work began after obtaining the license in March, 2018. After reading th
 A team was assembled with the help of the literary club and some mechanical engineering students. My amazing curator and co-organizer, Aiswarya quickly rose to the challenge and was hard at work parsing the rules.  While, Hari, another curator began efforts for sourcing funding. We divided the volunteers into different groups and delegated various tasks. The social media team, the curation team, logistics team etc. This was still pretty early so our priority was to find speakers and to train the curation team for assisting with scripting. 
 
 Thus began the scheduled viewing of TED talks and follow up discussions. We would pick one or two talks per week and critically assess them based on quality, rhetorical devices, logical fallacies, delivery, etc. A friend, who later became a speaker at the event joined us for these discussions and contributed immensely. This was a fruitful exercise as the goal regarding quality was now set in everyone's minds. This helped us to work with the speakers to ensure that they delivered their best possible speech. Each speaker had an assistant appointed. Aiswarya and I worked with the speaker assistant and the speaker for planning, scripting, and dress rehearsal.
+
+### Breathtaking Disarray
+
+There are certain rare moments in life when one can look back and see all those tiny irrelevant things for their mighty contributions. Moments of clarity such as this make sense out of chaotic occurrences.
+
+> *Serendipity - A combination of events which are not individually beneficial, but occurring together to produce a wonderful outcome.*
+
+However, most times all one sees is disarray. Moments when nothing makes sense. Maybe all one gets are moments such as this, maybe one must die never truly knowing, but the disarray will always be breathtaking.
+
+Humanity, as a species has sought to find order throughout our history on this planet and through collective learning each generation has added to the complexity of the puzzle that we’ve been posed. As we dance and make our way up fleets of discontinuous stairs into an uncertain future, the poetry in our journey is captured beautifully by the disarray.
+
+The palette contains all the colors and the paint is still wet, the artist takes a pause to observe the beauty of their creation, the disarray of colors, of emotions, of life. The theme “Breathtaking Disarray” seeks to take a retrospective and introspective pause to appreciate the beauty in the absurd.
