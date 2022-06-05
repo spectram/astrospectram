@@ -42,7 +42,7 @@ collections:
         widget: "object"
         fields:
         - { label: "Focus Keyword", name: "yoast_keyword", widget: "string" }
-        - { label: "SEO Meta Description", name: "description", widget: "string" }
+        - { label: "SEO Meta Description", name: "description", widget: "string",required: false, }
         - { label: "SEO Meta Title", name: "metatitle", widget: "string", required: false,}
         - { label: "Social Image", name: "socialImage", widget: "image", required: false,}
 
@@ -75,7 +75,7 @@ collections:
         widget: "object"
         fields:
         - { label: "Focus Keyword", name: "yoast_keyword", widget: "string" }
-        - { label: "SEO Meta Description", name: "description", widget: "string" }
+        - { label: "SEO Meta Description", name: "description", widget: "string",required: false, }
         - { label: "SEO Meta Title", name: "metatitle", widget: "string", required: false,}
         - { label: "Social Image", name: "socialImage", widget: "image", required: false,}
 

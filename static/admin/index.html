@@ -18,12 +18,13 @@
     CMS.registerPreviewTemplate('page', createClass({
         render: function () {
             const entry = this.props.entry
-            const title = entry.getIn(['data', 'metatitle']) || ''
+            const seo = this.props.widgetsFor('seo')
+            const title = seo.getIn(['data', 'metatitle']) || ''
 
             YOAST.setContent({
                 title: title,
-                description: entry.getIn(['data', 'description']) || '',
-                keyword: entry.getIn(['data', 'yoast_keyword']) || '',
+                description: seo.getIn(['data', 'seo.description']) || '',
+                keyword: seo.getIn(['data', 'seo.yoast_keyword']) || '',
                 text: entry.getIn(['data', 'body']) || '',
                 titleWidth: title.split('').length * 5 // 5px is an average width of each character ;)
             })
