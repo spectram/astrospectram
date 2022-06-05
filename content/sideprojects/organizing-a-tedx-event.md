@@ -1,5 +1,10 @@
 ---
 title: Organizing a TEDx event
+subtitle: "I write about my story organizing a TEDx event and about the theme:
+  Breathtaking Disarray"
+excerpt: "I write about my story organizing a TEDx event and about the theme:
+  Breathtaking Disarray"
+categories: volunteering
 datetime: 2022-06-05T18:45:02.544Z
 slug: tedx
 thumb_img_path: /images/tedx.jpg
@@ -7,6 +12,11 @@ content_img_path: /images/breathtaking_disarray.jpg
 thumb_img_alt: TEDxFISAT
 hide_header: false
 layout: post
+seo:
+  metatitle: My experience organizing a TEDx event | Sriram Sankar
+  description: "I write about my story organizing a TEDx event and about the
+    theme: Breathtaking Disarray"
+  yoast_keyword: ""
 ---
 ### Background
 
