@@ -28,7 +28,7 @@ collections:
       - { label: "excerpt", name: "excerpt", widget: "string" , required: false,}
       - { label: "categories", name: "categories", widget: "string", required: false,}
       - { label: "tags", name: "tags", widget: "string", required: false,}
-      - { label: "Date", name: "date", widget: "date",format: "DD/MM/YYYY", required: false, }
+      - { label: "datetime", name: "datetime", widget: "datetime",date_format: "YYYY-MM-DD", time_format: "HH:mm", required: false, }
       - { widget: "string", name: "slug", label: "slug", required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$','A slug can have no spaces or special characters']}
       - { label: "thumb_img_path", name: "thumb_img_path", widget: "image" }
       - { label: "content_img_path", name: "content_img_path", widget: "image" }
@@ -62,7 +62,7 @@ collections:
       - { label: "excerpt", name: "excerpt", widget: "string", required: false, }
       - { label: "categories", name: "categories", widget: "string", required: false,}
       - { label: "tags", name: "tags", widget: "string", required: false,}
-      - { label: "Date", name: "date", widget: "date",format: "DD/MM/YYYY", required: false,}
+      - { label: "datetime", name: "datetime", widget: "datetime",date_format: "YYYY-MM-DD", time_format: "HH:mm", required: false, }
       - { widget: "string", name: "slug", label: "slug", required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$','A slug can have no spaces or special characters']}
       - { label: "thumb_img_path", name: "thumb_img_path", widget: "image" }
       - { label: "content_img_path", name: "content_img_path", widget: "image" }

@@ -6,10 +6,10 @@ excerpt: In my final year of undergrad, I was the Chairman of the ASME Student
   Chapter, the year before that I presented my project at the International
   Mechanical Engineering Congress & Exposition (IMECE 2017) in Tampa, Florida.
 categories: volunteering
-date: 04/06/2022
+date: '2022-06-04'
 slug: asmechapter
-thumb_img_path: images/home.jpg
-content_img_path: images/asme-induction.jpg
+thumb_img_path: images/asme-induction.jpg
+content_img_path: images/asme_imece.jpg
 thumb_img_alt: Presenting my project at IMECE 2017 in Tampa
 hide_header: false
 layout: post
