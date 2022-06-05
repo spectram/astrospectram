@@ -4,40 +4,12 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Spectram Content Manager</title>
-  <link rel="stylesheet" href="https://unpkg.com/netlify-cms@1.4/dist/cms.css" />
+
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   
 </head>
 <body>
-  <script src="https://unpkg.com/netlify-cms-yoast-seo@~1.0/dist/main.js"></script>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
-
-  <script>
-    CMS.registerPreviewStyle('https://unpkg.com/netlify-cms-yoast-seo@~1.0/dist/main.css');
-    CMS.registerPreviewTemplate('page', createClass({
-        render: function () {
-            var entry = this.props.entry;
-            var seo = entry.getIn(['data', 'seo']);
-            var meta = this.props.widgetsFor('seo');
-            var title = meta.getIn(['data', 'metatitle']) || ''
-
-            YOAST.setContent({
-                title: title,
-                description: meta.getIn(['data', 'description']) || '',
-                keyword: meta.getIn(['data', 'yoast_keyword']) || '',
-                text: entry.getIn(['data', 'body']) || '',
-                titleWidth: title.split('').length * 5 // 5px is an average width of each character ;)
-            })
-
-            return h('div', {},
-                this.props.widgetFor('body'),
-                YOAST.getScoresAsHTML(h)
-            );
-        }
-    }));
-
-  </script>
-
 </body>
 </html>

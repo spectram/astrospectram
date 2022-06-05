@@ -47,6 +47,12 @@
   }
 }
 
+.breadcrumb {
+  display: flex;
+  min-height: 100vh;
+  padding: 1rem;
+}
+
 .site-main {
   -webkit-box-flex: 1;
   -ms-flex-positive: 1;
