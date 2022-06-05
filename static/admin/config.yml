@@ -31,15 +31,20 @@ collections:
       - { label: "Date", name: "date", widget: "date",format: "DD/MM/YYYY", required: false, }
       - { widget: "string", name: "slug", label: "slug", required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$','A slug can have no spaces or special characters']}
       - { label: "thumb_img_path", name: "thumb_img_path", widget: "image" }
+      - { label: "content_img_path", name: "content_img_path", widget: "image" }
       - { label: "thumb_img_alt", name: "thumb_img_alt", widget: "string" }
       - { label: "hide_header", name: "hide_header", widget: "boolean", default: false, required: false, }
-
       - { label: "layout", name: "layout", widget: "string",default: "post"}
       - { label: "body", name: "body", widget: "markdown" }
-
-      - { label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false,}
-      - { label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false,}
-      - { label: "Social Image", name: "socialImage", widget: "image", required: false,}
+      
+      - label: "seo"        #Add Open Graph options later
+        name: "seo"
+        widget: "object"
+        fields:
+        - { label: "Focus Keyword", name: "yoast_keyword", widget: "string" }
+        - { label: "SEO Meta Description", name: "description", widget: "string" }
+        - { label: "SEO Meta Title", name: "metatitle", widget: "string", required: false,}
+        - { label: "Social Image", name: "socialImage", widget: "image", required: false,}
 
   - name: "sideprojects" 
     label: "sideprojects"
@@ -60,13 +65,17 @@ collections:
       - { label: "Date", name: "date", widget: "date",format: "DD/MM/YYYY", required: false,}
       - { widget: "string", name: "slug", label: "slug", required: true, pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$','A slug can have no spaces or special characters']}
       - { label: "thumb_img_path", name: "thumb_img_path", widget: "image" }
+      - { label: "content_img_path", name: "content_img_path", widget: "image" }
       - { label: "thumb_img_alt", name: "thumb_img_alt", widget: "string" }
       - { label: "hide_header", name: "hide_header", widget: "boolean", default: false, required: false,}
-
       - { label: "layout", name: "layout", widget: "string", default: "post"}
       - { label: "body", name: "body", widget: "markdown" }
-
-      - { label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false,}
-      - { label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false,}
-      - { label: "Social Image", name: "socialImage", widget: "image", required: false,}
+      - label: "seo"
+        name: "seo"
+        widget: "object"
+        fields:
+        - { label: "Focus Keyword", name: "yoast_keyword", widget: "string" }
+        - { label: "SEO Meta Description", name: "description", widget: "string" }
+        - { label: "SEO Meta Title", name: "metatitle", widget: "string", required: false,}
+        - { label: "Social Image", name: "socialImage", widget: "image", required: false,}
 
