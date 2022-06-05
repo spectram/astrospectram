@@ -17,20 +17,21 @@
     CMS.registerPreviewStyle('https://unpkg.com/netlify-cms-yoast-seo@~1.0/dist/main.css');
     CMS.registerPreviewTemplate('page', createClass({
         render: function () {
-            const entry = this.props.entry
-            const seo = this.props.widgetsFor('seo')
-            const title = seo.getIn(['data', 'metatitle']) || ''
+            var entry = this.props.entry;
+            var seo = entry.getIn(['data', 'seo']);
+            var meta = this.props.widgetsFor('seo');
+            var title = meta.getIn(['data', 'metatitle']) || ''
 
             YOAST.setContent({
                 title: title,
-                description: seo.getIn(['data', 'description']) || '',
-                keyword: seo.getIn(['data', 'yoast_keyword']) || '',
+                description: meta.getIn(['data', 'description']) || '',
+                keyword: meta.getIn(['data', 'yoast_keyword']) || '',
                 text: entry.getIn(['data', 'body']) || '',
                 titleWidth: title.split('').length * 5 // 5px is an average width of each character ;)
             })
 
             return h('div', {},
-                this.props.widgetsFor('body'),
+                this.props.widgetFor('body'),
                 YOAST.getScoresAsHTML(h)
             );
         }
