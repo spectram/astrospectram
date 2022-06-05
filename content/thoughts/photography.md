@@ -11,7 +11,7 @@ thumb_img_path: images/8.jpg
 thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
 content_img_path: images/8.jpg
 seo:
-  title: What Is Photography and What It Means To Me
+  metatitle: What Is Photography and What It Means To Me
   description: A intresting tale about Photography and me
   extra:
     - name: 'og:type'

@@ -9,7 +9,7 @@ thumb_img_path: images/7.jpg
 thumb_img_alt: Icelandic horses
 hide_header: true
 seo:
-  title: Fragments of Iceland
+  metatitle: Fragments of Iceland
   description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
   extra:
     - name: 'og:type'

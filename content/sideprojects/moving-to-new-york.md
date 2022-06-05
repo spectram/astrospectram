@@ -12,7 +12,7 @@ thumb_img_path: images/5.jpg
 thumb_img_alt: Brooklyn Bridge at daytime
 content_img_path: images/5.jpg
 seo:
-  title: Few Things I Wish I Knew Before I Moved to New York
+  metatitle: Few Things I Wish I Knew Before I Moved to New York
   description: A cautionary tale about life in New York
   extra:
     - name: 'og:type'

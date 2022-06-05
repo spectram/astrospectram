@@ -15,8 +15,8 @@ thumb_img_alt: Presenting my project at IMECE 2017 in Tampa
 hide_header: false
 layout: post
 seo:
-  - metatitle: How we utilized ASME activities to get involved in engineering
-  - description: "How some students reshaped the typical Indian engineering education paradigm by utilizing ASME activities as anchors for getting involved in engineering."
+  metatitle: How we utilized ASME activities to get involved in engineering
+  description: "How some students reshaped the typical Indian engineering education paradigm by utilizing ASME activities as anchors for getting involved in engineering."
 ---
 ### Background
 
