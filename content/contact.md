@@ -80,4 +80,12 @@ layout: contact
   </tr>
 </table>
 
+
+<a href=" https://orcid.org/0000-0002-7607-081X ">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+ https://orcid.org/0000-0002-7607-081X 
+</a>
+
+Latest CV as pdf (updated 8 June 2022)
+
 You can also fill out the form below to get in touch. The form has been made with Netlify Forms, so your data will be stored in my Netlify dashboard. I am not sure if they use this data for marketing or if they sell it to any third party. I will update this text after I learn more.

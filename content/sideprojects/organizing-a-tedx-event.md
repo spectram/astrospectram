@@ -1,9 +1,9 @@
 ---
 title: Organizing a TEDx event
-subtitle: "I write about my story organizing a TEDx event and about the theme:
-  Breathtaking Disarray"
-excerpt: "I write about my story organizing a TEDx event and about the theme:
-  Breathtaking Disarray"
+subtitle: "I write about my experience organizing a TEDx event and about the theme:
+  Breathtaking Disarray which was adopted from a poem that I had written in the past."
+excerpt: "I write about my experience organizing a TEDx event and about the theme:
+  Breathtaking Disarray which was adopted from a poem that I had written in the past."
 categories: volunteering
 date: '2022-06-05'
 slug: tedx
@@ -14,27 +14,27 @@ hide_header: false
 layout: post
 seo:
   metatitle: My experience organizing a TEDx event | Sriram Sankar
-  description: "I write about my story organizing a TEDx event and about the
-    theme: Breathtaking Disarray"
+  description: "I write about my experience organizing a TEDx event and about the
+    theme: Breathtaking Disarray which was adopted from a poem that I had written in the past."
   yoast_keyword: ""
 ---
 ### Background
 
-Over the years in my hometown, I had met some amazing people and been a part of some interesting conversations. The [blind journalist](https://www.youtube.com/watch?v=yUyYmZaAhqM) turned English teacher who made me tear up with his jovial and inspiring personality. The [french teacher/musician](https://www.youtube.com/watch?v=_mam3EJoTSQ) who travels the world learning traditional songs in various languages. The conversation with a cousin on a beach in Goa about the [Indo-Aryan migration theory](https://www.youtube.com/watch?v=LEYV7dJaunY). And so many others. Being a regular subscriber of TED talks, I decided to try my hand at organizing a TEDx event, especially to give the world, the chance to be inspired by the English teacher. So I searched my poetry vault for theme ideas and applied for an event license. 
+Over the years in my hometown, I had met some wonderful people and been a part of some interesting conversations. The [blind journalist](https://www.youtube.com/watch?v=yUyYmZaAhqM) turned English teacher, who made me tear up with his jovial and inspiring personality. The [french teacher/musician](https://www.youtube.com/watch?v=_mam3EJoTSQ), who travels the world learning traditional songs in various languages. The conversation with a cousin on a beach in Goa about the [Indo-Aryan migration theory](https://www.youtube.com/watch?v=LEYV7dJaunY). And so many others. Being a regular subscriber of TED talks, I decided to try my hand at organizing a TEDx event for the challenge and for showcasing some ‘ideas worth spreading’. So I searched my poetry vault for theme ideas and applied for an event license.
 
 ### Organizing a TEDx event
 
-The real work began after obtaining the license in March 2018. After reading the TEDx rules and paying close attention to some great talks, it was evident that this was not going to be an easy task. Especially because I wanted to organize a quality event. Most TEDx events (especially in India) were organized for the associated branding and not with the intention of showcasing 'ideas worth spreading'. Not under my watch. However, I had almost graduated and was busy planning the next phase of my life. I wanted to pursue physics and was starting to prepare for standardized tests. 
+The real work began after obtaining the license in March 2018. After reading the TEDx rules and paying close attention to some great talks, it was evident that this was not going to be an easy task. 
 
-A team was assembled with the help of the literary club and some mechanical engineering students. My amazing curator and co-organizer, Aiswarya quickly rose to the challenge and was hard at work parsing the rules.  While, Hari, another curator began efforts for sourcing funding. We divided the volunteers into different groups and delegated various tasks. The social media team, the curation team, the logistics team etc. This was still pretty early so our priorities were to find speakers and to train the curation team for assisting with scripting. 
+A team was assembled with the help of the literary club and some mechanical engineering students. My amazing curator and co-organizer, Aiswarya Sux, quickly rose to the challenge and was hard at work parsing the rules. While, Hari, another curator began the efforts for sourcing funding. We divided the volunteers into different groups and delegated various tasks. The social media team, the curation team, the logistics team, etc. This was still pretty early so our priorities were to find speakers and to train the curation team for assisting with scripting.
 
-Thus began the scheduled viewing of TED talks and follow-up discussions. We would pick one or two talks per week and critically assess them based on quality, rhetorical devices, logical fallacies, delivery, etc. A friend, [Devika](https://www.youtube.com/watch?v=Gc0agFucJ_o), who later became a speaker at the event, also joined us for these discussions and contributed immensely. This was a fruitful exercise as the goal regarding quality was now set in everyone's minds. This helped us to work with the speakers to ensure that they delivered their best possible speeches. Each speaker had an assistant appointed. Aiswarya and I worked with the speaker assistant and the speaker for planning, scripting, and dress rehearsal.
+Thus began the scheduled viewing of TED talks and follow-up discussions. We would pick one or two talks per week and critically assess them based on quality, rhetorical devices, logical fallacies, delivery, etc. This was a fruitful exercise as the goal regarding quality was now set in everyone's minds. This helped us to work with the speakers to ensure that they delivered their best possible speeches. Each speaker was assigned a volunteer as an assistant who liaised with the speaker, Aiswarya, and myself for planning, scripting, and dress rehearsal.
 
 ### Breathtaking Disarray
 
 There are certain rare moments in life when one can look back and see all those tiny irrelevant things for their mighty contributions. Moments of clarity such as this make sense out of chaotic occurrences.
 
-> *Serendipity - A combination of events which are not individually beneficial, but occurring together to produce a wonderful outcome.*
+> *Serendipity - A combination of events that are not individually beneficial, but occur together to produce a wonderful outcome.*
 
 However, most times all one sees is disarray. Moments when nothing makes sense. Maybe all one gets are moments such as this, maybe one must die never truly knowing, but the disarray will always be breathtaking.
 
@@ -44,6 +44,6 @@ The palette contains all the colors and the paint is still wet, the artist takes
 
 ### The event
 
-The event was a tremendous success. We showcased some amazing talks like the [Cosmic Perspective](https://www.youtube.com/watch?v=8_578tfStPI) and also shared some laughter thanks to Vishnu Pai's stand-up performance. At the event, we had a 'flight' theme for which we distributed boarding passes and the emcees led the volunteers in playing the role of flight attendants. My amazing co-organizer Aiswarya, an emcee for the event, even enacted the gestures for flight safety instructions. A very nervous flight captain (definitely not me :P) messed up his welcome announcement.
+The event was a tremendous success. We showcased some amazing talks like the [Cosmic Perspective](https://www.youtube.com/watch?v=8_578tfStPI), [Breaking the stencil](https://www.youtube.com/watch?v=Gc0agFucJ_o), [To think or not to think]([https://www.youtube.com/watch?v=B9dQCjbgB9M](https://www.youtube.com/watch?v=B9dQCjbgB9M)), and many more. 
 
-In the end, like the theme that was adopted from my poetry, I gave a part of me to the event. This time, the kind soul that is Molly Ma'am, greatly appreciated my efforts. Although, I didn't stay for the applause.
+At the event, we had a 'flight' theme for which we distributed boarding passes and the emcees led the volunteers in playing the role of flight attendants. My amazing co-organizer Aiswarya, an emcee for the event, even enacted the gestures for flight safety instructions. A very nervous flight captain (definitely not me :P) messed up his welcome announcement. In the end, like the theme adopted from my poetry, the event had pieces of me.
