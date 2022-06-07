@@ -1,7 +1,6 @@
 ---
 title: Portfolio website and student community
-subtitle: 
-I started this project to prove what was possible and to offer students the opportunity to learn additional skills and benefit from the department profile. I am happy to report that all of that was accomplished and I enjoyed the challenge.
+subtitle: I started this project to prove what was possible and to offer students the opportunity to learn additional skills and benefit from the department profile. I am happy to report that all of that was accomplished and I enjoyed the challenge.
 excerpt: I trained a team of 50 students in various aspects of website building
   and content marketing like WordPress website development and management,
   content creation, social media marketing, graphics designing, database
