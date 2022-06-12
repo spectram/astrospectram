@@ -17,6 +17,11 @@ seo:
   description: "I write about my experience organizing a TEDx event and about the
     theme: Breathtaking Disarray which was adopted from a poem that I had written in the past."
   yoast_keyword: ""
+tagline: |
+  Bold proclamations that were 
+  once buried deep.   
+  Some fledgling saplings, 
+  others full grown trees
 ---
 ### Background
 

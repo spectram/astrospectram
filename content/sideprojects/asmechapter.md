@@ -21,6 +21,11 @@ seo:
   description: How some students reshaped the typical Indian engineering education
     paradigm by utilizing ASME activities as anchors for getting involved in
     engineering.
+tagline: |
+  Bold proclamations that were 
+  once buried deep.   
+  Some fledgling saplings, 
+  others full grown trees
 ---
 ### Background
 

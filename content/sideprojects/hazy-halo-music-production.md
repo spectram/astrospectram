@@ -37,6 +37,11 @@ seo:
       value: images/humdrum-hazyhalo.jpg
       relativeUrl: true
 layout: post
+tagline: |
+  Bold proclamations that were 
+  once buried deep.   
+  Some fledgling saplings, 
+  others full grown trees
 ---
 
 ## Humdrum
@@ -46,7 +51,6 @@ We composed Humdrum in a ballad style and it takes the listener on an allegorica
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DnuQBEYJyHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-
 
 ## Moonshine in the dark
 
