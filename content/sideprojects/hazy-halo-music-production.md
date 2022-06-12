@@ -1,9 +1,9 @@
 ---
-title: Hazy Halo - A music production project
+title: Hazy Halo - A Music Production Project
 subtitle: A small covid project to compose some of my poems, record vocals, and produce music.
 excerpt: >-
   My sister and I worked together to compose, record, and produce some of my poems during the 2020 covid lockdown. We had a ukulele, a small recording setup, a laptop, and some help from friends.
-date: '2020-01-23'
+date: '2022-06-07'
 thumb_img_path: images/humdrum-hazyhalo.jpg
 thumb_img_alt: Humdrum Album Art Painted by Aiswarya
 content_img_path: images/moonshine-hazyhalo.jpg

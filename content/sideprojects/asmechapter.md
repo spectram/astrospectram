@@ -8,8 +8,8 @@ content_img_path: images/sriram_imece.jpg
 thumb_img_alt: Presenting my project at IMECE 2017 in Tampa
 hide_header: false
 layout: post
-date: '04/06/2022'
-title: ASME student chapter
+date: '2022-06-04'
+title: ASME Student Chapter
 subtitle: We did some cool things to offset some systemic problems and had a lot
   of fun in the process. With the help of a global platform, we gained better
   exposure to engineering.
