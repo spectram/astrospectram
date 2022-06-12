@@ -1,5 +1,5 @@
 ---
-title: Hazy Halo - Music Production
+title: Hazy Halo - A music production project
 subtitle: A small covid project to compose some of my poems, record vocals, and produce music.
 excerpt: >-
   My sister and I worked together to compose, record, and produce some of my poems during the 2020 covid lockdown. We had a ukulele, a small recording setup, a laptop, and some help from friends.

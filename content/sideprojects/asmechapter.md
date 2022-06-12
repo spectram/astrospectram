@@ -9,7 +9,7 @@ thumb_img_alt: Presenting my project at IMECE 2017 in Tampa
 hide_header: false
 layout: post
 date: '04/06/2022'
-title: ASME Student Chapter
+title: ASME student chapter
 subtitle: We did some cool things to offset some systemic problems and had a lot
   of fun in the process. With the help of a global platform, we gained better
   exposure to engineering.

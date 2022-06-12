@@ -1,65 +1,85 @@
 ---
-title: Fox Village In Japan
+title: Green SAAO - A sustainability movement
 subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
+ Green SAAO, a vision with a deep commitment to the environment, 
+ a prism with a mind of its own, a telescope with a sustainable response function, 
+ a pair of lenses with a green filter.
 excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
-  Japanese architecture. Largely of wood, traditional housing and many temple
-  buildings see the use of tatami mats and sliding doors that break down the
-  distinction between rooms and indoor and outdoor space.
-date: '2020-01-11'
-thumb_img_path: images/10.jpg
-thumb_img_alt: A red fox sitting on a meadow
-content_img_path: images/10.jpg
+  Green SAAO, a vision with a deep commitment to the environment, 
+  a prism with a mind of its own, a telescope with a sustainable response function, 
+  a pair of lenses with a green filter. 
+date: '2022-01-11'
+thumb_img_path: images/trash2work.jpg
+thumb_img_alt: Green SAAO - A sustainability movement
+content_img_path: images/greensaao.jpg
 seo:
-  metatitle: Fox Village In Japan
+  metatitle: Green SAAO - A sustainability movement
   description: >-
-    Apparently, Japan is covered in magical and irresistibly cute animal
-    sanctuaries.
+  Green SAAO, a vision with a deep commitment to the environment, 
+  a prism with a mind of its own, a telescope with a sustainable response function, 
+  a pair of lenses with a green filter.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Fox Village In Japan
+      value: Green SAAO - A sustainability movement
       keyName: property
     - name: 'og:description'
       value: >-
-        Apparently, Japan is covered in magical and irresistibly cute animal
-        sanctuaries.
+        Green SAAO is a vision with a deep commitment to the planet.
       keyName: property
     - name: 'og:image'
-      value: images/10.jpg
+      value: images/greensaao.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Fox Village In Japan
+      value: Green SAAO - A sustainability movement
     - name: 'twitter:description'
       value: >-
-        Apparently, Japan is covered in magical and irresistibly cute animal
-        sanctuaries.
+        Green SAAO is a vision with a deep commitment to the planet.
     - name: 'twitter:image'
-      value: images/10.jpg
+      value: images/greensaao.jpg
       relativeUrl: true
 layout: post
+tagline: |
+  Bold proclamations that were 
+  once buried deep.   
+  Some fledgling saplings, 
+  others full grown trees
 ---
+## Astronomy and climate change
 
-Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries. **The Shrines of Ise** have been celebrated as the prototype of Japanese architecture. Largely of wood, traditional housing and many temple buildings see the use of tatami mats and sliding doors that break down the distinction between rooms and indoor and outdoor space.
+Since the beginning, astronomy has been about looking out of the planet into the unknown and trying to understand humanity’s place in the vast universe. Throughout the years, from our vantage point in the cosmos, the oldest science has uncovered several facts that serve as constant reminders to its pursuers about the uniqueness of our planet. A cozy corner away from violent explosions, colliding rocks, and hot winds, from where humanity has wondered about its place in the universe - for generations. After peering deep and far into the universe, studying planets across our Galaxy, and grappling with technology and physical limitations, we can confidently say that there is **no Planet B**. The scientific community sees the fragility of life as it dangles by a narrow thread, protected by a thin sheath of air that is continuously being exploited. It is glaringly evident that human beings have accelerated and are accelerating global warming by recklessly emitting greenhouse gases, even to this day when alternatives exist.
 
-> The fox never found a better messenger than himself.
+## What can we do?
 
-As the programming of <a title="Japan" href="http://en.wikipedia.org/wiki/Japan" target="_blank">Japan’s</a> traditional culture gradually weakened from 1945 on, individual Japanese began to exercise some personal choice in their private lives. But the newly mandated freedoms had a minimal effect on a number of key institutions.
+> “There is an anesthetic of familiarity, a sedative of ordinariness which dulls the senses and hides the wonder of existence. …"
+<cite> Richard Dawkins </cite>
 
-Japan’s educational, economical and political systems remained hidebound bulwarks of traditional behavior. The politically guided economic system in particular was able to generate enormous power that could be directed with the precision of a laser beam.
+As we traverse through life bombarded with the mundane, we seldom realize when this anesthesia kicks in. There are simply too many battles for us to fight and we rarely win. Whereas this anesthesia is like eternal sunshine of the spotless mind, immediately offering relief. 
 
-Twelve species belong to the monophyletic group of Vulpes genus of **"true foxes"**. Approximately another 25 current or extinct species are always or sometimes called foxes; these foxes are either part of the paraphyletic group of the South American foxes, or of the outlying group, which consists of bat-eared fox, gray fox, and island fox. Foxes are found on every continent except Antarctica. By far the most common and widespread species of fox is the red fox *(Vulpes vulpes)* with about 47 recognized subspecies. 
+*Our fight for the planet does not have to be fought with guns, the call for reform does not have to be fraught with anger, the protest against harmful practices does not always have to be out on the streets. This can begin in our everyday lives by abolishing everyday practices **fueled by lies**.*
 
-> The fox changes his fur but not his habits.
+ It is up to us to reflect on unsustainable practices that have seeped into our lives. The solution is simple; it starts with switching off lights when not required, to recycling, composting, and planting trees. **Just like that our everyday life becomes the protest, a proof of what is possible.**  
 
-The global distribution of foxes, together with their widespread reputation for cunning, has contributed to their prominence in popular culture and folklore in many societies around the world. The hunting of foxes with packs of hounds, long an established pursuit in Europe, especially in the British Isles, was exported by European settlers to various parts of the New World. { <a title="Fox" href="https://en.wikipedia.org/wiki/Fox" target="_blank">Source</a> }
+## Green SAAO's promises
 
-The interaction between Japanese and European art has been significant: for example ukiyo-e prints, which began to be exported in the 19th century in the movement known as Japonism, had a significant influence on the development of modern art in the West, most notably on post-Impressionism. Famous ukiyo-e artists include Hokusai and Hiroshige. The fusion of traditional woodblock printing and Western art led to the creation of manga, a comic book format that is now popular within and outside Japan. Manga-influenced animation for television and film is called anime. Japanese-made video game consoles have been popular since the 1980s. { <a title="Ise Grand Shrine" href="http://en.wikipedia.org/wiki/Ise_Grand_Shrine" target="_blank">Source</a> }
+Green SAAO was born out of the need for addressing the threat of climate change and Astronomy’s role in the fight for the planet. For this, we must first evaluate and adopt practices to curb SAAO’s impact on the environment. As SAAO continues to look out into the open skies, Green SAAO adds the promise of looking inward as well. Inward as a community, as a species, and as a planet. This journey is to ensure that our impact on this system that grounds us in our pursuit of knowledge is as minimal as possible. This is not a one-stop destination but an ongoing commitment in tandem with our scientific pursuits and it requires dedication from all the staff. 
+
+The second promise is tied with SAAO’s outreach activities. While continuing to serve as the eyes of the planet, it is also our responsibility to join other voices for the planet in effectively communicating the dangers of climate change and in pushing for global structural reforms, especially from the perspective of astronomy. 
+
+## What are we doing?
+
+- We are working with site management to install sustainable waste management practices within the organization. This includes recycling, composting, e-waste management, and running internal campaigns for spreading awareness.
+- We are currently running internal campaigns for optimal resource utilization. 
+- We are working with the outreach team to incorporate climate change communication as part of astronomy outreach.
+- We are planning to draft proposals for fynbos restoration and solar power generation in our Cape Town site.
+- We are working towards estimating and monitoring SAAO's carbon footprint. 
+
+
+<p>
+![Green SAAO logo](images/greensaao-compressed.gif)
+</p>
