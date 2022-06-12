@@ -14,10 +14,7 @@ thumb_img_alt: Green SAAO - A sustainability movement
 content_img_path: images/greensaao.jpg
 seo:
   metatitle: Green SAAO - A sustainability movement
-  description: >-
-  Green SAAO, a vision with a deep commitment to the environment, 
-  a prism with a mind of its own, a telescope with a sustainable response function, 
-  a pair of lenses with a green filter.
+  description: Green SAAO, a vision with a deep commitment to the environment, a prism with a mind of its own, a telescope with a sustainable response function, a pair of lenses with a green filter.
   extra:
     - name: 'og:type'
       value: article
