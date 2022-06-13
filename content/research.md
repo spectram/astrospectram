@@ -7,14 +7,14 @@ subtitle: >-
 img_path: images/research-bg.jpg
 tagline: Hoping to add a page or at least a citation to Humanity's book of the Cosmos
 seo:
-  metatitle: Research Overview
+  metatitle: Sriram Sankar's Research Overview
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Theme Style Guide
+      value: Sriram Sankar's Research Overview
       keyName: property
     - name: 'og:description'
       value: >-
@@ -22,7 +22,7 @@ seo:
         content
       keyName: property
     - name: 'og:image'
-      value: images/style-guide.jpg
+      value: images/research-bg.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -34,81 +34,39 @@ seo:
         A reference for suggested typographic treatment and styles for your
         content
     - name: 'twitter:image'
-      value: images/style-guide.jpg
+      value: images/research-bg.jpg
       relativeUrl: true
 layout: page
 ---
 
-**This is a paragraph**. Paragraphs are usually represented in visual media as blocks of text separated from adjacent blocks by blank lines and/or first-line [indentation](https://en.wikipedia.org/wiki/Indentation_(typesetting)), but <abbr title="HyperText Markup Language">HTML</abbr> paragraphs can be any structural grouping of related content, such as images or form fields.
+## Gas 101
 
-The HTML &lt;h1&gt;–&lt;h6&gt; elements represent six levels of section headings. &lt;h1&gt; is the highest section level and &lt;h6&gt; is the lowest.
+Gas is a major part of galaxies, occupying a range of regions from the space between stars [(Interstellar Medium; ISM](https://en.wikipedia.org/wiki/Interstellar_medium)) to the outskirts ([Circumgalactic Medium; CGM](https://www.annualreviews.org/doi/10.1146/annurev-astro-091916-055240)). In groups, they occupy the Intra-Group Medium (IGrM) and in clusters, the [Intra-Cluster Medium (ICM)](https://en.wikipedia.org/wiki/Intracluster_medium). Outside these environments, they permeate the filamentary structures of the cosmic web ([Intergalactic Medium; IGM](https://www.britannica.com/science/intergalactic-medium)). These might seem like fancy names for the same thing, but the physical properties and origin of gas in these regions are diverse. One can easily appreciate that gas near galaxies is more metal-enriched than gas in the IGM. Gas is essential for sustaining star formation and there are various ways in which galaxies obtain this fuel (accretion, mergers, interactions, etc.). The stars in the galaxies then leave their signatures in the gas during their lifetime. Thus, making it an important laboratory for studying a range of physical processes important for galaxy evolution and structure formation. However, these gases exist in multiple phases ranging from cold dense molecular gas to hot diffuse ionized plasma which adds additional layers of complexity. We, therefore, employ clever techniques and multi-wavelength observations to study the different phases of gas occupying the various mediums. 
 
-# This is an H1
+**TLDR:** Gas in the universe = Multiple phases (temperature, density, volume, etc.); Multiple regions (ISM, CGM, IGrM, ICM, IGM);
 
-## This is an H2
+**Workaround:** Multiple Wavelengths & Techniques => CO in sub-mm for molecular gas; HI 21cm in radio for neutral gas; Emission lines like Halpha, [OIII], [NII], etc. in Optical/UV for cold and warm gas; X-ray, radio continuum, tSZ effect in the microwave, FRBs, etc. for high energy processes (hot gas*). Then there is absorption line spectroscopy of background sources (QSOs, GRBs, galaxies, lensed galaxies, etc.). Statistical sampling, high-resolution simulations, and multi-wavelength observations are employed to study the complex density profile, phase structure, and kinematics of gas in various environments. 
 
-### This is an H3
+## Baryon cycle in galaxy groups
 
-#### This is an H4
+Multiphase studies of the baryon cycle in groups at different stages of assembly combined with the multi-wavelength characterization of galaxies in the groups will inform us of the gas kinematics, group dynamics, galaxy properties, and subsequently the evolution of both groups and galaxies. While some works find increased star formation suppression events in groups, several others find enhanced star formation due to gas supply from satellite galaxies, mergers, and accretion from the cosmic web. This dichotomy of gas-rich and gas-poor groups has been linked to the stage in group evolution with the former being in early and the latter in late stages of assembly. Even though it is well known that galaxies shape and are shaped by their environments, the relative contribution of environmental and internal galactic processes remains poorly understood. We study the baryon cycle in two nearby low-mass, gas-rich, late-type dominated, and relatively isolated groups where the biggest members show varying levels of tidal interaction. The high spatial & spectral resolution, sensitivity, and wide field-of-view of MeerKAT enable us to detect HI down to N(HI) ~ 3x10^{19} cm^{-2} and to probe a major extent of the group. We explore previously known and unknown dwarf members, tidal interactions, outflows, etc. to accurately characterize the group environments and to study the kinematics of the neutral gas in the group. Resolved studies of such unique laboratories that encapsulate several key processes of the baryon cycle spanning the ISM, CGM, and IGrM are crucial for constraining galaxy evolution models. 
 
-##### This is an H5
+## Small-scale distribution of metals and gas
 
-###### This is an H6
+Studying the small-scale properties of gas in these environments will offer clues to various open quandaries in galaxy evolution: On what scales are metals mixed? Do low and high ions have different coherence scales? How does it vary with the environment? 
 
-Avoid using heading tags to resize text. Instead, use the CSS font-size property. Headings use size to indicate their relative importance, but CSS is preferred for general-purpose resizing.
+One powerful observational technique employed to study gas is QSO absorption line spectroscopy which uses background [Quasi-Stellar Objects (QSOs)](https://en.wikipedia.org/wiki/Quasar) as flashlights to look through dark foreground gas reservoirs. On the way to our telescopes, the light from the background source picks up ‘absorption signatures’ left by metals (elements) in the intervening gas. Thus “illuminating” the intervening non-luminous gas along the pencil beam. By analysing the spectral imprints of the ions residing in the foreground gas reservoirs (ISM, CGM, IGrM, ICM, IGM) on the spectra of targeted background QSOs, we can study the physical and chemical properties of the foreground medium. 
 
-## Quoting
+>Studying gas reservoirs using information conveyed by tiny ions through passerby messengers that were sent out across spacetime by distant luminous sources.
 
-The HTML blockquote element defines a long block quotation in the HTML document from another source.
+Recently in [Sameer et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.5796S/abstract) (fifth author), we study the physical and chemical properties of the Leo HI Ring and the Leo I Group using HST COS observations of 11 quasar sightlines spread over a ~ 600 x 800 kpc^2 region. We couple cloud-by-cloud, multiphase, Bayesian ionization modelling with galaxy property information to determine the plausible origin of the absorbing gas along these sightlines.
 
->“Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.” <cite>― Scott Adams</cite>
+In my first, first-author paper ([Sankar et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.4864S/abstract), we utilize a series of diagnostic ions spanning a wide range of ionization energies (OIII to OVI) to study a sample of five intermediate redshift absorbers likely tracing the CGM. We perform detailed component-by-component modelling of high-resolution UV-HST and Optical-Keck archival spectroscopic data to extract information on the small-scale metallicity-density-temperature structure of the CGM. We also recover nucleosynthetic yields that predict a preferential enrichment from Type II SNe. We further report the lowest redshift intervening absorber with HeI detected, three systems with OV detected, and one system with NeV, NeVI detected along with O III to OVI. 
 
-A URL for the source of the quotation may be given using the cite attribute, while a text representation of the source can be given using the &lt;cite&gt; element.
+In [Pradeep, Sankar, et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493..250P/abstract) we report a low redshift, multiphase weak-MgII analogue absorber that resides in an overdense environment with an ionization structure that is remarkably similar to that of Galactic high-velocity clouds. This work demonstrates the advantage of using weak low ionization absorbers as a means to study the CGM of external galaxies. 
 
-<hr />
+The picture of the CGM emerging through several absorption line studies and hydrodynamic simulations is that of a multiphase medium that is composed of Hydrogen and Metals at various ionizations tracing gas in different temperature and density regimes. With the metals, especially the lower ionizations arising from patches in pc to even a few kpc confined in a diffuse hot corona. Our findings are consistent with a patchy metal distribution in the overall CGM environment.
 
-## Unordered Lists
+### Upgrade to QSO absorption line
 
-Groups a collection of items that do not have a numerical ordering, and their order in the list is meaningless.
-
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
-
-## Ordered Lists
-
-Represents a list of items. The only difference from the unordered list is taht the order of the items is meaningful.
-
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
-
-## Code Blocks
-
-<pre>/* Some example CSS code */
-body {
-  color:red;
-}
-</pre>
-
-## Tables
-
-<table>
-  <caption>Simple table with caption and header</caption>
-  <tr>
-    <th>First name</th>
-    <th>Last name</th>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-  </tr>
-  <tr>
-    <td>Jane</td>
-    <td>Doe</td>
-  </tr>
-</table>
+However, this technique only allows us to probe a small area of the foreground structure, which limits our understanding of small-scale variations in properties. Although, when combined with statistics, this can offer a wealth of information on the large-scale distribution of gas. Several recent works have explored multiple sightlines through the same medium to understand small-scale property variations. However, due to the small number of sightlines piercing through any particular structure, the gas remains poorly sampled. Thanks to [Integral Field Spectroscopy (IFS)](https://en.wikipedia.org/wiki/Integral_field_spectrograph), we can now utilize extended structures such as [gravitationally lensed](https://www.science.org.au/curious/space-time/gravitational-lensing) sources, galaxies, etc. as background sources. IFS provides a spectrum for each pixel in our 2D view of a source thus giving us a spatially resolved 3D representation of the target. This is a major update to the 50-year-old technique for studying gas, QSO absorption line spectroscopy.
