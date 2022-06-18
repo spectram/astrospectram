@@ -48,6 +48,7 @@ tagline: |
   once buried deep.   
   Some fledgling saplings, 
   others full-grown trees
+socialshare: true
 ---
 Since the beginning, astronomy has been about looking out of the planet into the unknown and trying to understand humanity’s place in the vast universe. Throughout the years, from our vantage point in the cosmos, the oldest science has uncovered several facts that serve as constant reminders to its pursuers about the uniqueness of our planet. A cozy corner away from violent explosions, colliding rocks, and hot winds, from where humanity has wondered about its place in the universe - for generations. After peering deep and far into the universe, studying planets across our Galaxy, and grappling with technology and physical limitations, we can confidently say that there is **no Planet B**. The scientific community sees the fragility of life as it dangles by a narrow thread, protected by a thin sheath of air that is continuously being exploited. It is glaringly evident that human beings have accelerated and are accelerating global warming by recklessly emitting greenhouse gases, even to this day when alternatives exist.
 
