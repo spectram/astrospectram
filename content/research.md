@@ -7,7 +7,7 @@ subtitle: >-
 img_path: images/research-bg.jpg
 tagline: Hoping to add a page or at least a citation to Humanity's book of the Cosmos
 seo:
-  metatitle: Sriram Sankar's Research Overview
+  metatitle: Research Overview | Sriram Sankar
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'

@@ -1,5 +1,5 @@
 ---
-title: Portfolio Website And Student Community
+title: Portfolio Website and Community
 subtitle: I started this project to prove what was possible and to offer students the opportunity to learn additional skills and benefit from the department profile. I am happy to report that all of that was accomplished and I enjoyed the challenge.
 excerpt: I trained a team of 50 students in various aspects of website building
   and content marketing like WordPress website development and management,
@@ -14,7 +14,7 @@ thumb_img_alt: Mechanical Engineering Students
 hide_header: false
 layout: post
 seo:
-  metatitle: Portfolio website and student community | Sriram Sankar
+  metatitle: Portfolio Website and Community | Sriram Sankar
   description: I trained a team of 50 students in various aspects of website
     building and content marketing like WordPress website development and
     management, content creation, social media marketing, graphics designing,
@@ -23,7 +23,7 @@ tagline: |
   Bold proclamations that were 
   once buried deep.   
   Some fledgling saplings, 
-  others full grown trees
+  others full-grown trees
 ---
 ### The story
 
