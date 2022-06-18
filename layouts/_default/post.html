@@ -28,12 +28,10 @@
           {{ .Content | safeHTML }}
         </div><!-- .post-content -->
       </article><!-- .post -->
-
+      {{ partial "socialshare.html" . }}
     </main><!-- .site-main -->
 
     {{ partial "footer.html" . }}
 
   </div><!-- .site-content -->
-
-  {{ partial "socialshare.html" . }}
 {{ end }}
