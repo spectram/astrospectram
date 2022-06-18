@@ -11,3 +11,11 @@ markup:
       unsafe: true
 permalinks:
     categories: "/:slug/"
+Params:
+  social:
+    share:
+      facebook: true
+      linkedin: true
+      twitter: true
+      whatsapp: true
+      email: true
