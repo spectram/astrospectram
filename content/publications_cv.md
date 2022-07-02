@@ -11,16 +11,18 @@ seo:
 layout: page
 ---
 
-Check out [research overview]({{< ref "/research" >}}) for a brief about some of my publshed works. See below for links to my ORCiD page and to an ADS list. 
+Check out [research overview]({{< ref "/research" >}}) for a brief about some of my publshed works. 
+
+See below for links to my ORCiD page and to an ADS list. 
 
 <div style="padding-bottom:20px;">
-<div style="width: 50%; float:left">
+<div style="width: 70%; float:left">
 <a href=" https://orcid.org/0000-0002-7607-081X ">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
   https://orcid.org/0000-0002-7607-081X 
 </a>
 </div>
-<div style="width: 50%; float:right">
+<div style="width: 30%; float:right">
 <a href="https://ui.adsabs.harvard.edu/search/q=docs(29fedbfddfa601303a88e5815bb403a0)&sort=date%20desc%2C%20bibcode%20desc&p_=0"> ADS link 
 </a>
 </div>
@@ -28,4 +30,4 @@ Check out [research overview]({{< ref "/research" >}}) for a brief about some of
 </div>
 
 
-Download my latest CV as a pdf (updated July 2022)
+[Download my latest CV as a pdf (updated on 02 July 2022)]("/ssankar_jul2022_cv.pdf")
