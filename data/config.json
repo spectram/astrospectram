@@ -34,7 +34,7 @@
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link"
-            }
+            },
             {
                 "label": "Publications & CV",
                 "url": "/publications_cv",
@@ -67,7 +67,7 @@
         ]
     },
     "footer": {
-        "content": "Hi there! Welcome to my little creative repository on the internet. That's right! you are looking at a JAMSTACK site (+ Netlify CMS) hosted on my Github repo, deployed through Netlify."
+        "content": "Hi there! Welcome to my little creative repository on the internet. That's right! you are looking at a JAMSTACK site hosted on my Github repo, deployed through Netlify."
     },
     "domain": "https://spectram.netlify.app"
 }
