@@ -17,5 +17,5 @@ Params:
       facebook: true
       linkedin: true
       twitter: true
-      whatsapp: true
+      whatsapp: false
       email: true

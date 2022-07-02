@@ -80,15 +80,17 @@ layout: contact
   </tr>
 </table>
 
+<div style="padding-bottom:20px;">
 <div style="width: 50%; float:left">
 <a href=" https://orcid.org/0000-0002-7607-081X ">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
   https://orcid.org/0000-0002-7607-081X 
 </a>
 </div>
-
 <div style="width: 50%; float:right">
 Latest CV as pdf (updated 8 June 2022)
+</div>
+<div style="clear: both;"></div>
 </div>
 
 <p>

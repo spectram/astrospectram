@@ -7,7 +7,7 @@ more_link_text: Keep reading
 tagline: |-
   Walk into the forest of thoughts, 
   take all that you can carry 
-  into the realm of man.   
+  into the realm of man  
 seo:
   metatitle: Thoughts | Sriram Sankar
   description: Walk into the forest of thoughts, take all that you can carry into the realm of man

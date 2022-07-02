@@ -16,7 +16,7 @@ subtitle: We did some cool things to offset some systemic problems and had a lot
 categories: volunteering
 date: '2022-06-05'
 seo:
-  metatitle: How we utilized ASME activities to get involved in engineering |
+  metatitle: How we got involved in engineering through ASME activities |
     Sriram Sankar
   description: How some students reshaped the typical Indian engineering education
     paradigm by utilizing ASME activities as anchors for getting involved in
