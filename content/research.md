@@ -58,9 +58,8 @@ We also plan to utilize optical spectra from RSS-SALT to study the chemical prop
 
 #### Recent developments in Radio Astronomy
 
-MeerKAT
-APERTIF - Phased array - multi-beam
-SKA, ngVLA, ALMA, DSA, FAST, Surveys like WALLABY
+Radio astronomy offers a crucial view of several aspects of the universe, from fast radio bursts to the epoch of reionization. 
+Unhindered by dust, atmospheric absorption, and sunlight, radio interferometric astronomical observations can be performed throughout the day from radio-quiet locations on earth. The deluge of data from various modern radio telescopes, although a challenge, posits tremendous potential for discovery. However, With growing concerns about increasing terrestrial radio interferences from satellite constellations, we are at a seminal moment in time. Several radio interferometers have come up or have undergone upgrades in recent years such as the JVLA, WSRT-Apertif, ASKAP, ALMA, LOFAR, MWA, MeerKAT, etc. These allow us to simultaneously survey vast regions on sky spanning a broad bandwidth and a range of sensitivities. This is just a start. With upcoming massive projects like the SKA, ngVLA, DSA, etc, our radio eyes will be sharper than ever before (although with bigger blind spots due to RFI). The future for the field looks exciting if we were to overlook the grim cloud that is looming over our heads. 
 
 ---
 
@@ -68,7 +67,7 @@ SKA, ngVLA, ALMA, DSA, FAST, Surveys like WALLABY
 
 Studying the small-scale properties of gas in these environments will offer clues to various open quandaries in galaxy evolution: On what scales are metals mixed? Do low and high ions have different coherence scales? How does it vary with the environment? 
 
-One powerful observational technique employed to study gas is QSO absorption line spectroscopy which uses background [Quasi-Stellar Objects (QSOs)](https://en.wikipedia.org/wiki/Quasar) as flashlights to look through dark foreground gas reservoirs. On the way to our telescopes, the light from the background source picks up ‘absorption signatures’ left by metals (elements) in the intervening gas. Thus “illuminating” the intervening non-luminous gas along the pencil beam. By analysing the spectral imprints of the ions residing in the foreground gas reservoirs (ISM, CGM, IGrM, ICM, IGM) on the spectra of targeted background QSOs, we can study the physical and chemical properties of the foreground medium. 
+One powerful observational technique employed to study gas is QSO absorption line spectroscopy which uses background [Quasi-Stellar Objects (QSOs)](https://en.wikipedia.org/wiki/Quasar) as flashlights to look through dark foreground gas reservoirs. On the way to our telescopes, the light from the background source picks up ‘absorption signatures’ left by metals (elements) in the intervening gas. Thus “illuminating” the intervening non-luminous gas along the pencil beam. By analysing the spectral imprints of the ions residing in the foreground gas reservoirs (ISM, CGM, IGrM, ICM, IGM) on the spectra of targeted background QSOs, we can study the physical and chemical properties of the foreground medium. Below, I discuss 3 past works in collaboration with Anand Narayanan, Jane Charlton, Bart Wakker, Blair Savage, et al.
 
 >Studying gas reservoirs using information conveyed by tiny ions through passerby messengers that were sent out across spacetime by distant luminous sources.
 
