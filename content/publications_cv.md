@@ -8,7 +8,7 @@ img_path: images/contact-bg.jpg
 seo:
   metatitle: Publications and CV | Sriram Sankar
   description: Links to full list of publications and download CV as pdf 
-layout: contact
+layout: page
 ---
 
 Check out [research overview]({{< ref "/research" >}}) for a brief about some of my publshed works. See below for links to my ORCiD page and to an ADS list. 
