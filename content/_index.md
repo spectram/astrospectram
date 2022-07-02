@@ -34,7 +34,7 @@ seo:
 layout: page
 ---
 
-I am currently interested in studying gas kinematics and galaxy dynamics in various gravitational potential wells using spatially resolved multi-wavelength spectroscopy and simulations. **I am looking for Ph.D. opportunities (starting in 2023) in closely related research areas.** To get in touch or to download my CV [click here]({{< ref "/contact" >}}). 
+I am currently interested in studying gas kinematics and galaxy dynamics in various gravitational potential wells using spatially resolved multi-wavelength spectroscopy and simulations. **I am looking for Ph.D. opportunities (starting in 2023) in closely related research areas.** To check out my publications list and to download my CV [click here]({{< ref "/publications_cv" >}}). To get in touch [click here]({{< ref "/contact" >}}). 
 
 I am a Master’s candidate at the [Department of Astronomy, University of Cape Town (UCT)](http://www.ast.uct.ac.za/), based at the [South African Astronomical Observatory (SAAO)](https://www.saao.ac.za/), funded through the SALT-SAAO Prize MSc Fellowship 2021, and supervised by Dr. Moses Mogotsi and Prof. Matthew Bershady. My thesis is on understanding **the confluence of galaxy evolution and group evolution traced by the multiphase baryon cycle in groups**. For this, I am studying two groups part of the Choirs sample, with varying levels of tidal interactions, using MeerKAT (HI 21 cm) and SALT. 
 

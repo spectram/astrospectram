@@ -33,17 +33,17 @@ form_fields:
       be contacted.
 submit_label: Send Message
 seo:
-  metatitle: Get in Touch
-  description: This is the contact page
+  metatitle: Get in Touch | Sriram Sankar
+  description: Contact Sriram via email or by filling out a contact form. 
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Get in Touch
+      value: Get in Touch with Sriram Sankar
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: Contact Sriram via email or by filling out a contact form.
       keyName: property
     - name: 'og:image'
       value: images/contact.jpg
@@ -52,9 +52,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Get in Touch
+      value: Get in Touch with Sriram Sankar
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Contact Sriram via email or by filling out a contact form.
     - name: 'twitter:image'
       value: images/contact.jpg
       relativeUrl: true
@@ -79,19 +79,6 @@ layout: contact
     <td>sriram10sankar (at) gmail.com</td>   
   </tr>
 </table>
-
-<div style="padding-bottom:20px;">
-<div style="width: 50%; float:left">
-<a href=" https://orcid.org/0000-0002-7607-081X ">
-<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
-  https://orcid.org/0000-0002-7607-081X 
-</a>
-</div>
-<div style="width: 50%; float:right">
-Latest CV as pdf (updated 8 June 2022)
-</div>
-<div style="clear: both;"></div>
-</div>
 
 <p>
 You can also fill out the form below to get in touch. The form has been made with Netlify Forms, so your data will be stored in my Netlify dashboard. I am not sure if they use this data for marketing or if they sell it to any third party. I will update this text after I learn more.

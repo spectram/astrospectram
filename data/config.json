@@ -16,6 +16,11 @@
                 "style": "link"
             },
             {
+                "label": "Updates",
+                "url": "/updates",
+                "style": "link"
+            },
+            {
                 "label": "Thoughts",
                 "url": "/thoughts",
                 "style": "link"
@@ -28,6 +33,11 @@
             {
                 "label": "Contact",
                 "url": "/contact",
+                "style": "link"
+            }
+            {
+                "label": "Publications & CV",
+                "url": "/publications_cv",
                 "style": "link"
             }
         ],
