@@ -2,7 +2,7 @@
 title: Updates
 tagline: |-
   The absurdity of it all; 
-  the victories, the failures 
+  the victories, the failures, 
   whatever should it befall. 
   Look at our lives,
   senseless cosmic flybys
