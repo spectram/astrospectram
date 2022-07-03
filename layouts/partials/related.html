@@ -1,0 +1,30 @@
+<section class="archive-feed">
+    <div class="article-feed">
+        <div class="max-800px">
+            <div class="site-content">
+                <h2>Related content</h2>
+            </div>
+            <div>
+                {{ $related := (where (.Site.RegularPages.Related .) "Type" "thoughts") | first 2 }}
+                {{ range $related }}
+                <div>
+                    {{ $permalink := .Permalink }}
+                        <div class="card">
+                            <div class="post-thumbnail">
+                                <figure class="thumbnail, image-feed">
+                                    {{ with .Params.thumb_img_path }}
+                                    <a href="{{ $permalink }}"><img src="{{ index . 0 }}" alt=""></a>
+                                    {{ end }}
+                                </figure>
+                            </div>
+                            <div class="post-header">
+                                <a class="post-title" href="{{ .RelPermalink }}">{{ .Params.title }}</a>
+                                <span class="post-meta"><time>{{ .PublishDate.Format "January 2, 2006"}}</time></span>
+                            </div>
+                        </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+  </section>

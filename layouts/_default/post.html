@@ -29,25 +29,7 @@
         </div><!-- .post-content -->
       </article><!-- .post -->
       {{ partial "socialshare.html" . }}
-
-      <section class="archive-feed">
-        <div class="article-feed">
-            <div class="max-800px">
-                <div class="site-content">
-                    <h2>Related content</h2>
-                </div>
-                <div class="columns">
-                    {{ $related := (where (.Site.RegularPages.Related .) "Type" "thoughts") | first 2 }}
-                    {{ range $related }}
-                    <div class="column is-one-third">
-                        {{ partial "post-card-small.html" . }}
-                    </div>
-                    {{ end }}
-                </div>
-            </div>
-        </div>
-      </section>
-
+      {{ partial "related.html" . }}
     </main><!-- .site-main -->
 
     {{ partial "footer.html" . }}
