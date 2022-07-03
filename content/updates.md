@@ -30,13 +30,13 @@ layout: page
 
 **30-Nov-2021**: Contributed to an Astronomers for Earth (A4E) article in Communicating Astronomy with the Public Journal as an [nth author](https://ui.adsabs.harvard.edu/abs/2021CAPJ...30...28F/abstract). 
 
-**17-Sep-2021**: Allocated ~ 21.4 hours P1 time on SALT :satellite:
+**17-Sep-2021**: Allocated ~ 21.4 hours P1 time on SALT 
 
 **28-Jun to 2-Jul 2021**: Participated in the week long virtual African Radio Interferometry Winter School ([ARIWS](https://www.sarao.ac.za/african-radio-interferometry-winter-school/)) by SARAO.
 
 **7 to 18 Jun-2021**: Participated in the week long virtual summer school on project development and data science for astrophysical research by [ESCAPE](https://escape2020.github.io/school2021/)
 
-**24-Mar-2021**: Moved to Cape Town and joined SAAO & UCT U+1F30D :space_invader:
+**24-Mar-2021**: Moved to Cape Town and joined SAAO & UCT 
 
 **11-Jan to 5-Mar 2021**: Participated in the KITP virtual workshop on the [Fundamentals of Gaseous Halos](https://www.kitp.ucsb.edu/activities/halo21)
 
