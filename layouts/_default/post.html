@@ -30,14 +30,14 @@
       </article><!-- .post -->
       {{ partial "socialshare.html" . }}
 
-      <section class="section">
-        <div class="columns is-centered">
-            <div class="column max-800px">
-                <div class="content">
+      <section class="archive-feed">
+        <div class="article-feed">
+            <div class="max-800px">
+                <div class="site-content">
                     <h2>Related content</h2>
                 </div>
                 <div class="columns">
-                    {{ $related := (where (.Site.RegularPages.Related .) "Type" "thoughts") | first 3 }}
+                    {{ $related := (where (.Site.RegularPages.Related .) "Type" "thoughts") | first 2 }}
                     {{ range $related }}
                     <div class="column is-one-third">
                         {{ partial "post-card-small.html" . }}
