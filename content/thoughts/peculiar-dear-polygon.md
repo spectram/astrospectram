@@ -3,7 +3,7 @@ title: Peculiar dear polygon
 excerpt: >-
   Peculiar dear polygon, Carry on scrollin' on. How absurd this. Hedonistic kiss. Binary voodoo what you do. Even this thought fed to you ...
 date: '2021-07-05'
-thumb_img_path: images/hamster-wheel.jpg
+thumb_img_path: images/peculiar-polygon-bg.jpg
 thumb_img_alt: Image from unsplash by Denys Nevozhai
 content_img_path: images/peculiar-polygon-bg.jpg
 categories: poetry
