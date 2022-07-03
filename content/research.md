@@ -55,11 +55,12 @@ As part of my Master's thesis, we study the baryon cycle in two nearby low-mass,
 
 We also plan to utilize optical spectra from RSS-SALT to study the chemical properties of the galaxies and the kinematic properties of the ionized phase traced by Hɑ. A small part of the sample was observed in 2021 Semester II as part of SALTChoirs (PI: Sankar). We intend to follow this up with another proposal for 2022 Semester II. 
 
+The header image is Arp 271, a group in my sample observed with the VIMOS instrument on VLT. Credits to Juan Carlos Munoz-Mateos at ESO. 
 
 #### Recent developments in Radio Astronomy
 
 Radio astronomy offers a crucial view of several aspects of the universe, from fast radio bursts to the epoch of reionization. 
-Unhindered by dust, atmospheric absorption, and sunlight, radio interferometric astronomical observations can be performed throughout the day from radio-quiet locations on earth. The deluge of data from various modern radio telescopes, although a challenge, posits tremendous potential for discovery. However, With growing concerns about increasing terrestrial radio interferences from satellite constellations, we are at a seminal moment in time. Several radio interferometers have come up or have undergone upgrades in recent years such as the JVLA, WSRT-Apertif, ASKAP, ALMA, LOFAR, MWA, MeerKAT, etc. These allow us to simultaneously survey vast regions on sky spanning a broad bandwidth and a range of sensitivities. This is just a start. With upcoming massive projects like the SKA, ngVLA, DSA, etc, our radio eyes will be sharper than ever before (although with bigger blind spots due to RFI). The future for the field looks exciting if we were to overlook the grim cloud that is looming over our heads. 
+Unhindered by dust, atmospheric absorption, and sunlight, radio interferometric astronomical observations can be performed throughout the day from radio-quiet locations on earth. The deluge of data from various modern radio telescopes, although a challenge, posits tremendous potential for discovery. However, With growing concerns about increasing terrestrial radio interferences from satellite constellations, we are at a seminal moment in time. Several radio interferometers have come up or have undergone upgrades in recent years such as the JVLA, WSRT-Apertif, ASKAP, ALMA, LOFAR, MWA, MeerKAT, etc. These allow us to simultaneously survey vast regions on-sky spanning a broad bandwidth and a range of sensitivities. This is just a start. With upcoming massive projects like the SKA, ngVLA, DSA, etc, our radio eyes will be sharper than ever before (although with bigger blind spots due to RFI). The future for the field looks exciting if we were to overlook the grim cloud that is looming over our heads. 
 
 ---
 

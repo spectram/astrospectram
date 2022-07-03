@@ -4,7 +4,7 @@ tagline: |-
   With lives so short and dreams so mighty,
   we are humble folks rich with aspirations
   that one day we may seize
-img_path: images/contact-bg.jpg
+img_path: images/pub+cv-bg.jpg
 seo:
   metatitle: Publications and CV | Sriram Sankar
   description: Links to full list of publications and download CV as pdf 

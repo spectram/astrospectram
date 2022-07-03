@@ -1,13 +1,15 @@
 ---
 title: Hello World!
-tagline: Just another sentient assembly of certain fermions drifting through the cosmos ceaselessly nudged and tugged by both colossal and tellurian forces
+tagline: |- 
+  On the day you are born, you are bestowed with a phrase that
+  sets you off on a lifelong mission, in search of a definition. 
 has_more_link: true
 more_link_text: Find out more
+img_path: images/home-bg.jpg
 seo:
   metatitle: About | Sriram Sankar
   description: |-
-    Just another sentient assembly of certain fermions drifting through the
-    cosmos ceaselessly nudged and tugged by both colossal and tellurian forces
+    Astronomy student who writes poetry and takes on way too many side-projects. 
   extra:
     - name: 'og:type'
       value: website
@@ -16,10 +18,10 @@ seo:
       value: About | Sriram Sankar
       keyName: property
     - name: 'og:description'
-      value: A page about me and my work
+      value: Astronomy student who writes poetry and takes on way too many side-projects. 
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/home-bg.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -27,9 +29,9 @@ seo:
     - name: 'twitter:title'
       value: About | Sriram Sankar
     - name: 'twitter:description'
-      value: A page about me and my work
+      value: Astronomy student who writes poetry and takes on way too many side-projects. 
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: images/home-bg.jpg
       relativeUrl: true
 layout: page
 ---
