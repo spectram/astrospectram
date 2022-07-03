@@ -1,7 +1,7 @@
 <section class="archive-feed">
     <div class="article-feed">
-        <div class="max-800px">
-            <div class="site-content">
+        <div>
+            <div>
                 <h2>Related content</h2>
             </div>
             <div>
@@ -9,18 +9,19 @@
                 {{ range $related }}
                 <div>
                     {{ $permalink := .Permalink }}
-                        <div class="card">
-                            <div class="post-thumbnail">
-                                <figure class="thumbnail, image-feed">
-                                    {{ with .Params.thumb_img_path }}
-                                    <a href="{{ $permalink }}"><img src="{{ index . 0 }}" alt=""></a>
-                                    {{ end }}
-                                </figure>
+                        <div>
+                            {{ with .Params.thumb_img_path }}
+                            <a class="post-thumbnail" href="{{ .RelPermalink }}">
+                                <img class="thumbnail, image-feed" src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.thumb_img_alt }}" />
+                            </a>
+                            {{ end }}
+                            <header class="post-header">
+                            <h2 class="post-title"><a href="{{ .RelPermalink }}" rel="bookmark">{{ .Params.title }}</a></h2>
+                            <div class="post-meta">
+                                Published on <time class="published"
+                                datetime="{{ $post.Date | dateFormat "2006-01-02 15:04" }}">{{ $post.Date | dateFormat "January 02, 2006" }}</time>
                             </div>
-                            <div class="post-header">
-                                <a class="post-title" href="{{ .RelPermalink }}">{{ .Params.title }}</a>
-                                <span class="post-meta"><time>{{ .PublishDate.Format "January 2, 2006"}}</time></span>
-                            </div>
+                            </header>
                         </div>
                 </div>
                 {{ end }}
