@@ -1,15 +1,15 @@
 ---
 title: Fleece
 excerpt: >-
-  From then on every time she cried, he tore away piece by piece from what was left of his beautiful tattered fleece...
+  From then on every time she cried, he tore away piece by piece from what was left of his beautiful tattered fleece ...
 date: '2017-11-26'
 thumb_img_path: images/fleece-bg.jpg
-thumb_img_alt: Image of a girl from unsplaash by pawel szvmanski
+thumb_img_alt: Image of a girl from unsplash by pawel szvmanski
 content_img_path: images/fleece-bg.jpg
 categories: poetry
 seo:
   metatitle: Fleece - A poem by Sriram Sankar
-  description: From then on every time she cried, he tore away piece by piece from what was left of his beautiful tattered fleece...
+  description: From then on every time she cried, he tore away piece by piece from what was left of his beautiful tattered fleece ...
   extra:
     - name: 'og:type'
       value: article
@@ -18,7 +18,7 @@ seo:
       value: Fleece - A poem by Sriram Sankar
       keyName: property
     - name: 'og:description'
-      value: From then on every time she cried, he tore away piece by piece from what was left of his beautiful tattered fleece...
+      value: From then on every time she cried, he tore away piece by piece from what was left of his beautiful tattered fleece ...
       keyName: property
     - name: 'og:image'
       value: images/fleece-bg.jpg
@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:title'
       value: Fleece - A poem by Sriram Sankar
     - name: 'twitter:description'
-      value: From then on every time she cried, he tore away piece by piece from what was left of his beautiful tattered fleece...
+      value: From then on every time she cried, he tore away piece by piece from what was left of his beautiful tattered fleece ...
     - name: 'twitter:image'
       value: images/fleece-bg.jpg
       relativeUrl: true
