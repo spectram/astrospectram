@@ -21,7 +21,7 @@ tagline: |
   Bold proclamations that were 
   once buried deep.   
   Some fledgling saplings, 
-  others full grown trees
+  others full-grown trees
 socialshare: true
 ---
 ### Background

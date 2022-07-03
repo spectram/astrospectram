@@ -7,7 +7,7 @@ tagline: |
   Bold proclamations that were 
   once buried deep.   
   Some fledgling saplings, 
-  others full grown trees
+  others full-grown trees
 img_path: images/projects-bg.jpg
 seo:
   metatitle: Side Projects | Sriram Sankar

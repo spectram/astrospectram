@@ -14,7 +14,6 @@ subtitle: We did some cool things to offset some systemic problems and had a lot
   of fun in the process. With the help of a global platform, we gained better
   exposure to engineering.
 categories: volunteering
-date: '2022-06-05'
 seo:
   metatitle: How we got involved in engineering through ASME activities |
     Sriram Sankar
@@ -25,7 +24,7 @@ tagline: |
   Bold proclamations that were 
   once buried deep.   
   Some fledgling saplings, 
-  others full grown trees
+  others full-grown trees
 socialshare: true
 ---
 ### Background
