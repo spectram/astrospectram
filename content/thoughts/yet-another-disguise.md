@@ -2,7 +2,7 @@
 title: Yet another disguise
 excerpt: >-
   Burning our planet before our eyes. Their self-serving ways fuelling collective demise. Gobbledygook of looking to the skies don’t be fooled, it’s yet another disguise  ...
-date: '2021-07-05'
+date: '2022-06-17'
 thumb_img_path: images/yet-another-disguise.jpg
 thumb_img_alt: Image from unsplash by Ehimetalor Akhere Unuabona
 content_img_path: images/yet-another-disguise.jpg

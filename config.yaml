@@ -19,3 +19,12 @@ Params:
       twitter: true
       whatsapp: false
       email: true
+related:
+  threshold: 0
+  includeNewer: false
+  toLower: false
+  indices:
+  - name: categories
+    weight: 100
+  - name: date
+    weight: 10
