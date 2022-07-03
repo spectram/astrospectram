@@ -8,21 +8,18 @@
                 {{ $related := (where (.Site.RegularPages.Related .) "Type" "thoughts") | first 2 }}
                 {{ range $related }}
                 <div>
-                    {{ $permalink := .Permalink }}
-                        <div>
-                            {{ with .Params.thumb_img_path }}
-                            <a class="post-thumbnail" href="{{ .RelPermalink }}">
-                                <img class="thumbnail, image-feed" src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.thumb_img_alt }}" />
-                            </a>
-                            {{ end }}
-                            <header class="post-header">
-                            <h2 class="post-title"><a href="{{ .RelPermalink }}" rel="bookmark">{{ .Params.title }}</a></h2>
-                            <div class="post-meta">
-                                Published on <time class="published"
-                                datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "January 02, 2006" }}</time>
-                            </div>
-                            </header>
+                    {{ with .Params.thumb_img_path }}
+                        <a class="post-thumbnail" href="{{ .RelPermalink }}">
+                            <img class="thumbnail, image-feed" src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.thumb_img_alt }}" />
+                        </a>
+                    {{ end }}
+                    <header class="post-header">
+                        <h2 class="post-title"><a href="{{ .RelPermalink }}">{{ .Params.title }}</a></h2>
+                        <div class="post-meta">
+                            Published on <time class="published"
+                            datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "January 02, 2006" }}</time>
                         </div>
+                    </header>
                 </div>
                 {{ end }}
             </div>
