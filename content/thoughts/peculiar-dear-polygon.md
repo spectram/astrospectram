@@ -49,8 +49,8 @@ Peculiar dear polygon
 Find your grid, your echelon   
 Choose what to feel   
 I can see you reel   
-The buttons and levers   
-Drilled into your femurs   
+The buttons and the levers   
+drilled into your femurs   
 Resist all you want   
 It'll persist nonchalant   
 

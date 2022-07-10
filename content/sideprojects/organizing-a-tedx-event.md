@@ -44,7 +44,7 @@ There are certain rare moments in life when one can look back and see all those 
 
 However, most times all one sees is disarray. Moments when nothing makes sense. Maybe all one gets are moments such as this, maybe one must die never truly knowing, but the disarray will always be breathtaking.
 
-Humanity, as a species, has sought to find order throughout our history on this planet and through collective learning, each generation has added towards understanding the complexity of the puzzle that we’ve been posed. As we dance and make our way up fleets of discontinuous stairs into an uncertain future, the poetry in our journey is captured beautifully by the disarray.
+Humanity, as a species, has sought to find order throughout our history on this planet and through collective learning, each generation has added towards understanding the complexity of the puzzle that we’ve been posed. As we dance and make our way up flights of discontinuous stairs into an uncertain future, the poetry in our journey is captured beautifully by the disarray.
 
 The palette contains all the colors and the paint is still wet, the artist takes a pause to observe the beauty of their creation, the disarray of colors, of emotions, of life. The theme “Breathtaking Disarray” seeks to take a retrospective and introspective pause to appreciate the beauty in the absurd.
 
