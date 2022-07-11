@@ -1,7 +1,7 @@
 /public/
 /resources/
-stackbit.txt
-stackbit.yaml
-LICENSE.md
-*.code-workspace
-.vscode
+/stackbit.txt
+/stackbit.yaml
+/LICENSE.md
+/*.code-workspace
+/.vscode
