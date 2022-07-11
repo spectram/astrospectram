@@ -30,6 +30,7 @@
         {{ if .Site.Data.config.favicon }}
         {{ partial "favicon.html" . }}        
         {{ end }}
+        <link rel="canonical" href="{{ .Permalink }}"/>
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
        
     </head>

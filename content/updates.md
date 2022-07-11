@@ -20,7 +20,7 @@ layout: page
 
 **12 to 16 Sep-2022**: Attending and presenting at the [what matter(s) around galaxies (WMAG2022)](https://sites.google.com/unimib.it/gas2022/home) conference in the Alps, Italy 
 
-**4-July-2022**: Short talk at the [Annual Conference of the South African Institute of Physics (SAIP).](https://events.saip.org.za/event/225/overview)
+**4 to 8 July-2022**: Won the best MSc oral presentation prize in the Astrophysics track at the [Annual Conference of the South African Institute of Physics (SAIP).](https://events.saip.org.za/event/225/overview)
 
 **29-Mar to 1-Apr 2022**: Participated in 4 day [virtual workshop by STScI](https://www.stsci.edu/contents/events/stsci/2022/march/large-volume-spectroscopic-analyses-of-agn-and-star-forming-galaxies-in-the-era-of-jwst) that introduced the functionalities of various open-source spectroscopic analyses tools.
 
