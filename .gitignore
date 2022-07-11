@@ -1,7 +1,12 @@
 /public/
 /resources/
+
 /stackbit.txt
+
 /stackbit.yaml
+
 /LICENSE.md
+
 /*.code-workspace
+
 /.vscode
