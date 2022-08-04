@@ -8,7 +8,7 @@ thumb_img_path: images/humdrum-hazyhalo.jpg
 thumb_img_alt: Humdrum Album Art Painted by Aiswarya
 content_img_path: images/moonshine-hazyhalo.jpg
 slug: hazyhalo
-categories: creativity
+categories: poetry
 seo:
   metatitle: Hazy Halo - Music Production
   description: >-
