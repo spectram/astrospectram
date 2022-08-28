@@ -30,4 +30,4 @@ See below for links to my ORCiD page and to an ADS list.
 </div>
 
 
-[Download my latest CV as a pdf (updated on 11 July 2022)](/ssankar_jul2022_cv.pdf)
+[Download my latest CV as a pdf (updated on 28 Aug 2022)](/ssankar_aug2022_cv.pdf)
