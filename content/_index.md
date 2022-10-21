@@ -1,7 +1,7 @@
 ---
 title: Hello World!
 tagline: |- 
-  On the day you are born, you are bestowed with a phrase that
+  On the day you are born, you are bestowed a phrase that
   sets you off on a lifelong mission, in search of a definition. 
 has_more_link: true
 more_link_text: Find out more
@@ -36,7 +36,7 @@ seo:
 layout: page
 ---
 
-I am currently interested in studying gas kinematics and galaxy dynamics in various gravitational potential wells using spatially resolved multi-wavelength spectroscopy and simulations. **I am looking for Ph.D. opportunities (starting in 2023) in closely related research areas.** To check out my publications list and to download my CV [click here]({{< ref "/publications_cv" >}}).
+I am currently interested in studying gas kinematics and galaxy dynamics in various gravitational potential wells using multi-wavelength spectroscopy and simulations. **I am looking for Ph.D. opportunities (starting in 2023) in related research areas.** To check out my publications list and to download my CV [click here]({{< ref "/publications_cv" >}}).
 
 I am a Master’s candidate at the [Department of Astronomy, University of Cape Town (UCT)](http://www.ast.uct.ac.za/), based at the [South African Astronomical Observatory (SAAO)](https://www.saao.ac.za/), funded through the SALT-SAAO Prize MSc Fellowship 2021, and supervised by Dr. Moses Mogotsi and Prof. Matthew A. Bershady. My dissertation work focuses on **the gas kinematics of interacting galaxies in groups**. For this, I am analaysing the resolved properties of the neutral gas in two groups part of the Choirs sample, with varying levels of tidal interactions, using MeerKAT (HI 21 cm). I will also be using data from SALT to charecterize the ionized gas phase.
 
