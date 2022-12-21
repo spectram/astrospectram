@@ -7,7 +7,7 @@ has_more_link: true
 more_link_text: Find out more
 img_path: images/home-bg.jpg
 seo:
-  metatitle: About | Sriram Sankar
+  metatitle: Sriram Sankar | Astonomer
   description: |-
     Astronomy student who writes poetry and takes on way too many side-projects. 
   extra:
@@ -44,7 +44,7 @@ Prior to this, I worked with [Prof. Anand Narayanan](https://www.iist.ac.in/ess/
 
 Aside from astrophysical research, I enjoy a range of activities like: reading philosophical novels; writing poetry; creating music; binging on anime, sci-fi shows, documentaries, etc.; outdoor activities such as gardening, hiking, stargazing, etc.; exploring open-source codes and cool software technologies. I also spend some time thinking about and working on climate action through personal lifestyle choices and pushing for systemic changes in my immediate environment. To read about some of my side-projects [click here]({{< ref "/sideprojects" >}}).
 
-I have filled this website with poems that I have written over the years and images from my gallery. I have also added some of the projects that I was able to bequeath life to through dedication and hard work. In other words, I am committing a small part of myself to a Github repository. If you want to Astro-know-me! [click here]({{< ref "/thoughts" >}}).
+I have filled this website with some of the poems that I have written over the years and  some images from my gallery. I have also added some of the projects that I was able to bequeath life to through dedication and hard work. In other words, I am committing a small part of myself to a Github repository. If you want to Astro-know-me! [click here]({{< ref "/thoughts" >}}).
 
 > Thoughts think me, thought I   
 But I am but a thought  
