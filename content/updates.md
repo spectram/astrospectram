@@ -16,9 +16,11 @@ img_path: images/updates-bg.jpg
 layout: page
 ---
 
-**19 to 23 Sep-2022**: Attending the [Ninth European Radio Interferomety School (ERIS2022)](https://www.jive.eu/eris2022/index.php) at ASTRON & JIVE in the Netherlands.
+**27 to 31 Mar-2023**: Attended the [meeting of the SKA Pathfinder HI Survey Coordination Committee (PHISCC 2023))](https://www.astro.rug.nl/~phiscc2023/index.php) in Cape Town.
 
-**12 to 16 Sep-2022**: Attending and presenting at the [what matter(s) around galaxies (WMAG2022)](https://sites.google.com/unimib.it/gas2022/home) conference in the Alps, Italy 
+**19 to 23 Sep-2022**: Attended the [Ninth European Radio Interferomety School (ERIS 2022)](https://www.jive.eu/eris2022/index.php) at ASTRON & JIVE in the Netherlands.
+
+**12 to 16 Sep-2022**: Attended and presenting at the [what matter(s) around galaxies (WMAG 2022)](https://sites.google.com/unimib.it/gas2022/home) conference in the Alps, Italy 
 
 **4 to 8 July-2022**: Won the best MSc oral presentation prize in the Astrophysics track at the [Annual Conference of the South African Institute of Physics (SAIP).](https://events.saip.org.za/event/225/overview)
 
