@@ -16,7 +16,9 @@ img_path: images/updates-bg.jpg
 layout: page
 ---
 
-**27 to 31 Mar-2023**: Attended the [meeting of the SKA Pathfinder HI Survey Coordination Committee (PHISCC 2023))](https://www.astro.rug.nl/~phiscc2023/index.php) in Cape Town.
+**09-Jun-2023**: Submitted MSc. Thesis. 
+
+**27 to 31 Mar-2023**: Presented at the [meeting of the SKA Pathfinder HI Survey Coordination Committee (PHISCC 2023))](https://www.astro.rug.nl/~phiscc2023/index.php) in Cape Town.
 
 **19 to 23 Sep-2022**: Attended the [Ninth European Radio Interferomety School (ERIS 2022)](https://www.jive.eu/eris2022/index.php) at ASTRON & JIVE in the Netherlands.
 
