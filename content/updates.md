@@ -16,6 +16,8 @@ img_path: images/updates-bg.jpg
 layout: page
 ---
 
+**25-July to 11-Sep 2023**: Visited Tel Aviv to work on a research project with Dr. Jonathan Stern.
+
 **09-Jun-2023**: Submitted MSc. Thesis. 
 
 **27 to 31 Mar-2023**: Presented at the [meeting of the SKA Pathfinder HI Survey Coordination Committee (PHISCC 2023))](https://www.astro.rug.nl/~phiscc2023/index.php) in Cape Town.
@@ -28,7 +30,7 @@ layout: page
 
 **29-Mar to 1-Apr 2022**: Participated in 4 day [virtual workshop by STScI](https://www.stsci.edu/contents/events/stsci/2022/march/large-volume-spectroscopic-analyses-of-agn-and-star-forming-galaxies-in-the-era-of-jwst) that introduced the functionalities of various open-source spectroscopic analyses tools.
 
-**March 2022**: [Short presentation](https://ui.adsabs.harvard.edu/abs/2022afas.confE..64S/abstract) as part of African Astronomical Society (AfAS) [annual conference](https://www.africanastronomicalsociety.org/afas2022-ga/).
+**14 to 18 Mar 2022**: [Short presentation](https://ui.adsabs.harvard.edu/abs/2022afas.confE..64S/abstract) as part of African Astronomical Society (AfAS) [annual conference](https://www.africanastronomicalsociety.org/afas2022-ga/).
 
 **05-Jan-2022**: Probing the physicochemical properties of the Leo Ring and the Leo I group. [Sameer et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.5796S/abstract) accepted for publication in MNRAS. (5th Author)
 
