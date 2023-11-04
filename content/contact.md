@@ -67,8 +67,8 @@ layout: contact
     <th>Dept of Astronomy, University of Cape Town (UCT)</th>
   </tr>
   <tr>
-    <td>SALT-SAAO Prize Fellow 2021</td>
-    <td>Research MSc Student 2023</td>
+    <td>SALT-SAAO Prize Fellow 2021-23</td>
+    <td>Research MSc Student 2021-23</td>
   </tr>
   <tr>
     <td>Observatory, Cape Town, South Africa</td>
