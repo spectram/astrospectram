@@ -11,11 +11,11 @@ seo:
 layout: page
 ---
 
-Check out [research overview]({{< ref "/research" >}}) for a brief about some of my publshed works. 
+Check out [about]({{< ref "/" >}}) and [research overview]({{< ref "/research" >}}) to read about by research.
 
-Feel free to reach out if you would like to read my submitted MSc. Thesis. It is expected to be officially finalised by September 2023.
+Feel free to reach out to me if you would like to read my MSc. Thesis. 
 
-See below for links to my ORCiD page and to an ADS list. 
+See below for links to my ORCiD page and to an ADS search. 
 
 <div style="padding-bottom:20px;">
 <div style="width: 70%; float:left">
@@ -32,4 +32,4 @@ See below for links to my ORCiD page and to an ADS list.
 </div>
 
 
-[Download my latest CV as a pdf (updated on 27 Aug 2023)](/ssankar_aug2023_cv.pdf)
+[Download my latest CV [as a ](/ssankar_Nov2023_cv.pdf)PDF[ (updated](/ssankar_Nov2023_cv.pdf) on 4 Nov 2023)](/ssankar_Nov2023_cv.pdf)
