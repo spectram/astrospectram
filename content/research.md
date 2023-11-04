@@ -104,23 +104,23 @@ QSO absorption line spectroscopy uses background [Quasi-Stellar Objects (QSOs)](
 
 > Studying gas reservoirs using information conveyed by tiny ions through passerby messengers that were sent out across spacetime by distant luminous sources.
 
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <div style="flex: 1; margin-right: 20px;">
-    In <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.5796S/abstract">Sameer et al. 2022</a> (fifth author), we studied the physical and chemical properties of the Leo HI Ring and the Leo I Group using HST COS observations of 11 quasar sightlines spread over a $\sim 600 \times 800$ kpc$^2$ region. We coupled cloud-by-cloud, multiphase, Bayesian ionization modeling with galaxy property information to determine the plausible origin of the absorbing gas along these sightlines.
-  </div>
-  <div style="flex: 1;">
-    ![Figure showing sightlines close to the Leo Ring from Sameer+2022](/images/sci/sameer+22_leo_ring.png)
-    *Figure showing sightlines close to the Leo Ring from Sameer+2022*
-  </div>
+<div class="flex-container">
+    <div class="text">
+        <p>In <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.5796S/abstract">Sameer et al. 2022</a> (fifth author), we studied the physical and chemical properties of the Leo HI Ring and the Leo I Group using HST COS observations of 11 quasar sightlines spread over a $\sim 600 \times 800$ kpc$^2$ region. We coupled cloud-by-cloud, multiphase, Bayesian ionization modeling with galaxy property information to determine the plausible origin of the absorbing gas along these sightlines.</p>
+    </div>
+    <div class="image">
+        <img src="/images/sci/sameer+22_leo_ring.png" alt="Figure showing sightlines close to the Leo Ring from Sameer+2022">
+        <p><em>Figure showing sightlines close to the Leo Ring from Sameer+2022</em></p>
+    </div>
 </div>
 
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <div style="flex: 1; margin-left: 20px; text-align: right;">
-    ![Figure showing multi-component fits to absorption lines from Sankar+2020](/images/sci/sankar+20_components.png)
-    *Figure showing multi-component fits to absorption lines from Sankar+2020*
-  </div>
-  <div style="flex: 1;">
+<div class="flex-container reverse">
+  <div class="text">
     In my first, first-author paper (<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.4864S/abstract">Sankar et al. 2020</a>), we utilized a series of diagnostic ions spanning a wide range of ionization energies (OII to OVI) to study a sample of five intermediate redshift absorbers likely tracing the CGM. We performed detailed component-by-component modeling of high-resolution UV-HST and Optical-Keck archival spectroscopic data to extract information on the small-scale metallicity-density-temperature structure of the clouds. We inferred nucleosynthetic yields that suggest a preferential enrichment from Type II SNe. Despite metal enrichment, we inferred a wide range for [O/H] in the absorbers suggesting poor small-scale mixing of metals with hydrogen. This work reports the lowest redshift intervening absorber with HeI detected, three systems with OV detected, and one system with NeV, NeVI detected along with O III to OVI.
+  </div>
+  <div class="image">
+    <img src="/images/sci/sankar+20_components.png" alt="Figure showing multi-component fits to absorption lines from Sankar+2020">
+    <p><em>Figure showing multi-component fits to absorption lines from Sankar+2020</em></p>
   </div>
 </div>
 

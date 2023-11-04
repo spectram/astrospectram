@@ -462,3 +462,49 @@ img {
     font-size: 1.77778rem;
   }
 }
+
+/* Add this CSS to your stylesheet */
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px; /* Optional: Add margin for spacing */
+}
+
+.content {
+  display: flex;
+}
+
+.text, .image {
+  flex: 1;
+}
+
+.image img {
+  max-width: 100%; /* Make sure the image doesn't exceed its container */
+}
+
+.image {
+  text-align: center; /* Center the image and caption */
+}
+
+/* For image on the left and text on the right */
+.flex-container.reverse {
+  flex-direction: row-reverse;
+}
+
+/* Optional: Add a media query to adjust layout for smaller screens */
+@media (max-width: 768px) {
+  .flex-container {
+      flex-direction: column;
+  }
+
+  .content {
+      width: 100%;
+  }
+
+  .text, .image {
+      width: 100%;
+  }
+}
+
