@@ -11,13 +11,15 @@
           <article class="article-feed"></article>
             <header class="post-header">
             <h2 class="post-title"><a href="{{ printf "/categories/%s/" $name }}">{{ $name }}</a></h2>
-            {{ if index .Pages 0 }}
+            {{ with index $taxonomy.Pages 0 }}
               <div class="post-meta">
-                <p>{{ index .Pages 0 .Description }}</p>
+                {{ with .Params.description }}
+                  <p>{{ . }}</p>
+                {{ end }}
               </div>
             {{ end }}
             </header><!-- .post-header -->
-            {{ with index .Pages 0 }}
+            {{ with index $taxonomy.Pages 0 }}
               {{ with .Params.image }}
               <a class="post-thumbnail" href="{{ printf "/categories/%s/" $name }}">
               <img class="thumbnail, image-feed" src="{{ . }}" alt="{{ $name }}" />
