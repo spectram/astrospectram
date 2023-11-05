@@ -3,12 +3,32 @@
 {{ partial "header.html" $include_dict }}
 <div id="content" class="site-content">
   <main id="main" class="site-main inner">
-    <h1>Categories</h1>
-    <ul>
-      {{ range $name, $taxonomy := .Data.Terms }}
-        <li><a href="{{ printf "/categories/%s/" $name }}">{{ $name }}</a></li>
-      {{ end }}
-    </ul>
+
+    <div class="post-feed, page-feed">
+      <article class="archive-feed">
+        {{ range $name, $taxonomy := .Data.Terms }}
+
+          <article class="article-feed"></article>
+            <header class="post-header">
+            <h2 class="post-title"><a href="{{ printf "/categories/%s/" $name }}">{{ $name }}</a></h2>
+            {{ if index .Pages 0 }}
+              <div class="post-meta">
+                <p>{{ index .Pages 0.Description }}</p>
+              </div>
+            {{ end }}
+            </header><!-- .post-header -->
+            {{ with index .Pages 0 }}
+              {{ with .Params.image }}
+              <a class="post-thumbnail" href="{{ printf "/categories/%s/" $name }}">
+              <img class="thumbnail, image-feed" src="{{ . }}" alt="{{ $name }}" />
+              </a>
+              {{ end }}
+            {{ end }}      
+          </article><!-- .post -->
+        {{ end }}
+      </article><!-- .archive -->
+    </div><!-- .post-feed -->
+
   </main><!-- .site-main -->
 
   {{ partial "footer.html" $include_dict }}
