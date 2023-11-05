@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Research Overview | Sriram Sankar
+      value: MeerRings | Sriram Sankar
     - name: 'twitter:description'
       value: >-
         MeerRings will be the first resolved, deep, and systematic census of the neutral gas in a considerable sample of CRGs. It will also be the first systematic investigation of anomalous gas resulting from a well-known class of interactions.
