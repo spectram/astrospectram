@@ -36,8 +36,18 @@ layout: page
 math: true
 ---
 
-MeerRings is a MeerKAT campaign to map the neutral hydrogen (HI) in eight nearby Collisional Ring Galaxies (CRGs). 
-CRGs are an intriguing class of galaxies that are the results of the passage of an intruder galaxy through the disc of a target galaxy. Star formation in CRGs has been explored previously but the neutral gas has been studied only in a small subset of these rare sources. MeerKAT will detect HI with a column density that is at least an order of magnitude lower than the current state-of-the-art observations of CRGs. A MeerKAT HI perspective, in addition to aiding in identifying the intruder galaxy and decoding the collision geometry, will also provide insights into the impact of such collisions in displacing the neutral Interstellar Matter (ISM) into the Circumgalactic Medium (CGM) and the extended environment. MeerKAT’s 1$^\circ$ primary beam also enables the characterization of the extended environment. The versatility of HI in tracing various gravitational and hydrodynamical processes operating at different scales, along with MeerKAT's capabilities and the unique set of processes affecting CRGs, allows us to investigate several important physical phenomena in galaxy evolution. 
+
+<div class="flex-container">
+    <div class="text">
+      MeerRings is a MeerKAT campaign to map the neutral hydrogen (HI) in eight nearby Collisional Ring Galaxies (CRGs). CRGs are an intriguing class of galaxies that are the results of the passage of an intruder galaxy through the disc of a target galaxy. Star formation in CRGs has been explored previously but the neutral gas has been studied only in a small subset of these rare sources. MeerKAT will detect HI with a column density that is at least an order of magnitude lower than the current state-of-the-art observations of CRGs. A MeerKAT HI perspective, in addition to aiding in identifying the intruder galaxy and decoding the collision geometry, will also provide insights into the impact of such collisions in displacing the neutral Interstellar Matter (ISM) into the Circumgalactic Medium (CGM) and the extended environment. MeerKAT’s 1$^\circ$ primary beam also enables the characterization of the extended environment. The versatility of HI in tracing various gravitational and hydrodynamical processes operating at different scales, along with MeerKAT's capabilities and the unique set of processes affecting CRGs, allows us to investigate several important physical phenomena in galaxy evolution. 
+    </div>
+    <div class="image">
+        <img src="/images/sci/meerrings-sample-blue.png" alt="Plot showing the diameter and distance distribution of the full MeerRings sample.">
+        <p><em> Plot showing the diameter and distance distribution of the full MeerRings sample. The DSS2 false-color images of the CRGs are annotated.</em></p>
+    </div>
+</div>
+
+
 
 ## Science Goals
 
@@ -45,22 +55,15 @@ CRGs are an intriguing class of galaxies that are the results of the passage of 
 
 2. Gas Kinematics: perform tilted ring modeling to study the effects induced by the interaction on the CRG’s gas disc such as warps, non-circular motions, vertical structures etc. We will employ either 3DBarolo or TiRiFiC depending on the resolution and the complexity of the observed emission. Do we see similar radial, vertical, and circular kinematics in all CRGs? 
 
-3. Anomalous gas: characterize the anomalous gas resulting from the interaction using physically motivated Gaussian decomposition and kinematic tagging. Where resolution permits (∼ 55% of the sample), we will also attempt to extract the Extra-Planar Gas (EPG) of the CRG. In all CRGs, we expect to find splash features and thus this will be the first homogeneously characterised sample of splash features resulting from a well-known interaction.
+3. Anomalous gas: characterize the anomalous gas resulting from the interaction using physically motivated Gaussian decomposition and kinematic tagging. Where resolution permits (∼ 55% of the sample), we will also attempt to extract the Extra-Planar Gas (EPG) of the CRG. In all CRGs, we expect to find splash features and thus this will be the first homogeneously characterized sample of splash features resulting from a well-known interaction.
 
 4. Evolution: investigate whether the CRGs follow established scaling relations and whether stability or angular momentum correlates with time since the collision and or intruder distance. By exploiting our sample that spans a range of ’time since collision’, we hope to study the evolution of the CRGs.
 
 5. Continuum and Polarisation: the $\sim 5 \mu$ Jy beam$^{-1}$ continuum sensitivity of MeerKAT will allow us to examine asymmetries in the continuum images, infer insights about massive SF, search for decaying electron populations behind the rings, search for polarisation signatures, and investigate the properties of the non-thermal radio halo to study cosmic ray propagation.
 
-<div class="flex-container">
-    <div class="image">
-        <img src="/images/sci/L-S+CW-Higdon2010.png" alt="Figure taken from Higdon & Higdon (2010) showing a polychromatic view of two ring galaxies: (top) the Lindsay-Shapely ring galaxy and (bottom) the Cartwheel.">
-        <p><em> Figure taken from Higdon & Higdon (2010) showing a polychromatic view of two ring galaxies: (top) the Lindsay-Shapely ring galaxy and (bottom) the Cartwheel. The fifth column shows the HI to be confined to the rings, with low-density gas filling the interior (Higdon 1996; Higdon et al. 2011). There is a clear asymmetry in the HI which can be explored better with sensitive observations of the extended disc.</em></p>
-    </div>
-    <div class="image">
-        <img src="/images/sci/meerrings-sample-blue.png" alt="Plot showing the diameter and distance distribution of the full MeerRings sample.">
-        <p><em> Plot showing the diameter and distance distribution of the full MeerRings sample. The DSS2 false-color images of the CRGs are annotated.</em></p>
-    </div>
-</div>
+|![Figure taken from Higdon & Higdon (2010) showing a polychromatic view of two ring galaxies: (top) the Lindsay-Shapely ring galaxy and (bottom) the Cartwheel.](/images/sci/L-S+CW-Higdon2010.png)|
+|:--:|
+|*Figure taken from Higdon & Higdon (2010) showing a polychromatic view of two ring galaxies: (top) the Lindsay-Shapely ring galaxy and (bottom) the Cartwheel. The fifth column shows the HI to be confined to the rings, with low-density gas filling the interior (Higdon 1996; Higdon et al. 2011). There is a clear asymmetry in the HI which can be explored better with sensitive observations of the extended disc.*|
 
 ## Team
 
