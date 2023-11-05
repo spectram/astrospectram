@@ -480,6 +480,10 @@ img {
   flex: 1;
 }
 
+.text {
+  text-align: justify; /* Justify the text */
+}
+
 .image img {
   max-height: 100%; /* Ensure the image won't exceed the height of its container */
 }
@@ -489,7 +493,7 @@ img {
 }
 
 .image p {
-  text-align: center; /* Center the caption */
+  text-align: justify; /* Center the caption */
 }
 
 /* For image on the left and text on the right */

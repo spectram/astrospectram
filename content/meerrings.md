@@ -36,10 +36,11 @@ layout: page
 math: true
 ---
 
+Collisional Ring Galaxies (CRGs) are an intriguing class of galaxies that are the results of the passage of an intruder galaxy through the disc of a target galaxy. Star formation in CRGs has been explored previously but the neutral gas has been studied only in a small subset of these rare sources.
 
 <div class="flex-container">
     <div class="text">
-      MeerRings is a MeerKAT campaign to map the neutral hydrogen (HI) in eight nearby Collisional Ring Galaxies (CRGs). CRGs are an intriguing class of galaxies that are the results of the passage of an intruder galaxy through the disc of a target galaxy. Star formation in CRGs has been explored previously but the neutral gas has been studied only in a small subset of these rare sources. MeerKAT will detect HI with a column density that is at least an order of magnitude lower than the current state-of-the-art observations of CRGs. A MeerKAT HI perspective, in addition to aiding in identifying the intruder galaxy and decoding the collision geometry, will also provide insights into the impact of such collisions in displacing the neutral Interstellar Matter (ISM) into the Circumgalactic Medium (CGM) and the extended environment. MeerKAT’s 1$^\circ$ primary beam also enables the characterization of the extended environment. The versatility of HI in tracing various gravitational and hydrodynamical processes operating at different scales, along with MeerKAT's capabilities and the unique set of processes affecting CRGs, allows us to investigate several important physical phenomena in galaxy evolution. 
+      MeerRings is a MeerKAT campaign to map the neutral hydrogen (HI) in eight nearby CRGs. MeerKAT will detect HI with a column density that is at least an order of magnitude lower than the current state-of-the-art observations of CRGs. A MeerKAT HI perspective, in addition to aiding in identifying the intruder galaxy and decoding the collision geometry, will also provide insights into the impact of such collisions in displacing the neutral Interstellar Matter (ISM) into the Circumgalactic Medium (CGM) and the extended environment. MeerKAT’s 1$^\circ$ primary beam also enables the characterization of the extended environment.
     </div>
     <div class="image">
         <img src="/images/sci/meerrings-sample-blue.png" alt="Plot showing the diameter and distance distribution of the full MeerRings sample.">
@@ -47,7 +48,7 @@ math: true
     </div>
 </div>
 
-
+The versatility of HI in tracing various gravitational and hydrodynamical processes operating at different scales, along with MeerKAT's capabilities and the unique set of processes affecting CRGs, allows us to investigate several important physical phenomena in galaxy evolution. 
 
 ## Science Goals
 
