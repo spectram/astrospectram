@@ -480,16 +480,23 @@ img {
   flex: 1;
 }
 
+.text {
+  text-align: justify; /* Justify the text */
+  padding-right: 20px;
+}
+
 .image img {
   max-height: 100%; /* Ensure the image won't exceed the height of its container */
 }
 
 .image {
   text-align: center; /* Center the image and caption */
+  padding-left: 20px;
 }
 
 .image p {
   text-align: center; /* Center the caption */
+  font-size: 80%;
 }
 
 /* For image on the left and text on the right */
@@ -497,6 +504,13 @@ img {
   flex-direction: row-reverse;
 }
 
+.flex-container.reverse .text {
+  padding-left: 20px; /* Add padding to the left of the text when layout is reversed */
+}
+
+.flex-container.reverse .image {
+  padding-right: 20px; /* Add padding to the right of the image when layout is reversed */
+}
 /* Optional: Add a media query to adjust layout for smaller screens */
 @media (max-width: 768px) {
   .flex-container {
