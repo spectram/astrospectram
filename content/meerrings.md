@@ -36,7 +36,7 @@ layout: page
 math: true
 ---
 
-Collisional Ring Galaxies (CRGs) are an intriguing class of galaxies that are the results of the passage of an intruder galaxy through the disc of a target galaxy. Star formation in CRGs has been explored previously but the neutral gas has been studied only in a small subset of these rare sources.
+Collisional Ring Galaxies (CRGs) are an intriguing class of galaxies that are the results of the passage of an intruder galaxy through the disc of a target galaxy. Star formation in CRGs has been explored previously but the neutral gas has been studied only in a small subset of these rare sources. The header image is a recent JWST observation of the cartwheel CRG. 
 
 <div class="flex-container">
     <div class="text">
@@ -63,7 +63,7 @@ Collisional Ring Galaxies (CRGs) are an intriguing class of galaxies that are th
 
 |![Figure taken from Higdon & Higdon (2010) showing a polychromatic view of two ring galaxies: (top) the Lindsay-Shapely ring galaxy and (bottom) the Cartwheel.](/images/sci/L-S+CW-Higdon2010.png)|
 |:--:|
-|*Figure taken from Higdon & Higdon (2010) showing a polychromatic view of two ring galaxies: (top) the Lindsay-Shapely ring galaxy and (bottom) the Cartwheel. The fifth column shows the HI to be confined to the rings, with low-density gas filling the interior (Higdon 1996; Higdon et al. 2011). There is a clear asymmetry in the HI which can be explored better with sensitive observations of the extended disc.*|
+|*Figure taken from <a href="https://ui.adsabs.harvard.edu/abs/2010ASPC..423...12H/abstract">Higdon & Higdon (2010)</a> showing a polychromatic view of two ring galaxies: (top) the Lindsay-Shapely ring galaxy and (bottom) the Cartwheel. The fifth column shows the HI to be confined to the rings, with low-density gas filling the interior (<a href="https://ui.adsabs.harvard.edu/abs/1996ApJ...467..241H/abstract">Higdon 1996</a>; <a href="https://ui.adsabs.harvard.edu/abs/2011ApJ...739...97H/abstract">Higdon et al. 2011</a>). There is a clear asymmetry in the HI which can be explored better with sensitive observations of the extended disc.*|
 
 ## Team
 
@@ -81,8 +81,6 @@ Collisional Ring Galaxies (CRGs) are an intriguing class of galaxies that are th
 + Zara Randriamanakoto, SAAO, South Africa
 
 --- 
-
-The header image is a recent JWST observation of the cartwheel CRG. 
 
 <!---
 HI:
