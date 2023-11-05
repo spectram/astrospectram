@@ -80,8 +80,9 @@ layout: contact
   </tr>
 </table>
 
-See below for links to an ADS search result and my ORCiD page.    
-[ADS search](https://ui.adsabs.harvard.edu/search/q=docs(29fedbfddfa601303a88e5815bb403a0)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+##### Publications record
+
+[ADS search result page](https://ui.adsabs.harvard.edu/search/q=docs(29fedbfddfa601303a88e5815bb403a0)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 <div style="padding-bottom:20px;">
   <div>
     <a href=" https://orcid.org/0000-0002-7607-081X ">
@@ -91,7 +92,7 @@ See below for links to an ADS search result and my ORCiD page.
   </div>
 </div>
 
-#### [Download my latest CV as a PDF (updated on 4 Nov 2023)](/ssankar_Nov2023_cv.pdf)
+##### [Download my latest CV as a PDF (updated on 4 Nov 2023)](/ssankar_Nov2023_cv.pdf)
 
 # Get In Touch
 
