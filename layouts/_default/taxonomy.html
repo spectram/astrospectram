@@ -13,7 +13,7 @@
             <h2 class="post-title"><a href="{{ printf "/categories/%s/" $name }}">{{ $name }}</a></h2>
             {{ if index .Pages 0 }}
               <div class="post-meta">
-                <p>{{ index .Pages 0.Description }}</p>
+                <p>{{ index .Pages 0 .Description }}</p>
               </div>
             {{ end }}
             </header><!-- .post-header -->
