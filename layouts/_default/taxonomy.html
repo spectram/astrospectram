@@ -1,8 +1,17 @@
-{{ define "main" }}
-  <h1>Categories</h1>
-  <ul>
-    {{ range $name, $taxonomy := .Data.Terms }}
-      <li><a href="{{ printf "/categories/%s/" $name }}">{{ $name }}</a></li>
-    {{ end }}
-  </ul>
+{{ define "content" }}
+{{ $include_dict := dict "Site" .Site "page" . "image" .Params.img_path "tagline" .Params.tagline }}
+{{ partial "header.html" $include_dict }}
+<div id="content" class="site-content">
+  <main id="main" class="site-main inner">
+    <h1>Categories</h1>
+    <ul>
+      {{ range $name, $taxonomy := .Data.Terms }}
+        <li><a href="{{ printf "/categories/%s/" $name }}">{{ $name }}</a></li>
+      {{ end }}
+    </ul>
+  </main><!-- .site-main -->
+
+  {{ partial "footer.html" $include_dict }}
+
+</div><!-- .site-content -->
 {{ end }}
