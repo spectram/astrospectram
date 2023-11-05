@@ -482,6 +482,7 @@ img {
 
 .text {
   text-align: justify; /* Justify the text */
+  padding-right: 20px;
 }
 
 .image img {
@@ -490,10 +491,12 @@ img {
 
 .image {
   text-align: center; /* Center the image and caption */
+  padding-left: 20px;
 }
 
 .image p {
   text-align: justify; /* Center the caption */
+  font-size: 80%;
 }
 
 /* For image on the left and text on the right */
