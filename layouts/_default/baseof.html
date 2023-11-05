@@ -8,9 +8,11 @@
         <meta name="google" content="notranslate" />
         <meta name="description" content="{{ .Params.seo.description | default "" }}" />
         {{ if .Params.math }}{{ partial "katex.html" . }}{{ end }}
+        <!--
         {{ if .Params.seo.robots }}
         <meta name="robots" content="{{ delimit $.Params.seo.robots "," }}">
         {{ end }}
+        -->
         {{ range $meta := .Params.seo.extra }}
           {{ $key_name := $meta.keyName | default "name" }}
           {{ if $meta.relativeUrl }}
