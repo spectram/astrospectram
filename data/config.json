@@ -36,13 +36,13 @@
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "Contact & CV",
                 "url": "/contact",
                 "style": "link"
             },
             {
-                "label": "Publications & CV",
-                "url": "/publications_cv",
+                "label": "Telescopes",
+                "url": "/telescopes",
                 "style": "link"
             }
         ],
