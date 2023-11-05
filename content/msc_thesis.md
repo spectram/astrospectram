@@ -77,4 +77,3 @@ I am but one, but the thoughts are more than just one’s
 |:--:|
 |*A picture of my workspace at SAAO, a place that has become a part of me. The picture was taken at a point when I discovered a cruicial aspect of my work*|
 
----
