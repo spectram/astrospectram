@@ -1,0 +1,42 @@
+{{ define "content" }}
+
+{{ $include_dict := dict "Site" .Site "page" . "image" .Params.img_path "tagline" .Params.tagline }}
+{{ partial "header.html" $include_dict }}
+
+<div id="content" class="site-content">
+  <main id="main" class="site-main inner">
+
+    <div class="post-feed, page-feed">
+        {{ range .Data.Terms.ByCount }}
+        <div class="archive-feed">
+            <div class="article-feed">
+                <header class="post-header">
+                    <h2 class="post-title"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h2>
+                    {{ $pageCount := len .Pages }}
+                    <p>{{ $pageCount }} post{{ if ne $pageCount 1 }}s{{ end }} </p>
+                    <!-- <div class="post-meta">
+                        Published on <time class="published"
+                        datetime="{{ $post.Date | dateFormat "2006-01-02 15:04" }}">{{ $post.Date | dateFormat "January 02, 2006" }}</time>
+                    </div> -->
+                </header><!-- .post-header -->
+                <div class="post-thumbnail">
+                    <a href="{{ .Page.Permalink }}">
+                        <figure class="post-thumbnail">
+                            {{ $firstChild := index .Pages 0 }}
+                            {{ with $firstChild.Params.images }}
+                            <img  class="thumbnail, image-feed" src="{{ index . 0 }}" alt="">
+                            {{ end }}
+                        </figure>
+                    </a>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+
+  </main><!-- .site-main -->
+  {{ partial "footer.html" $include_dict }}
+
+</div><!-- .site-content -->
+
+{{ end }}
