@@ -50,18 +50,25 @@ In this work, we demonstrate a method we developed to separate anomalous gas fro
 |:--:|:--:|
 |*lorem ipsum*|*lorem ipsum*|
 
-Notably, we report the farthest characterized EPG to date in HIPASS J1403:06 at a distance of 40 Mpc, which is also among the most massive EPG reservoirs ever studied. Furthermore, the 150 kpc long envelope of HIPASS J1250-20:S1 with a total HI mass of log M HI ∼ 10.72 M ⊙ is among the most HI-rich galaxies in the literature. We posit plausible formation scenarios for the extended envelope in HIPASS J1250-20:S1 and the ∼ 90 kpc long unidirectional transverse tails observed in HIPASS J1403-06. We suspect misaligned gas accretion from companions for the former and a combination of collisional and tidal origin for the latter. Such studies of gas kinematics and galaxy dynamics across different environments will deepen our understanding of the baryon cycle, galaxy interactions, and the impact of the environment on galaxy evolution.
+Notably, we report the farthest characterized EPG to date in HIPASS J1403:06 at a distance of 40 Mpc, which is also among the most massive EPG reservoirs ever studied. Furthermore, the 150 kpc long envelope of HIPASS J1250-20:S1 with a total HI mass of log M HI ∼ 10.72 M ⊙ is among the most HI-rich galaxies in the literature. We posit plausible formation scenarios for the extended envelope in HIPASS J1250-20:S1 and the ∼ 90 kpc long unidirectional transverse tails observed in HIPASS J1403-06. We suspect misaligned gas accretion from companions for the former and a combination of collisional and tidal origin for the latter. **Such studies of gas kinematics and galaxy dynamics across different environments will deepen our understanding of the baryon cycle, galaxy interactions, and the impact of the environment on galaxy evolution.**
+
+|![lorem ipsum](/images/sci/j1403_s2_kinplots.png)|![lorem ipsum](/images/sci/j1403_s1_kinplots.png)|
+|:--:|:--:|
+|*lorem ipsum*|*lorem ipsum*|
+ 
+> quiet revolutions in my mind  
+silent resolutions taken in kind  
+invaluable legacies left behind  
+picking up intricacies entwined  
+fruits of the forest from seeds once sown  
+lessons inherited from lives unknown  
+offshoots of thought grown with fraught  
+quiet revelations yearning to be sought  
+each forming a bridge between disparate worlds  
+I am but one, but the thoughts are more than just one’s
 
 |![lorem ipsum](/images/sci/saao_desk.jpg)|
 |:--:|
 |*lorem ipsum*|
 
-|![lorem ipsum](/images/sci/j1403_s2_component_moments.png)|
-|:--:|
-|*lorem ipsum*|
-
-|![lorem ipsum](/images/sci/j1403_s1_component_moments.png)|
-|:--:|
-|*lorem ipsum*|
---- 
-
+---
