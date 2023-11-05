@@ -114,13 +114,13 @@ QSO absorption line spectroscopy uses background [Quasi-Stellar Objects (QSOs)](
     </div>
 </div>
 
-<div class="flex-container">
+<div class="flex-container reverse">
+  <div class="text">
+    In my first, first-author paper (<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.4864S/abstract">Sankar et al. 2020</a>), we utilized a series of diagnostic ions spanning a wide range of ionization energies (OII to OVI) to study a sample of five intermediate redshift absorbers likely tracing the CGM. We performed detailed component-by-component modeling of high-resolution UV-HST and Optical-Keck archival spectroscopic data to extract information on the small-scale metallicity-density-temperature structure of the clouds. We inferred nucleosynthetic yields that suggest a preferential enrichment from Type II SNe. Despite metal enrichment, we inferred a wide range for [O/H] in the absorbers suggesting poor small-scale mixing of metals with hydrogen. This work reports the lowest redshift intervening absorber with HeI detected, three systems with OV detected, and one system with NeV, NeVI detected along with OIII to OVI.
+  </div>
   <div class="image">
     <img src="/images/sci/sankar+20_components.png" alt="Figure showing multi-component fits to absorption lines from Sankar+2020">
     <p><em>Figure showing multi-component fits to absorption lines from Sankar+2020</em></p>
-  </div>
-  <div class="text">
-    In my first, first-author paper (<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.4864S/abstract">Sankar et al. 2020</a>), we utilized a series of diagnostic ions spanning a wide range of ionization energies (OII to OVI) to study a sample of five intermediate redshift absorbers likely tracing the CGM. We performed detailed component-by-component modeling of high-resolution UV-HST and Optical-Keck archival spectroscopic data to extract information on the small-scale metallicity-density-temperature structure of the clouds. We inferred nucleosynthetic yields that suggest a preferential enrichment from Type II SNe. Despite metal enrichment, we inferred a wide range for [O/H] in the absorbers suggesting poor small-scale mixing of metals with hydrogen. This work reports the lowest redshift intervening absorber with HeI detected, three systems with OV detected, and one system with NeV, NeVI detected along with OIII to OVI.
   </div>
 </div>
 

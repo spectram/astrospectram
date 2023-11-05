@@ -504,6 +504,13 @@ img {
   flex-direction: row-reverse;
 }
 
+.flex-container.reverse .text {
+  padding-left: 20px; /* Add padding to the left of the text when layout is reversed */
+}
+
+.flex-container.reverse .image {
+  padding-right: 20px; /* Add padding to the right of the image when layout is reversed */
+}
 /* Optional: Add a media query to adjust layout for smaller screens */
 @media (max-width: 768px) {
   .flex-container {
