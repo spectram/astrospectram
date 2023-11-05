@@ -4,7 +4,7 @@ subtitle: "I write about my experience organizing a TEDx event and about the the
   Breathtaking Disarray which was adopted from a poem that I had written in the past."
 excerpt: "I write about my experience organizing a TEDx event and about the theme:
   Breathtaking Disarray which was adopted from a poem that I had written in the past."
-categories: volunteering
+categories: sideprojects
 date: '2022-06-06'
 slug: tedx
 thumb_img_path: images/breathtaking_disarray.jpg

@@ -5,7 +5,7 @@
         </div>
         <div class="article-feed">
             <div>
-                {{ $related := (where (.Site.RegularPages.Related .) "section" "/thoughts") | first 2 }}
+                {{ $related := (where (.Site.RegularPages.Related .) "section" "/poetry") | first 2 }}
                 {{ range $related }}
                 <div>
                     {{ $permalink := .Permalink }}

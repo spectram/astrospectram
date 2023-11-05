@@ -7,17 +7,16 @@
     <div class="post-feed, page-feed">
       <article class="archive-feed">
         {{ range $name, $taxonomy := .Data.Terms }}
-
-          <article class="article-feed"></article>
+          <article class="article-feed">
             <header class="post-header">
-            <h2 class="post-title"><a href="{{ printf "/categories/%s/" $name }}">{{ $name }}</a></h2>
-            {{ with index $taxonomy.Pages 0 }}
-              <div class="post-meta">
-                {{ with .Params.description }}
-                  <p>{{ . }}</p>
-                {{ end }}
-              </div>
-            {{ end }}
+              <h2 class="post-title"><a href="{{ printf "/categories/%s/" $name }}">{{ $name }}</a></h2>
+              {{ with index $taxonomy.Pages 0 }}
+                <div class="post-meta">
+                  {{ with .Params.description }}
+                    <p>{{ . }}</p>
+                  {{ end }}
+                </div>
+              {{ end }}
             </header><!-- .post-header -->
             {{ with index $taxonomy.Pages 0 }}
               {{ with .Params.image }}

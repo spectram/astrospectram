@@ -10,7 +10,7 @@ excerpt: >-
   a pair of lenses with a green filter. 
 date: '2022-06-08'
 slug: greensaao
-categories: volunteering
+categories: sideprojects
 thumb_img_path: images/greensaao.jpg
 thumb_img_alt: Green SAAO - A sustainability movement
 content_img_path: images/trash2work.jpg

@@ -5,7 +5,7 @@ excerpt: I trained a team of 50 students in various aspects of website building
   and content marketing like WordPress website development and management,
   content creation, social media marketing, graphics designing, database
   creation, etc.
-categories: volunteering
+categories: sideprojects
 date: '2022-06-05'
 slug: mech-community
 thumb_img_path: images/mechfisat.jpg
