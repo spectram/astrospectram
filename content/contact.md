@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: Contact & CV
 tagline: |-
   With lives so short and dreams so mighty,
   we are humble folks rich with aspirations
@@ -80,6 +80,22 @@ layout: contact
   </tr>
 </table>
 
+##### Publications record
+
+[ADS search result page](https://ui.adsabs.harvard.edu/search/q=docs(29fedbfddfa601303a88e5815bb403a0)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+<div style="padding-bottom:20px;">
+  <div>
+    <a href=" https://orcid.org/0000-0002-7607-081X ">
+      <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+      https://orcid.org/0000-0002-7607-081X 
+    </a>
+  </div>
+</div>
+
+##### [Download my latest CV as a PDF (updated on 4 Nov 2023)](/ssankar_Nov2023_cv.pdf)
+
+# Get In Touch
+
 <p>
-You can also fill out the form below to get in touch. The form has been made with Netlify Forms, so your data will be stored in my Netlify dashboard. I am not sure if they use this data for marketing or if they sell it to any third party. I will update this text after I learn more.
+You can also fill out the form below to get in touch.
 </p>
