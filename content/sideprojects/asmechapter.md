@@ -13,7 +13,7 @@ title: ASME Student Chapter
 subtitle: We did some cool things to offset some systemic problems and had a lot
   of fun in the process. With the help of a global platform, we gained better
   exposure to engineering.
-categories: volunteering
+categories: sideprojects
 seo:
   metatitle: How we got involved in engineering through ASME activities |
     Sriram Sankar

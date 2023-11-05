@@ -64,7 +64,7 @@ Thanks to my schooling, I was introduced to programming when I was fifteen years
 
 Aside from astrophysical research, I enjoy a range of activities like: reading philosophical novels; writing poetry; creating music; binging on - anime, sci-fi shows, documentaries, etc.; outdoor activities such as gardening, hiking, stargazing, etc.; and exploring open-source codes and cool software technologies. I also spend some time thinking about and working on climate action through personal lifestyle choices and pushing for systemic changes in my immediate environment. To read about some of my past side-projects [click here]({{< ref "/sideprojects" >}}).
 
-I have filled this website with some of the poems that I have written over the years and some images from my gallery. I have also added some of the projects that I was able to bequeath life to through dedication and hard work. In other words, I am committing a small part of myself to a GitHub repository. If you want to **Astro-know-me!** [click here]({{< ref "/thoughts" >}}).
+I have filled this website with some of the poems that I have written over the years and some images from my gallery. I have also added some of the projects that I was able to bequeath life to through dedication and hard work. In other words, I am committing a small part of myself to a GitHub repository. If you want to **Astro-know-me!** [click here]({{< ref "/poetry" >}}).
 
 > Thoughts think me, thought I   
 But I am but a thought  

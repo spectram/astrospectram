@@ -8,7 +8,7 @@
 
       <div class="post-feed, page-feed">
         <article class="archive-feed">
-            {{ $posts := (.Site.GetPage "section" "/thoughts").Pages }}
+            {{ $posts := (.Site.GetPage "section" "/poetry").Pages }}
             {{ $posts_count := $posts | len }}
             {{ if gt $posts_count 0 }}
             {{ $posts_sorted := $posts.ByDate.Reverse }}

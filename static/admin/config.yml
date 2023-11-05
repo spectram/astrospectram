@@ -12,15 +12,15 @@ site_url: https://sriramsankar.netlify.app
 logo_url: https://sriramsankar.netlify.app/static/images/srs-logo-black.svg
 
 collections:
-  - name: "thoughts"
-    label: "thoughts"
+  - name: "poetry"
+    label: "poetry"
     slug: "{{slug}}" #This slug variable is different from that of preview_path
     preview_path: "blog/{{year}}/{{month}}/{{slug}}"
-    folder: "content/thoughts"
+    folder: "content/poetry"
     identifier_field: title
     create: true
     extension: md
-    file: "content/thoughts/.md"
+    file: "content/poetry/.md"
     format: frontmatter
     fields:
       - { label: "Title", name: "title", widget: "string" }

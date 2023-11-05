@@ -1,5 +1,5 @@
 ---
-title: Thoughts
+title: Poetry
 img_path: images/thoughts-bg.jpg
 subtitle: Walk into the forest of thoughts, take all that you can carry into the realm of man
 has_more_link: true
@@ -9,14 +9,14 @@ tagline: |-
   take all that you can carry 
   into the realm of man  
 seo:
-  metatitle: Thoughts | Sriram Sankar
+  metatitle: Poetry | Sriram Sankar
   description: Walk into the forest of thoughts, take all that you can carry into the realm of man
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Thoughts
+      value: Poetry | Sriram Sankar
       keyName: property
     - name: 'og:description'
       value: Walk into the forest of thoughts, take all that you can carry into the realm of man
@@ -28,9 +28,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Sriram's thoughts
+      value: Poetry by Sriram
     - name: 'twitter:description'
-      value: Sriram's thoughts
+      value: Poetry by Sriram
     - name: 'twitter:image'
       value: images/thoughts-bg.jpg
       relativeUrl: true
