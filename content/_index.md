@@ -50,7 +50,7 @@ My MSc. dissertation supervised by Dr. Moses Mogotsi and Prof. Matthew A. Bersha
 
 <div>
   <p class="read-more">
-    <a class="read-more-link" href="{{< ref /msc_thesis >}}">Click to read my MSc. thesis abstract<span class="icon-arrow-right" aria-hidden="true"></span></a>
+    <a class="read-more-link" href="/msc_thesis">Click to read my MSc. thesis abstract<span class="icon-arrow-right" aria-hidden="true"></span></a>
   </p>
 </div>
 
