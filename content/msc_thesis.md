@@ -60,6 +60,8 @@ In J1403-06, using kinematic arguments to infer the motion of anomalous gas in t
 |:--:|:--:|
 |*Plots showing the kinematics of the different components in HIPASS J1403-06:S2*|*Plots showing the kinematics of the different components in HIPASS J1403-06:S1*|
 
+---
+
 My thesis begins with the following poem that I wrote after getting inspired by something Curt Struck wrote in his 2006 review article. Every scientific work builds on the works of those from the years before.
  
 > quiet revolutions in my mind  

@@ -512,9 +512,29 @@ img {
   padding-right: 20px; /* Add padding to the right of the image when layout is reversed */
 }
 /* Optional: Add a media query to adjust layout for smaller screens */
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   .flex-container {
       flex-direction: column;
+  }
+
+  .flex-container .text {
+    padding: 10px; /* Add padding to the left of the text when layout is reversed */
+  }
+  
+  .flex-container .image {
+    padding: 10px; /* Add padding to the right of the image when layout is reversed */
+  }
+
+  .flex-container.reverse {
+      flex-direction: column;
+  }
+
+  .flex-container.reverse .text {
+    padding: 10px; /* Add padding to the left of the text when layout is reversed */
+  }
+  
+  .flex-container.reverse .image {
+    padding: 10px; /* Add padding to the right of the image when layout is reversed */
   }
 
   .content {
