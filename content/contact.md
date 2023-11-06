@@ -80,6 +80,9 @@ layout: contact
   </tr>
 </table>
 
+---
+##### [Download my latest CV as a PDF (updated on 4 Nov 2023)](/ssankar_Nov2023_cv.pdf)
+
 ##### Publications record
 
 [ADS search result page](https://ui.adsabs.harvard.edu/search/q=docs(29fedbfddfa601303a88e5815bb403a0)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
@@ -92,7 +95,7 @@ layout: contact
   </div>
 </div>
 
-##### [Download my latest CV as a PDF (updated on 4 Nov 2023)](/ssankar_Nov2023_cv.pdf)
+--- 
 
 # Get In Touch
 
