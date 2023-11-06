@@ -48,9 +48,11 @@ I recently took up a visiting project to collaborate with [Dr. Jonathan Stern](h
 
 My MSc. dissertation supervised by Dr. Moses Mogotsi and Prof. Matthew A. Bershady, is titled "**Kinematics of neutral hydrogen in interacting galaxies in two groups from the MeerChoirs survey**". For this, I reduced interferometric data and analyzed the kinematics of the neutral hydrogen emission in two low-mass, late-type dominated groups featuring varying levels of interactions. Luckily, I got to work with what is **currently the most sensitive radio telescope for observing neutral hydrogen in the local universe**, [**MeerKAT**](https://en.wikipedia.org/wiki/MeerKAT), an [**SKA-mid**](https://www.skao.int/en/explore/telescopes/ska-mid) precursor. The manuscripts from this work are currently under preparation but you can read a summary and see some cool visualizations [here]({{< ref "/msc_thesis" >}}).
 
-<p class="read-more">
-  <a class="read-more-link" href="{{< ref /msc_thesis >}}">Click to read my MSc. thesis abstract<span class="icon-arrow-right" aria-hidden="true"></span></a>
-</p>
+<div>
+  <p class="read-more">
+    <a class="read-more-link" href="{{< ref /msc_thesis >}}">Click to read my MSc. thesis abstract<span class="icon-arrow-right" aria-hidden="true"></span></a>
+  </p>
+</div>
 
 I am currently leading **MeerRings, a MeerKAT campaign**, to carry out a census of the neutral hydrogen and L-band continuum of a sample of seven Collisional Ring Galaxies (CRGs). This project is in its preliminary stages and we are discussing the timeline for the first paper exploring the properties of a well-known CRG. I am currently reducing the HI data for this source. To read more about this project [click here]({{< ref "/meerrings" >}}).
 
