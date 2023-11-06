@@ -80,8 +80,9 @@ layout: contact
   </tr>
 </table>
 
----
 ##### [Download my latest CV as a PDF (updated on 4 Nov 2023)](/ssankar_Nov2023_cv.pdf)
+
+---
 
 ##### Publications record
 
