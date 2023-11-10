@@ -7,7 +7,7 @@ has_more_link: true
 more_link_text: Find out more
 img_path: images/home-bg.jpg
 seo:
-  metatitle: Sriram Sankar | Astrophysicist
+  metatitle: Astro-know-me | Sriram Sankar
   description: |-
     Astrophysics student who writes poetry and takes on way too many projects. 
   extra:
@@ -15,7 +15,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About | Sriram Sankar
+      value: Astro-know-me | Sriram Sankar
       keyName: property
     - name: 'og:description'
       value: Astrophysics student who writes poetry and takes on way too many projects. 
@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About | Sriram Sankar
+      value: Astro-know-me | Sriram Sankar
     - name: 'twitter:description'
       value: Astrophysics student who writes poetry and takes on way too many projects. 
     - name: 'twitter:image'
@@ -36,9 +36,9 @@ seo:
 layout: page
 ---
 
-I am an MSc. graduate from the [Department of Astronomy, University of Cape Town (UCT)](https://science.uct.ac.za/department-astronomy) and the recipient of the [SALT-SAAO Prize MSc Scholarship](https://www.saao.ac.za/salt-saao-prize-scholarship/) in 2021 conferred by the [South African Astronomical Observatory (SAAO)](https://www.saao.ac.za/). I study the link between galaxies and multiphase gas across various environments ranging from the dense Inter-Stellar Medium to the diffuse cluster outskirts using radio interferometry (HI emission) and UV/Optical QSO absorption line spectroscopy. Recently, I have also ventured into idealized hydrodynamic simulations.
+I am an MSc. graduate from the [Department of Astronomy, University of Cape Town (UCT)](https://science.uct.ac.za/department-astronomy) and the recipient of the [SALT-SAAO Prize MSc Scholarship](https://www.saao.ac.za/salt-saao-prize-scholarship/) in 2021 conferred by the [South African Astronomical Observatory (SAAO)](https://www.saao.ac.za/). I study the link between galaxies and multiphase gas across environments ranging from the dense Inter-Stellar Medium to the diffuse cluster outskirts using radio interferometry (HI emission) and UV/Optical QSO absorption line spectroscopy. Recently, I have also ventured into idealized hydrodynamic simulations.
 
-Briefly, disc galaxies such as the Milky Way are embedded in spherical gaseous mediums and they require a constant supply of gas to sustain forming stars. The surrounding medium comprises mostly hot but also cold gas. The existence of cold clouds in the medium has raised many intriguing questions. The cold clouds could either be gas falling into the stellar disc or gas removed at earlier times. The origin of a gas cloud can be deduced from its chemical signatures, kinematics, location, etc. and numerous theories have been postulated for the existence of these clouds. However, due to observational, theoretical, and computational challenges, we do not yet fully understand **how galaxies obtain cold gas** and **how galaxies lose cold gas**. To answer these and deeper questions therein, we must compare multi-wavelength, multi-epoch, and multi-technique observations with various theoretical models and simulations of multi-phase gas in and around diverse sets of galaxies. Over the past couple of years, I have delved into multiple wavelengths, observational techniques, as well as idealized hydrodynamic simulations to study the crucial role of gas in shaping galaxies. **I am currently looking for Ph.D. opportunities in related research areas.**
+Briefly, disc galaxies such as the Milky Way are embedded in spherical gaseous mediums and they require a constant supply of gas to sustain forming stars. The surrounding medium comprises mostly hot but also cold gas. The existence of cold clouds in the medium has raised many intriguing questions. These clouds could either be gas falling into the stellar disc or gas removed at earlier times and their origin can be investigated by studying the chemical signatures, kinematics, environment, etc. Subsequently, numerous theories have been postulated for the existence of these clouds. However, due to observational, theoretical, and computational challenges, we do not yet fully understand **gas flows in and around galaxies**. To answer these and deeper questions therein, we must compare multi-wavelength, multi-epoch, and multi-technique observations with various theoretical models and simulations of multi-phase gas in and around diverse sets of galaxies. Over the past couple of years, I have delved into multiple wavelengths, observational techniques, as well as idealized hydrodynamic simulations to study the connection between galaxies and multi-phase gas across various environments. **I am currently looking for Ph.D. opportunities in related research areas.**
 <div>
   <p class="read-more">
     <a class="read-more-link" href="/contact">Click here to check out my publications list and CV<span class="icon-arrow-right" aria-hidden="true"></span></a>
@@ -50,7 +50,7 @@ Briefly, disc galaxies such as the Milky Way are embedded in spherical gaseous m
 
 ### Brief research trajectory
 
-I recently took up a visiting project to collaborate with [Dr. Jonathan Stern](https://www.sternjon.sites.tau.ac.il/) to explore a **new framework for the formation of warps and extraplanar gas**. Here, I employ analytic calculations, idealized hydrodynamic simulations, and comparisons with observations to study the **consequence of misaligned cooling flows in the circumgalactic medium**. A part of this work involves creating projected mock 3D HI cubes (ppv) from simulated 6D snapshots (pppvvv). This work is still ongoing and the manuscript is in its early stages.
+I recently took up a visiting project to collaborate with [Dr. Jonathan Stern](https://www.sternjon.sites.tau.ac.il/) to explore a **new framework for the formation of warps and extraplanar gas**. Here, I employ analytic calculations, idealized hydrodynamic simulations, and comparisons with observations to study the **consequence of misaligned cooling flows in the circumgalactic medium**. A part of this work involves creating projected mock 3D HI cubes (ppv) from simulated 6D snapshots (pppvvv). This work is ongoing and the manuscript is in its preliminary stages.
 <div>
   <p class="read-more">
     <a class="read-more-link" href="/research">Click here to read more about this work<span class="icon-arrow-right" aria-hidden="true"></span></a>
@@ -66,7 +66,7 @@ My MSc. dissertation supervised by Dr. Moses Mogotsi and Prof. Matthew A. Bersha
 </div>
  <!-- but you can read a summary and see some cool visualizations [here]({{< ref "/msc_thesis" >}}). -->
 
-I am currently leading **MeerRings, a MeerKAT campaign**, to carry out a census of the neutral hydrogen and L-band continuum of a sample of seven Collisional Ring Galaxies (CRGs). This project is in its preliminary stages and we are discussing the timeline for the first paper exploring the properties of a well-known CRG. I am currently reducing the HI data for this source.
+I am currently leading **MeerRings, a MeerKAT campaign**, to carry out the first resolved, deep, and systematic census of the neutral hydrogen and L-band continuum in a sample of eight Collisional Ring Galaxies (CRGs). It will also be the first systematic investigation of anomalous gas resulting from a well-known class of interactions. This campaign is in its nascency and the observations are ongoing.
 <div>
   <p class="read-more">
     <a class="read-more-link" href="/meerrings">Click here to read more about MeerRings<span class="icon-arrow-right" aria-hidden="true"></span></a>
@@ -74,7 +74,7 @@ I am currently leading **MeerRings, a MeerKAT campaign**, to carry out a census 
 </div>
 <!-- To read more about this project [click here]({{< ref "/meerrings" >}}). -->
 
-Prior to my MSc., I worked with [Prof. Anand Narayanan](https://www.iist.ac.in/ess/anand) at the Indian Institute of Space Science and Technology (IIST, Kerala, India) to study the small-scale physical and chemical properties of multi-phase gas in the extended environments around galaxies. Employing **UV/optical QSO absorption line spectroscopy** with archival data from the **Hubble Space Telescope** and **Keck Observatory**, this collaboration yielded three journal articles amidst the COVID-19 pandemic ([Pradeep, Sankar, et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493..250P/abstract), [Sankar et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.4864S/abstract), [Sameer et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.5796S/abstract)).
+In my work with [Prof. Anand Narayanan](https://www.iist.ac.in/ess/anand) at the Indian Institute of Space Science and Technology (IIST, Kerala, India), I employed **UV/optical QSO absorption line spectroscopy** with archival data from the **Hubble Space Telescope** and **Keck Observatory** to study the small-scale physical and chemical properties of multi-phase gas in the extended environments around galaxies. This collaboration yielded three journal articles amidst the COVID-19 pandemic ([Pradeep, Sankar, et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493..250P/abstract), [Sankar et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.498.4864S/abstract), [Sameer et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.5796S/abstract)).
 <div>
   <p class="read-more">
     <a class="read-more-link" href="/research">Click here to read more about these works<span class="icon-arrow-right" aria-hidden="true"></span></a>
