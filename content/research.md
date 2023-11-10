@@ -1,7 +1,7 @@
 ---
 title: Research Overview
 subtitle: >-
-  I employ multi-wavelength, multi-technique spectroscopic observations and idealized hydrodynamic simulations to study the crucial role of multi-phase gas in shaping galaxies.
+  I employ multi-wavelength, multi-technique spectroscopic observations, kinematic modeling, and hydrodynamic simulations to study the connection between galaxies and multi-phase gas across various environments.
 img_path: images/research-bg.jpg
 tagline: Hoping to add a page to Humanity's book of the Cosmos
 seo:
@@ -38,9 +38,9 @@ math: true
 
 ### The main questions of my work thus far are broadly:
 
-1. How do galaxies get gas? - Accretion, extraplanar gas, and disc-halo interface.
+1. How do galaxies get gas? - Accretion modes, extraplanar gas, and disc-halo interface
 2. How do interactions shape galaxies? - Neutral gas kinematics and galaxy dynamics in groups
-3. What are the small-scale properties of multi-phase gas across environments?
+3. What are the small-scale properties of multi-phase gas across environments? - QSO absorption line spectroscopy
 
 The link between these topics can be explored through the baryon cycle.
 
@@ -68,7 +68,7 @@ For example,
 
 <div class="flex-container">
     <div class="text">
-        <p>The neutral hydrogen (HI) in galaxies often extends to several times the radii and vertical scale height of the optical disc. HI thus holds the potential to trace accretion, interactions, and environmental effects. The extended gas distribution is far from a differentially rotating axisymmetric disc in hydrostatic equilibrium. The outer HI discs of spiral galaxies are known to be warped but the drivers and timescales of these warps are yet to be established. The gas above the disc known as Extralplanar gas (EPG) exhibits radial motions, vertical motions, and lagging rotation. The EPG can offer clues about accretion histories in the disc-halo interface but its origin is yet to be established. It has been shown that a fraction of the EPG originates from galactic fountains and the halo (see <a href="https://ui.adsabs.harvard.edu/abs/2017ASSL..430..323F/abstract">Fraternali et al. 2017</a> for a detailed discussion). Another fraction of the EPG is expected to have extragalactic origins such as interactions and accretion from the IGM. But detections of cold flow streams from the IGM still elude us. Recently, <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230600092S/abstract">Stern et al. 2023</a>, showed that hot accretion flows in the CGM flatten onto a disc geometry and cool to $10^4$ K at the disc-halo interface. I am working with Jonathan to explore the formation of warps and EPG under this framework. I employ analytic calculations, idealized hydrodynamic simulations, and comparisons with observations to study the <b>consequence of misaligned cooling flows in the circumgalactic medium</b>.</p>
+        <p>The 21cm neutral hydrogen emission (HI) in galaxies often extends to several times the radii and vertical scale height of the optical disc. HI thus holds the potential to trace accretion, interactions, and environmental effects. The extended gas distribution is far from a differentially rotating axisymmetric disc in hydrostatic equilibrium. The outer HI discs of spiral galaxies are known to be warped but the drivers and timescales of these warps are yet to be established. The gas above the disc known as Extraplanar gas (EPG) exhibits radial motions, vertical motions, and lagging rotation. The EPG can offer clues about accretion histories in the disc-halo interface but its origin is yet to be established. It has been shown that a fraction of the EPG originates from galactic fountains and the halo (see <a href="https://ui.adsabs.harvard.edu/abs/2017ASSL..430..323F/abstract">Fraternali et al. 2017</a> for a detailed discussion). Another fraction of the EPG is expected to have extragalactic origins such as interactions and accretion from the IGM. But detections of cold flow streams from the IGM still elude us and theoretically, it has been shown that cold gas evaporates before reaching the disc (e.g. <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.2351A/abstract">Afruni et al. 2023</a>). Recently, <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230600092S/abstract">Stern et al. 2023</a>, showed that hot accretion flows in the CGM flatten onto a disc geometry and cool to $10^4$ K at the disc-halo interface. I am working with Jonathan to explore the formation of warps and EPG under this framework. I employ analytic calculations, idealized hydrodynamic simulations, and comparisons with observations to study the <b>consequence of misaligned cooling flows in the circumgalactic medium</b>.</p>
     </div>
     <div class="image">
         <img src="/images/sci/misaligned_acc_example.png" alt="A projection of a snapshot showing misaligned cooling flows producing HI warps.">
@@ -82,7 +82,7 @@ For example,
 #### Neutral gas kinematics and galaxy dynamics in groups
 ***with Moses Mogotsi (SAAO), Matthew Bershady (UW-Madison), MeerChoirs collaboration, MeerRings collaboration***
 
-Encounters between galaxies can take the form of collisions, fly-bys, or mergers, with varying geometries between galaxies of different shapes and sizes. The outcomes of these interactions are determined by the encounter geometry, gas fractions, and masses of the galaxies involved. All of these factors can depend on the environment. HI offers the potential to study unique morphologies and gas flows generated by the interactions, as well as the evolutionary trajectory of mergers, the impact of the environment, and the dynamics of the interactions. 
+Encounters between galaxies can take the form of collisions, fly-bys, or mergers, with varying geometries between galaxies of different shapes and sizes. The outcomes of these interactions are determined by the encounter geometry, gas fractions, and masses of the galaxies involved. All of these factors can depend on the environment. HI offers the potential to study unique morphologies and gas flows generated by the interactions, as well as galaxy dynamics, encounter timescales, and the impact of the environment. 
 
 ##### MeerChoirs
 *PI: Moses Mogotsi, 2020 & 2022 Open Time accepted project*
@@ -98,7 +98,7 @@ The MeerKAT campaign aims to study the impact of the group environment on galaxy
 ##### MeerRings
 *PI: Sriram Sankar, 2023 Open Time accepted project*
 
-Collisional Ring Galaxies (CRGs) are an intriguing class of galaxies that are the results of the passage of an intruder galaxy through the disc of a target galaxy. Star formation in CRGs has been explored previously but the neutral gas has been studied only in a small subset of these rare sources. MeerRings aims to exploit the capabilities of MeerKAT to perform the first resolved, deep, and systematic census of the neutral gas in a considerable sample of CRGs. MeerKAT's high sensitivity will enable the detection of HI expelled to the environment and the extended HI discs of the galaxies. This program also represents the first systematic investigation of anomalous gas resulting from a well-known class of interactions. The versatility of HI in tracing various gravitational and hydrodynamical processes operating at different scales, along with MeerKAT's capabilities and the unique set of processes affecting CRGs, allows us to investigate several important physical phenomena in galaxy evolution. This campaign is still in its nascency. I am currently working on reducing the HI dataset for a well-known CRG.
+Collisional Ring Galaxies (CRGs) are an intriguing class of galaxies that are the results of the passage of an intruder galaxy through the disc of a target galaxy. Star formation in CRGs has been explored previously but the neutral gas has been studied only in a small subset of these rare sources. MeerRings aims to exploit the capabilities of MeerKAT to perform the first resolved, deep, and systematic census of the neutral gas in a considerable sample of CRGs. MeerKAT's high sensitivity will enable the detection of HI expelled to the environment and the extended HI discs of the galaxies. This program also represents the first systematic investigation of anomalous gas resulting from a well-known class of interactions. The versatility of HI in tracing various gravitational and hydrodynamical processes operating at different scales, along with MeerKAT's capabilities and the unique set of processes affecting CRGs, allows us to investigate several important physical phenomena in galaxy evolution. We will also study the continuum and polarisation images to extract information about star formation and magnetic field. This campaign is in its nascency and the observations are ongoing. We are currently discussing the timeline for the first paper exploring the properties of a well-known CRG. I am reducing the HI data for this source.
 <!-- You can learn more about this project [here]({{< ref "/meerrings" >}}). -->
 <div>
   <p class="read-more">
