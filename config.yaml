@@ -1,5 +1,5 @@
 title: Sriram Sankar
-baseURL: /
+baseURL: https://sriramsankar.in/
 taxonomies:
   category: "categories"
   tag: "tags"
@@ -28,3 +28,8 @@ related:
     weight: 100
   - name: date
     weight: 10
+sitemap:
+  changeFreq: ""
+  filename: sitemap.xml
+  priority: -1
+enableRobotsTXT: true

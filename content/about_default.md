@@ -2,6 +2,7 @@
 title: About Me
 subtitle: This is a short page about me and my work
 img_path: images/about.jpg
+sitemap_ignore: true
 seo:
   metatitle: About Me
   description: A page about me and my work
