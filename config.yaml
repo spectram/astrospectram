@@ -28,3 +28,7 @@ related:
     weight: 100
   - name: date
     weight: 10
+sitemap:
+  changeFreq: ""
+  filename: sitemap.xml
+  priority: -1
