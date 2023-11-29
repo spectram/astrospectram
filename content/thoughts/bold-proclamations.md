@@ -36,6 +36,7 @@ seo:
 layout: post
 socialshare: true
 ---
+
 Life has progressed a lot    
 But it has taken a rather unconventional path    
 So it is difficult for me to say   
