@@ -3,7 +3,7 @@ title: Leaves and butterflies
 excerpt: >-
   Leaves fluttering in the wind. Ephemeral butterflies living their dreams ...
 date: '2023-10-13'
-thumb_img_path: images/leaves_and_butterflies.gif
+thumb_img_path: images/leaves_butterflies.jpg
 thumb_img_alt: Pictures taken from different photographers on Unsplash
 content_img_path: images/leaves_and_butterflies.gif
 categories: poetry
@@ -37,23 +37,23 @@ layout: post
 socialshare: true
 ---
 
-Leaves fluttering in the wind
-Ephemeral butterflies living their dreams
-Wings flailing yet tethered to the ground 
-Rising ever so slightly, distant from soil to sky 
+Leaves fluttering in the wind   
+Ephemeral butterflies living their dreams   
+Wings flailing yet tethered to the ground   
+Rising ever so slightly, distant from soil to sky   
 
-On windless days, 
-Life's breath held, in silence
-In hiatuses from the struggle 
-Mustering strength for the final fight 
+On windless days,    
+Life's breath held, in silence   
+In hiatuses from the struggle     
+Mustering strength for the final fight    
 
-Indifferent to the plight 
-It is finally time to take flight 
-Untethered, leaves journey to the ground 
-Wondering, if they could ever have been butterflies 
+Indifferent to the plight    
+It is finally time to take flight    
+Untethered, leaves journey to the ground    
+Wondering, if they could ever have been butterflies    
 
-Like sandcastles crumbled by waves 
-Delusions of grandeur and fate 
-With each falling leaf carried by the wind 
-Dreams and possibilities fade into echoes 
-Wondering, if they could ever have been real.   
+Like sandcastles crumbled by waves    
+Delusions of grandeur and fate    
+With each falling leaf carried by the wind    
+Dreams and possibilities fade into echoes    
+Wondering, if they could ever have been real.     
