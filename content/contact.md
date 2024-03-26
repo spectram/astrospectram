@@ -63,20 +63,20 @@ layout: contact
 
 <table>
   <tr>
-    <th>South African Astronomical Observatory (SAAO)</th>
-    <th>Dept of Astronomy, University of Cape Town (UCT)</th>
+    <th>International Centre for Radio Astronomy Research (ICRAR)</th>
+    <th>ARC Centre of Excellence for All Sky Astrophysics in 3 Dimensions (ASTRO 3D)</th>
   </tr>
   <tr>
-    <td>SALT-SAAO Prize Fellow 2021-23</td>
-    <td>Research MSc Student 2021-23</td>
+    <td>The University of Western Australia (UWA),</td>
+    <td> - </td>
   </tr>
   <tr>
-    <td>Observatory, Cape Town, South Africa</td>
-    <td>Rondebosch, Cape Town, South Africa</td>
+    <td>Crawley, WA 6009, Australia</td>
+    <td>Australia</td>
   </tr>
   <tr>
-    <td>sriram (at) saao.ac.za</td>
-    <td>sriram10sankar (at) gmail.com</td>   
+    <td>sriram.sankar (at) icrar.org</td>
+    <td>sriram.sankar (at) research.uwa.edu.au</td>   
   </tr>
 </table>
 

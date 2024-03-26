@@ -75,6 +75,7 @@ Collisional Ring Galaxies (CRGs) are an intriguing class of galaxies that are th
 + Florent Renaud, CNRS / Strasbourg Observatory, France
 + Ivy Wong, CSIRO, Australia
 + Lennart Heino, UCT/iDiA, South Africa
++ Srikrishna Sekhar, NRAO, USA
 + Matthew Bershady, UW-Madison, United States
 + Petri Vaisanen, SAAO, South Africa
 + Sabyasachi Chattopadhyay, SAAO/SALT
