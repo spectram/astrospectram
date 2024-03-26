@@ -83,9 +83,9 @@ In my work with [Prof. Anand Narayanan](https://www.iist.ac.in/ess/anand) at the
 </div>
 <!-- You can read more about these works [here]({{< ref "/research" >}}). -->
 
+<!--
 ---
-
-<!-- ### Brief technical experience
+### Brief technical experience
 
 Thanks to my schooling, I was introduced to programming when I was fifteen years old. Object-oriented programming, `C++`, and `SQL` were part of my high school curriculum and I had some wonderful teachers who taught me several algorithms on a blackboard. I had a course on `C` in my engineering undergrad and I picked up `IDL/GDL`, `Python`, and some basic `bash` during my time at IIST. At SAAO and since, I further advanced my `Python` programming skills through writing code in a high-performance computation context. I have employed numerous features such as virtual environments, array manipulations, list/dictionary comprehension, classes, parallel processing, packaging, and even a bit of JIT. My experience utilizing [ilifu](https://www.ilifu.ac.za/), to reduce and analyze high-volume interferometric data allowed me to pick up containerization, optimal resource utilization, git version control, etc. At SAAO, as part of the analysis pipeline that I developed, I wrote a program to perform physically motivated component identification and separation on 3D spectral cubes. I also created a visualization pipeline that produced several informational plots that supplemented my analysis. At TAU, I learned how to run numerical simulations using `Gizmo` on [AWS-EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html). I further learned to analyze and visualize multidimensional simulated datasets and to generate mock 3D HI cubes from 6D simulated snapshots. Using the technical skills and open-science best practices that I have picked up over the years, I have developed efficient workflows that bolster my productivity. I am extremely grateful for the amazing packages developed by the scientific and open-source community that have allowed me to develop these powerful workflows for my research. I am committed to the open-source principles and am currently contributing to multiple astronomy projects such as `baygaud-PI`, and `yt_astro_analysis`. In the near future, I hope to extend some of my current workflows into packages for the community.   -->
 
