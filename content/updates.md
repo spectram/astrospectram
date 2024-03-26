@@ -15,6 +15,10 @@ seo:
 img_path: images/updates-bg.jpg
 layout: page
 ---
+#### 2024
+
+##### **22 Feb 2024**: Moved to Perth and joined ICRAR/UWA as an ASTRO3D PhD Student.
+
 #### 2023
 
 ##### **11 Sep 2023**: MeerKAT open-time proposal MeerRings gets allocated 50 hours.
