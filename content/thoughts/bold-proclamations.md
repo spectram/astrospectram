@@ -38,9 +38,9 @@ socialshare: true
 ---
 
 Life has progressed a lot    
-But it has taken a rather unconventional path    
-So it is difficult for me to say   
-if I've moved at all.    
+But through a rather unconventional path    
+So it is difficult to say   
+If I've moved at all   
 
 In this stillness,    
 as I wander aimlessly,    

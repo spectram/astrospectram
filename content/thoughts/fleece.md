@@ -38,7 +38,7 @@ socialshare: true
 ---
 The world's happiest man  
 The world's saddest of men  
-Depression was his only friend   
+Depression, his only friend   
 and then there was the li’l girl who cried   
 He offered her his soul   
 A piece of the torn scroll   
