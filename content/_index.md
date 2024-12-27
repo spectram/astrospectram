@@ -111,7 +111,7 @@ I have filled this website with some of the poems that I have written over the y
 <!-- If you want to **Astro-know-me!** [click here]({{< ref "/thoughts" >}}). -->
 
 > Thoughts think me, thought I   
-But I am but a thought  
+But, I am but a thought  
 A hundred I exist  
 In a hundred minds, I fit  
 Zillion impressions persist  
@@ -119,7 +119,8 @@ The hundred I coexist
 Sometimes thoughts desist  
 But I never resist  
 For a hundred I exist  
-None of which is me   
+None of which is me
+Yet, all of which is me   
 
 <!---
 I started with a Stackbit v1 theme but heavily modified it for my purpose (stackbit v2 platform is looking great, I highly recommend it).
