@@ -39,16 +39,16 @@ socialshare: true
 
 Leaves fluttering in the wind   
 Ephemeral butterflies living their dreams   
-Wings flailing yet tethered to the ground   
+Wings flailing, yet tethered to the ground   
 Rising ever so slightly, distant from soil to sky   
 
 On windless days,    
 Life's breath held, in silence   
-In hiatuses from the struggle     
+Hiatuses from the struggle     
 Mustering strength for the final fight    
 
 Indifferent to the plight    
-It is finally time to take flight    
+It's finally time to take flight    
 Untethered, leaves journey to the ground    
 Wondering, if they could ever have been butterflies    
 

@@ -1,7 +1,7 @@
 ---
 title: Research Overview
 subtitle: >-
-  I employ multi-wavelength, multi-technique spectroscopic observations, kinematic modeling, and hydrodynamic simulations to study the connection between galaxies and multi-phase gas across various environments.
+  I employ multi-wavelength, multi-technique spectroscopic observations, kinematic modeling, and hydrodynamic simulations to study the connection between galaxy disks and multi-phase gas across environments.
 img_path: images/research-bg.jpg
 tagline: Hoping to add a page to Humanity's book of the Cosmos
 seo:
